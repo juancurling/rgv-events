@@ -256,13 +256,13 @@ document.getElementById("submitForm").addEventListener("submit",async ev=>{
   fd.append("_captcha","false");
   btn.disabled=true; msg.textContent="Sending…"; msg.className="msg";
   try{
-    const r=await fetch("https://formsubmit.co/ajax/juan@yourfrontline.com",{method:"POST",body:fd});
+    const r=await fetch("https://formsubmit.co/ajax/68159adfe2f42b208578e2f830ef2f81",{method:"POST",body:fd});
     const j=await r.json();
     if(j.success==="true"||j.success===true){
       msg.textContent="🎉 Got it! We'll review and post it — usually within a day."; msg.className="msg ok"; f.reset();
     }else{throw new Error();}
   }catch(e){
-    msg.innerHTML='Hmm, that didn\'t go through. Email it to us instead: <a href="mailto:juan@yourfrontline.com?subject=Events956 event submission">juan@yourfrontline.com</a>';
+    msg.textContent="Hmm, that didn't go through — please try again in a minute.";
     msg.className="msg err";
   }
   btn.disabled=false;
