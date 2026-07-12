@@ -772,6 +772,15 @@
       "url": "https://www.juandiegoacademy.org/",
       "priority": 3,
       "notes": "Static calendar page; FB most active. Athletics on MaxPreps."
+    },
+    {
+      "id": "mca-alamo",
+      "name": "Macedonian Christian Academy (Alamo)",
+      "type": "private-school",
+      "method": "page",
+      "url": "https://gala.mcalions.com/",
+      "priority": 2,
+      "notes": "User-submitted org (2026-07-12). Annual MCA Gala (April, 3 shows) at 135 State HWY 495, Alamo — site still shows April 2026 dates; watch for the 2027 announcement. Sponsorships offered. Recurring-event watch."
     }
   ]
 }

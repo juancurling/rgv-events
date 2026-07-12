@@ -248,13 +248,25 @@ document.getElementById("submitForm").addEventListener("submit",async ev=>{
   ev.preventDefault();
   const f=ev.target, msg=document.getElementById("submitMsg"), btn=f.querySelector(".send");
   const fd=new FormData(f);
-  if(!fd.get("event_link") && !(fd.get("flyer")&&fd.get("flyer").name) && !fd.get("event_details").trim()){
+  const hasFile=fd.get("flyer")&&fd.get("flyer").name;
+  if(!fd.get("event_link") && !hasFile && !fd.get("event_details").trim()){
     msg.textContent="Please add a link, a flyer, or some details."; msg.className="msg err"; return;
+  }
+  btn.disabled=true; msg.textContent="Sending…"; msg.className="msg";
+  if(hasFile){
+    // FormSubmit's AJAX endpoint drops attachments — use the classic POST flow for files.
+    const hidden={_subject:"Events956 event submission",_template:"table",_captcha:"false",_next:"https://events956.com/?submitted=1"};
+    for(const[k,v]of Object.entries(hidden)){
+      const i=document.createElement("input");i.type="hidden";i.name=k;i.value=v;f.appendChild(i);
+    }
+    f.action="https://formsubmit.co/68159adfe2f42b208578e2f830ef2f81";
+    f.method="POST";f.enctype="multipart/form-data";
+    f.submit();
+    return;
   }
   fd.append("_subject","Events956 event submission");
   fd.append("_template","table");
   fd.append("_captcha","false");
-  btn.disabled=true; msg.textContent="Sending…"; msg.className="msg";
   try{
     const r=await fetch("https://formsubmit.co/ajax/68159adfe2f42b208578e2f830ef2f81",{method:"POST",body:fd});
     const j=await r.json();
@@ -267,6 +279,14 @@ document.getElementById("submitForm").addEventListener("submit",async ev=>{
   }
   btn.disabled=false;
 });
+// Returning from a file-upload submission
+if(new URLSearchParams(location.search).get("submitted")==="1"){
+  history.replaceState(null,"","/");
+  const m=document.getElementById("submitModal");
+  m.classList.add("open");
+  document.getElementById("submitMsg").textContent="🎉 Got it — flyer received! We'll review and post it, usually within a day.";
+  document.getElementById("submitMsg").className="msg ok";
+}
 
 // 7-day weather banner (Open-Meteo, no key). Follows the city filter; RGV-wide
 // (McAllen-centered) when no city is selected. Fails silently.
