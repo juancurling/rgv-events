@@ -176,7 +176,7 @@ function card(e){
       ${e.price?`<span class="tag">${esc(e.price)}</span>`:""}
       ${e.sponsorship?`<span class="tag sp">★ Sponsorships available</span>`:""}
     </div>
-    ${e.url?`<a class="cta" href="${escAttr(e.url)}" target="_blank" rel="noopener">Details →</a>`:""}
+    ${e.id?`<a class="cta" href="event/${escAttr(e.id)}/">Details →</a>`:(e.url?`<a class="cta" href="${escAttr(e.url)}" target="_blank" rel="noopener">Details →</a>`:"")}
   `;
   return el;
 }

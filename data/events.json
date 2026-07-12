@@ -16,7 +16,15 @@
       "source": "UTRGV Events Calendar",
       "sponsorship": false,
       "verified": true,
-      "id": "alegria-utrgv-ballet-folklorico-2026-07-11"
+      "id": "alegria-utrgv-ballet-folklorico-2026-07-11",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "UTRGV Events Calendar",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Fireworks on the Beach",
@@ -33,7 +41,15 @@
       "source": "Visit South Padre Island",
       "sponsorship": false,
       "verified": true,
-      "id": "fireworks-on-the-beach-2026-07-11"
+      "id": "fireworks-on-the-beach-2026-07-11",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ],
+      "organization": "Visit South Padre Island",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "RGV Pokefest 2026",
@@ -50,7 +66,15 @@
       "source": "McAllen Next",
       "sponsorship": true,
       "verified": false,
-      "id": "rgv-pokefest-2026-2026-07-12"
+      "id": "rgv-pokefest-2026-2026-07-12",
+      "tags": [
+        "expo",
+        "mcallen"
+      ],
+      "organization": "McAllen Next",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Seussical",
@@ -67,7 +91,15 @@
       "source": "Visit Harlingen",
       "sponsorship": false,
       "verified": true,
-      "id": "seussical-2026-07-12"
+      "id": "seussical-2026-07-12",
+      "tags": [
+        "harlingen",
+        "other"
+      ],
+      "organization": "Visit Harlingen",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Ribbon Cutting: South Texas Urgent Care Micro Clinic",
@@ -84,7 +116,15 @@
       "source": "Harlingen Area Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "ribbon-cutting-south-texas-urgent-care-micro-clinic-2026-07-14"
+      "id": "ribbon-cutting-south-texas-urgent-care-micro-clinic-2026-07-14",
+      "tags": [
+        "harlingen",
+        "other"
+      ],
+      "organization": "Harlingen Area Chamber",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Ribbon Cutting: Davila's Clinic - New Location",
@@ -101,7 +141,15 @@
       "source": "Weslaco Area Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "ribbon-cutting-davila-s-clinic-new-location-2026-07-15"
+      "id": "ribbon-cutting-davila-s-clinic-new-location-2026-07-15",
+      "tags": [
+        "other",
+        "weslaco"
+      ],
+      "organization": "Weslaco Area Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Operation Chill is Back!",
@@ -118,7 +166,15 @@
       "source": "City of Mission",
       "sponsorship": false,
       "verified": true,
-      "id": "operation-chill-is-back-2026-07-15"
+      "id": "operation-chill-is-back-2026-07-15",
+      "tags": [
+        "city",
+        "mission"
+      ],
+      "organization": "City of Mission",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Grupo Frontera - Triste Pero Bien Cabron Tour (Night 1)",
@@ -135,7 +191,15 @@
       "source": "Bert Ogden Arena (via ValleyCentral coverage)",
       "sponsorship": false,
       "verified": true,
-      "id": "grupo-frontera-triste-pero-bien-cabron-tour-night-1-2026-07-16"
+      "id": "grupo-frontera-triste-pero-bien-cabron-tour-night-1-2026-07-16",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Bert Ogden Arena (via ValleyCentral coverage)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Grupo Frontera - Triste Pero Bien Cabron Tour (Night 2)",
@@ -152,7 +216,15 @@
       "source": "Bert Ogden Arena",
       "sponsorship": false,
       "verified": true,
-      "id": "grupo-frontera-triste-pero-bien-cabron-tour-night-2-2026-07-17"
+      "id": "grupo-frontera-triste-pero-bien-cabron-tour-night-2-2026-07-17",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Bert Ogden Arena",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Friday with the City | Downtown Renaissance Master Plan Update",
@@ -169,7 +241,15 @@
       "source": "Brownsville Chamber",
       "sponsorship": true,
       "verified": true,
-      "id": "friday-with-the-city-downtown-renaissance-master-plan-update-2026-07-17"
+      "id": "friday-with-the-city-downtown-renaissance-master-plan-update-2026-07-17",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Brownsville Chamber",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Part 2: High Impact Marketing Workshop",
@@ -186,7 +266,15 @@
       "source": "RGV Hispanic Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "part-2-high-impact-marketing-workshop-2026-07-17"
+      "id": "part-2-high-impact-marketing-workshop-2026-07-17",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "RGV Hispanic Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Zest for Cents Financial Literacy Bootcamp",
@@ -203,7 +291,15 @@
       "source": "Weslaco Area Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "zest-for-cents-financial-literacy-bootcamp-2026-07-17"
+      "id": "zest-for-cents-financial-literacy-bootcamp-2026-07-17",
+      "tags": [
+        "other",
+        "weslaco"
+      ],
+      "organization": "Weslaco Area Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Purple Studio Waxing - Ribbon Cutting",
@@ -220,7 +316,15 @@
       "source": "McAllen Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "purple-studio-waxing-ribbon-cutting-2026-07-17"
+      "id": "purple-studio-waxing-ribbon-cutting-2026-07-17",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "McAllen Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Leadership Graduation Class of XXXVIII",
@@ -237,7 +341,15 @@
       "source": "Harlingen Area Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "leadership-graduation-class-of-xxxviii-2026-07-17"
+      "id": "leadership-graduation-class-of-xxxviii-2026-07-17",
+      "tags": [
+        "gala",
+        "harlingen"
+      ],
+      "organization": "Harlingen Area Chamber",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "35th Annual Texas Hunters & Sportsman's Expo",
@@ -254,7 +366,15 @@
       "source": "Texas Hunter Association (official)",
       "sponsorship": true,
       "verified": true,
-      "id": "35th-annual-texas-hunters-sportsman-s-expo-2026-07-17"
+      "id": "35th-annual-texas-hunters-sportsman-s-expo-2026-07-17",
+      "tags": [
+        "expo",
+        "mcallen"
+      ],
+      "organization": "Texas Hunter Association (official)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Run Texas 5K Run & 1 Mile Fun Walk",
@@ -271,7 +391,15 @@
       "source": "Findarace",
       "sponsorship": false,
       "verified": false,
-      "id": "run-texas-5k-run-1-mile-fun-walk-2026-07-18"
+      "id": "run-texas-5k-run-1-mile-fun-walk-2026-07-18",
+      "tags": [
+        "mission",
+        "run"
+      ],
+      "organization": "Findarace",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "STHS Transform Your Life Health & Wellness Event",
@@ -288,7 +416,15 @@
       "source": "RGV Hispanic Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "sths-transform-your-life-health-wellness-event-2026-07-18"
+      "id": "sths-transform-your-life-health-wellness-event-2026-07-18",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "RGV Hispanic Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "RGV Parade of Homes 2026 - Second Weekend",
@@ -305,7 +441,15 @@
       "source": "RGV Builders Association (found via KTEX 100.1 calendar)",
       "sponsorship": true,
       "verified": true,
-      "id": "rgv-parade-of-homes-2026-second-weekend-2026-07-18"
+      "id": "rgv-parade-of-homes-2026-second-weekend-2026-07-18",
+      "tags": [
+        "expo",
+        "rio-grande-valley"
+      ],
+      "organization": "RGV Builders Association (found via KTEX 100.1 calendar)",
+      "county": "",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Xmas In July Market - Pre-Loved Clothes and Trinkets",
@@ -322,7 +466,15 @@
       "source": "Explore McAllen",
       "sponsorship": false,
       "verified": false,
-      "id": "xmas-in-july-market-pre-loved-clothes-and-trinkets-2026-07-18"
+      "id": "xmas-in-july-market-pre-loved-clothes-and-trinkets-2026-07-18",
+      "tags": [
+        "market",
+        "mcallen"
+      ],
+      "organization": "Explore McAllen",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Downtown at Sundown",
@@ -339,7 +491,15 @@
       "source": "Visit Harlingen",
       "sponsorship": false,
       "verified": true,
-      "id": "downtown-at-sundown-2026-07-18"
+      "id": "downtown-at-sundown-2026-07-18",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Visit Harlingen",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "RGV Vipers 6th Annual Back to School Expo",
@@ -356,7 +516,15 @@
       "source": "RGV Vipers release (also covered by KRGV/ValleyCentral)",
       "sponsorship": false,
       "verified": false,
-      "id": "rgv-vipers-6th-annual-back-to-school-expo-2026-07-21"
+      "id": "rgv-vipers-6th-annual-back-to-school-expo-2026-07-21",
+      "tags": [
+        "edinburg",
+        "nonprofit"
+      ],
+      "organization": "RGV Vipers release (also covered by KRGV/ValleyCentral)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Flashlight Nights at Quinta Mazatlan",
@@ -373,7 +541,15 @@
       "source": "Explore McAllen",
       "sponsorship": false,
       "verified": false,
-      "id": "flashlight-nights-at-quinta-mazatlan-2026-07-21"
+      "id": "flashlight-nights-at-quinta-mazatlan-2026-07-21",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Explore McAllen",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Lunch & Learn: Smart Moves - Real Estate & Tax Planning for Financial Success",
@@ -390,7 +566,15 @@
       "source": "RGV Hispanic Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "lunch-learn-smart-moves-real-estate-tax-planning-for-financi-2026-07-22"
+      "id": "lunch-learn-smart-moves-real-estate-tax-planning-for-financi-2026-07-22",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "RGV Hispanic Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Member Mixer: GMCC Open House",
@@ -407,7 +591,15 @@
       "source": "Mission Chamber",
       "sponsorship": false,
       "verified": true,
-      "id": "member-mixer-gmcc-open-house-2026-07-23"
+      "id": "member-mixer-gmcc-open-house-2026-07-23",
+      "tags": [
+        "mission",
+        "other"
+      ],
+      "organization": "Mission Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Summer Movies at the Park: Space Jam",
@@ -424,7 +616,15 @@
       "source": "Visit Harlingen",
       "sponsorship": false,
       "verified": true,
-      "id": "summer-movies-at-the-park-space-jam-2026-07-24"
+      "id": "summer-movies-at-the-park-space-jam-2026-07-24",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Visit Harlingen",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Dive-In Movie: The Little Rascals",
@@ -441,7 +641,15 @@
       "source": "City of Brownsville",
       "sponsorship": false,
       "verified": true,
-      "id": "dive-in-movie-the-little-rascals-2026-07-24"
+      "id": "dive-in-movie-the-little-rascals-2026-07-24",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "City of Brownsville",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "2026 Arts & Literacy Festival",
@@ -458,7 +666,15 @@
       "source": "City of Brownsville",
       "sponsorship": true,
       "verified": true,
-      "id": "2026-arts-literacy-festival-2026-07-25"
+      "id": "2026-arts-literacy-festival-2026-07-25",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "City of Brownsville",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Monthly Market Days at Harlingen Convention Center",
@@ -475,7 +691,15 @@
       "source": "AllEvents",
       "sponsorship": false,
       "verified": false,
-      "id": "monthly-market-days-at-harlingen-convention-center-2026-07-25"
+      "id": "monthly-market-days-at-harlingen-convention-center-2026-07-25",
+      "tags": [
+        "harlingen",
+        "market"
+      ],
+      "organization": "AllEvents",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Marco Antonio Solis in Concert",
@@ -492,7 +716,15 @@
       "source": "Songkick",
       "sponsorship": false,
       "verified": false,
-      "id": "marco-antonio-solis-in-concert-2026-07-25"
+      "id": "marco-antonio-solis-in-concert-2026-07-25",
+      "tags": [
+        "hidalgo",
+        "other"
+      ],
+      "organization": "Songkick",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "KPOP Princesses - A Tribute to K-Pop Demon Hunters",
@@ -509,7 +741,15 @@
       "source": "City of Edinburg (Edinburg Arts)",
       "sponsorship": false,
       "verified": true,
-      "id": "kpop-princesses-a-tribute-to-k-pop-demon-hunters-2026-07-25"
+      "id": "kpop-princesses-a-tribute-to-k-pop-demon-hunters-2026-07-25",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "City of Edinburg (Edinburg Arts)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Eslabon Armado - Amor Nocturno Tour",
@@ -526,7 +766,15 @@
       "source": "Experience McAllen",
       "sponsorship": false,
       "verified": false,
-      "id": "eslabon-armado-amor-nocturno-tour-2026-07-26"
+      "id": "eslabon-armado-amor-nocturno-tour-2026-07-26",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Experience McAllen",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "86th Texas International Fishing Tournament (TIFT)",
@@ -543,7 +791,15 @@
       "source": "TIFT.org",
       "sponsorship": true,
       "verified": true,
-      "id": "86th-texas-international-fishing-tournament-tift-2026-07-29"
+      "id": "86th-texas-international-fishing-tournament-tift-2026-07-29",
+      "tags": [
+        "other",
+        "port-isabel-south-padre-island"
+      ],
+      "organization": "TIFT.org",
+      "county": "",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Grupo Barak",
@@ -560,7 +816,15 @@
       "source": "Bert Ogden Arena",
       "sponsorship": false,
       "verified": true,
-      "id": "grupo-barak-2026-08-01"
+      "id": "grupo-barak-2026-08-01",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Bert Ogden Arena",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Viva McAllen Fiesta",
@@ -577,7 +841,15 @@
       "source": "Explore McAllen",
       "sponsorship": false,
       "verified": false,
-      "id": "viva-mcallen-fiesta-2026-08-01"
+      "id": "viva-mcallen-fiesta-2026-08-01",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Explore McAllen",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Viva McAllen Fiesta 5K/10K Run (McAllen Crime Stoppers)",
@@ -594,7 +866,15 @@
       "source": "RunSignup",
       "sponsorship": false,
       "verified": true,
-      "id": "viva-mcallen-fiesta-5k-10k-run-mcallen-crime-stoppers-2026-08-01"
+      "id": "viva-mcallen-fiesta-5k-10k-run-mcallen-crime-stoppers-2026-08-01",
+      "tags": [
+        "mcallen",
+        "run"
+      ],
+      "organization": "RunSignup",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Jackson Street Market Days",
@@ -611,7 +891,15 @@
       "source": "City of Harlingen",
       "sponsorship": true,
       "verified": true,
-      "id": "jackson-street-market-days-2026-08-01"
+      "id": "jackson-street-market-days-2026-08-01",
+      "tags": [
+        "harlingen",
+        "market"
+      ],
+      "organization": "City of Harlingen",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Texas Home Show",
@@ -628,7 +916,15 @@
       "source": "Bert Ogden Arena",
       "sponsorship": false,
       "verified": true,
-      "id": "texas-home-show-2026-08-07"
+      "id": "texas-home-show-2026-08-07",
+      "tags": [
+        "edinburg",
+        "expo"
+      ],
+      "organization": "Bert Ogden Arena",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Buenas Tardes Luncheon - Community Spotlight",
@@ -645,7 +941,15 @@
       "source": "Mission Chamber",
       "sponsorship": true,
       "verified": true,
-      "id": "buenas-tardes-luncheon-community-spotlight-2026-08-12"
+      "id": "buenas-tardes-luncheon-community-spotlight-2026-08-12",
+      "tags": [
+        "mission",
+        "other"
+      ],
+      "organization": "Mission Chamber",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "19th Annual Lisa Shampoe 5K Run/Walk",
@@ -662,7 +966,15 @@
       "source": "RunSignup",
       "sponsorship": false,
       "verified": true,
-      "id": "19th-annual-lisa-shampoe-5k-run-walk-2026-08-15"
+      "id": "19th-annual-lisa-shampoe-5k-run-walk-2026-08-15",
+      "tags": [
+        "mission",
+        "run"
+      ],
+      "organization": "RunSignup",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "SneakerPhest: A Collectors Expo",
@@ -679,7 +991,15 @@
       "source": "City of Pharr",
       "sponsorship": true,
       "verified": true,
-      "id": "sneakerphest-a-collectors-expo-2026-08-15"
+      "id": "sneakerphest-a-collectors-expo-2026-08-15",
+      "tags": [
+        "expo",
+        "pharr"
+      ],
+      "organization": "City of Pharr",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Downtown at Sundown",
@@ -696,7 +1016,15 @@
       "source": "Visit Harlingen",
       "sponsorship": false,
       "verified": true,
-      "id": "downtown-at-sundown-2026-08-15"
+      "id": "downtown-at-sundown-2026-08-15",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Visit Harlingen",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "2026 Business to Botana Expo | 956 Made",
@@ -713,7 +1041,15 @@
       "source": "Brownsville Chamber",
       "sponsorship": true,
       "verified": true,
-      "id": "2026-business-to-botana-expo-956-made-2026-08-20"
+      "id": "2026-business-to-botana-expo-956-made-2026-08-20",
+      "tags": [
+        "brownsville",
+        "expo"
+      ],
+      "organization": "Brownsville Chamber",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "The Vault: Cards & Collectibles Show 2.0",
@@ -730,7 +1066,15 @@
       "source": "AllEvents",
       "sponsorship": false,
       "verified": false,
-      "id": "the-vault-cards-collectibles-show-2-0-2026-08-29"
+      "id": "the-vault-cards-collectibles-show-2-0-2026-08-29",
+      "tags": [
+        "expo",
+        "harlingen"
+      ],
+      "organization": "AllEvents",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "WWE NXT Heatwave / Lucha Libre AAA",
@@ -747,7 +1091,15 @@
       "source": "Bert Ogden Arena",
       "sponsorship": false,
       "verified": true,
-      "id": "wwe-nxt-heatwave-lucha-libre-aaa-2026-08-30"
+      "id": "wwe-nxt-heatwave-lucha-libre-aaa-2026-08-30",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Bert Ogden Arena",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Ringling Bros. and Barnum & Bailey: The Greatest Show On Earth",
@@ -764,7 +1116,15 @@
       "source": "Bert Ogden Arena",
       "sponsorship": false,
       "verified": true,
-      "id": "ringling-bros-and-barnum-bailey-the-greatest-show-on-earth-2026-09-03"
+      "id": "ringling-bros-and-barnum-bailey-the-greatest-show-on-earth-2026-09-03",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Bert Ogden Arena",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Nightmare on Cage Blvd. 5K",
@@ -781,7 +1141,15 @@
       "source": "RunSignup",
       "sponsorship": false,
       "verified": true,
-      "id": "nightmare-on-cage-blvd-5k-2026-10-24"
+      "id": "nightmare-on-cage-blvd-5k-2026-10-24",
+      "tags": [
+        "pharr",
+        "run"
+      ],
+      "organization": "RunSignup",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     }
   ]
 }
