@@ -24,12 +24,10 @@ CATLABEL = {
     "market": "Markets", "expo": "Expos", "city": "City Events",
     "nonprofit": "Nonprofit & Community", "other": "More Events",
 }
-COUNTY = {
-    "McAllen": "Hidalgo", "Edinburg": "Hidalgo", "Mission": "Hidalgo",
-    "Pharr": "Hidalgo", "Weslaco": "Hidalgo", "Hidalgo": "Hidalgo",
-    "Harlingen": "Cameron", "Brownsville": "Cameron", "San Benito": "Cameron",
-    "Port Isabel": "Cameron", "South Padre Island": "Cameron",
-}
+# County map comes from the source registry's cities list (all RGV cities,
+# Hidalgo/Cameron/Willacy/Starr counties)
+_sources = json.loads((Path(__file__).resolve().parent.parent / "data" / "sources.json").read_text())
+COUNTY = {c["name"]: c["county"] for c in _sources.get("cities", [])}
 
 def slugify(s):
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
