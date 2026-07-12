@@ -16,6 +16,14 @@
   a{color:var(--accent)}
   .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
 
+  .weather{background:#0b140f;border-bottom:1px solid var(--line);overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .weather .wrap{display:flex;gap:6px;padding:8px 20px;min-width:max-content}
+  .wday{display:flex;align-items:center;gap:7px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:5px 12px;font-size:.8rem;white-space:nowrap}
+  .wday .icon{font-size:1.05rem}
+  .wday .nm{color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-size:.7rem}
+  .wday .hi{font-weight:700}
+  .wday .lo{color:var(--muted)}
+  .wday.today{border-color:var(--accent)}
   header{padding:44px 0 20px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#132018,var(--bg))}
   .brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
   .brand h1{font-size:2rem;letter-spacing:-.02em}
@@ -58,6 +66,7 @@
 </style>
 </head>
 <body>
+<div class="weather" id="weather" hidden><div class="wrap" id="weatherdays"></div></div>
 <header>
   <div class="wrap">
     <div class="brand"><h1>Events<span>956</span></h1></div>
@@ -187,6 +196,25 @@ function escAttr(s){return esc(s).replace(/'/g,"&#39;");}
 document.getElementById("q").addEventListener("input",ev=>{state.q=ev.target.value;render();});
 document.getElementById("city").addEventListener("change",ev=>{state.city=ev.target.value;render();});
 load();
+
+// 7-day RGV weather banner (Open-Meteo, no key; McAllen-centered). Fails silently.
+async function weather(){
+  try{
+    const u="https://api.open-meteo.com/v1/forecast?latitude=26.2034&longitude=-98.2300&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&temperature_unit=fahrenheit&timezone=America%2FChicago&forecast_days=7";
+    const r=await fetch(u); if(!r.ok) return;
+    const w=await r.json(), d=w.daily;
+    const icon=c=>c===0?"☀️":c<=2?"🌤️":c===3?"☁️":c<=48?"🌫️":c<=57?"🌦️":c<=67?"🌧️":c<=77?"🌨️":c<=82?"🌧️":c<=86?"🌨️":"⛈️";
+    const el=document.getElementById("weatherdays");
+    el.innerHTML=d.time.map((t,i)=>{
+      const day=new Date(t+"T12:00:00");
+      const nm=i===0?"Today":day.toLocaleString("en-US",{weekday:"short"});
+      const rain=d.precipitation_probability_max[i]>=40?` <span class="lo">💧${d.precipitation_probability_max[i]}%</span>`:"";
+      return `<div class="wday${i===0?" today":""}"><span class="nm">${nm}</span><span class="icon">${icon(d.weather_code[i])}</span><span class="hi">${Math.round(d.temperature_2m_max[i])}°</span><span class="lo">${Math.round(d.temperature_2m_min[i])}°</span>${rain}</div>`;
+    }).join("");
+    document.getElementById("weather").hidden=false;
+  }catch(e){/* keep banner hidden */}
+}
+weather();
 </script>
 </body>
 </html>
