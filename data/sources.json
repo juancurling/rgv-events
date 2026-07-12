@@ -1,0 +1,65 @@
+{
+  "description": "Events956 source registry. Every sweep iterates this file. method: rss|ical|gcal|page (plain fetch), browser (needs real Chrome — Cloudflare/JS), browser-public (Facebook logged-out), websearch (general search), submission-only (no public calendar; rely on outreach/submissions). priority: 1=every sweep, 2=weekly, 3=occasional.",
+  "updated": "2026-07-11",
+  "sources": [
+    {"id": "myrgv", "name": "MyRGV.com (The Monitor / Valley Morning Star / Brownsville Herald)", "type": "news", "method": "rss", "url": "https://myrgv.com/feed/", "priority": 1, "notes": "WordPress RSS, updates hourly; mine event-roundup articles. Events calendar page is Cloudflare-blocked — use RSS."},
+    {"id": "krgv", "name": "KRGV Channel 5 News", "type": "news", "method": "websearch", "url": "https://www.krgv.com/", "priority": 1, "notes": "Event coverage + community calendar via search."},
+    {"id": "valleycentral", "name": "ValleyCentral (KGBT/KVEO)", "type": "news", "method": "websearch", "url": "https://www.valleycentral.com/", "priority": 1, "notes": "Things-to-do roundups."},
+    {"id": "telemundo40", "name": "Telemundo 40", "type": "news", "method": "websearch", "url": "https://www.telemundo40.com/", "priority": 2, "notes": "Spanish-language event coverage."},
+    {"id": "ktex", "name": "KTEX 100.1 (radio)", "type": "radio", "method": "websearch", "url": "https://ktex.net/", "priority": 2, "notes": "Concert/community calendar; proved useful for Parade of Homes and Hunters Expo."},
+
+    {"id": "city-mcallen", "name": "Explore McAllen / City of McAllen", "type": "city", "method": "page", "url": "https://www.exploremcallen.com/events-calendar/", "priority": 1, "notes": ""},
+    {"id": "city-edinburg", "name": "City of Edinburg / Edinburg Arts", "type": "city", "method": "page", "url": "https://www.edinburgarts.com/", "priority": 1, "notes": "Summer concert series etc."},
+    {"id": "city-mission", "name": "City of Mission", "type": "city", "method": "page", "url": "https://missiontexas.us/Calendar.aspx", "priority": 1, "notes": ""},
+    {"id": "city-pharr", "name": "City of Pharr", "type": "city", "method": "page", "url": "https://pharr-tx.gov/events/", "priority": 1, "notes": ""},
+    {"id": "city-weslaco", "name": "City of Weslaco", "type": "city", "method": "page", "url": "https://www.weslacotx.gov/", "priority": 1, "notes": ""},
+    {"id": "city-harlingen", "name": "Visit Harlingen / City of Harlingen", "type": "city", "method": "page", "url": "https://visitharlingentexas.com/events/", "priority": 1, "notes": "Jackson Street Market Days at harlingentx.gov."},
+    {"id": "city-brownsville", "name": "City of Brownsville / Visit Brownsville", "type": "city", "method": "page", "url": "https://www.brownsvilletx.gov/", "priority": 1, "notes": "Parks & rec newsflash feed useful."},
+    {"id": "city-spi", "name": "Visit South Padre Island", "type": "city", "method": "page", "url": "https://visitsouthpadreisland.com/events/", "priority": 1, "notes": ""},
+
+    {"id": "chamber-mcallen", "name": "McAllen Chamber of Commerce", "type": "chamber", "method": "page", "url": "https://mcallenchamber.com/events/", "priority": 1, "notes": "Also hosts 1 Million Cups listing."},
+    {"id": "chamber-edinburg", "name": "Edinburg Chamber", "type": "chamber", "method": "page", "url": "https://edinburg.com/", "priority": 2, "notes": ""},
+    {"id": "chamber-mission", "name": "Greater Mission Chamber", "type": "chamber", "method": "page", "url": "https://members.missionchamber.com/events", "priority": 1, "notes": ""},
+    {"id": "chamber-weslaco", "name": "Weslaco Area Chamber", "type": "chamber", "method": "page", "url": "https://business.weslaco.com/events", "priority": 1, "notes": ""},
+    {"id": "chamber-harlingen", "name": "Harlingen Area Chamber", "type": "chamber", "method": "page", "url": "https://business.harlingen.com/events", "priority": 1, "notes": ""},
+    {"id": "chamber-brownsville", "name": "Brownsville Chamber", "type": "chamber", "method": "page", "url": "https://business.brownsvillechamber.com/events", "priority": 1, "notes": ""},
+    {"id": "chamber-rgvhcc", "name": "RGV Hispanic Chamber of Commerce", "type": "chamber", "method": "page", "url": "https://business.rgvhcc.org/events", "priority": 1, "notes": ""},
+    {"id": "chamber-pharr", "name": "Pharr Chamber", "type": "chamber", "method": "page", "url": "https://pharrchamber.com/", "priority": 2, "notes": ""},
+
+    {"id": "runsignup", "name": "RunSignup", "type": "race-directory", "method": "page", "url": "https://runsignup.com/Races/TX", "priority": 1, "notes": "Official registration pages = verified:true."},
+    {"id": "runningintheusa", "name": "RunningInTheUSA", "type": "race-directory", "method": "browser", "url": "https://www.runningintheusa.com/race/list/within-50-miles-of-mcallen-tx/upcoming", "priority": 1, "notes": "Parameterized URLs: /classic/list/{distance}/within-{miles}-miles-of-{city}-tx/sort-by-open-date/{month}. Cloudflare — needs Chrome extension. Verify each race on its own site."},
+    {"id": "trainerday", "name": "TrainerDay Events", "type": "race-directory", "method": "browser", "url": "https://trainerday.com/events", "priority": 3, "notes": "Mostly duplicates RunSignup; unreliable locations. Backup only."},
+    {"id": "eventbrite", "name": "Eventbrite RGV", "type": "listings", "method": "page", "url": "https://www.eventbrite.com/d/tx--mcallen/events/", "priority": 1, "notes": "Search per city."},
+    {"id": "allevents", "name": "AllEvents.in", "type": "listings", "method": "page", "url": "https://allevents.in/mcallen", "priority": 2, "notes": "Secondary aggregator; verify before publish."},
+
+    {"id": "facebook-events", "name": "Facebook public event search", "type": "social", "method": "browser-public", "url": "https://www.facebook.com/events/search?q={city}%20TX", "priority": 1, "notes": "Works logged OUT — no account involved. Iterate all 8 cities. Capture 'interested/going' counts as attendance signals. confidence:low until cross-verified (reseller spam common)."},
+
+    {"id": "venue-bertogden", "name": "Bert Ogden Arena", "type": "venue", "method": "page", "url": "https://bertogdenarena.com/upcoming-events/", "priority": 1, "notes": ""},
+    {"id": "venue-payne", "name": "Payne Arena (Hidalgo)", "type": "venue", "method": "page", "url": "https://paynearena.com/", "priority": 1, "notes": ""},
+    {"id": "venue-mcallen-cc", "name": "McAllen Convention Center / PAC", "type": "venue", "method": "page", "url": "https://mcallennext.com/", "priority": 1, "notes": ""},
+    {"id": "venue-harlingen-cc", "name": "Harlingen Convention Center", "type": "venue", "method": "page", "url": "https://www.harlingenconventioncenter.com/", "priority": 2, "notes": ""},
+    {"id": "venue-brownsville-ec", "name": "Brownsville Events Center", "type": "venue", "method": "page", "url": "https://brownsvilleeventscenter.com/", "priority": 2, "notes": ""},
+    {"id": "venue-spi-cc", "name": "South Padre Island Convention Centre", "type": "venue", "method": "page", "url": "https://www.sopadre.com/", "priority": 2, "notes": ""},
+    {"id": "utrgv", "name": "UTRGV Events Calendar", "type": "university", "method": "page", "url": "https://calendar.utrgv.edu/", "priority": 1, "notes": "Localist platform — check /api/2/events for JSON API."},
+
+    {"id": "nhpo-rgv", "name": "NHPO RGV", "type": "org", "method": "page", "url": "https://www.nhporgv.com/events.html", "priority": 2, "notes": "Site stale; real announcements on FB (facebook.com/NHPOintheRGV) + Texas Border Business. Monthly networking every 3rd Thursday 6-9pm. Check FB public page during sweeps; outreach candidate."},
+    {"id": "stba", "name": "South Texas Builders Association (Cameron-Willacy)", "type": "org", "method": "page", "url": "https://www.stba.org/events_upcoming.asp", "priority": 2, "notes": "Distinct from RGVBA. Gallery of Homes, banquets, fishing tournament."},
+    {"id": "rgvba", "name": "RGV Builders Association (Hidalgo-Starr)", "type": "org", "method": "page", "url": "https://rgvba.org/events", "priority": 2, "notes": "LeadConnector calendar with categories; Parade of Homes."},
+    {"id": "rotary-5930", "name": "Rotary District 5930", "type": "org", "method": "page", "url": "https://rotary5930.org/page/district-events-calendar", "priority": 2, "notes": "Club directory at /clubdirectory/ indexes all RGV clubs."},
+    {"id": "rotary-harlingen", "name": "Rotary Club of Harlingen", "type": "org", "method": "page", "url": "https://rotaryhrl.org/events/calendar", "priority": 2, "notes": "Active ClubRunner calendar. Meets Fridays 12pm."},
+    {"id": "rotary-mcallen-evening", "name": "McAllen Evening Rotary", "type": "org", "method": "page", "url": "https://mcalleneveningrotary.org/events/calendar", "priority": 2, "notes": "Live calendar; main McAllen Rotary site is defunct (meets Wed 12pm Pasta Cafe per district)."},
+    {"id": "rotary-brownsville", "name": "Brownsville Rotary clubs", "type": "org", "method": "page", "url": "https://rotary5930.org/clubinfo/brownsville", "priority": 3, "notes": "Also: rotarybrownsvillehistoric.org, northbrownsvillerotary.org, brownsvillesunriserotarytx.org."},
+    {"id": "justus", "name": "JustUs (RGV)", "type": "org", "method": "submission-only", "url": "", "priority": 3, "notes": "No verifiable public presence found — likely private FB/word-of-mouth group. NEED: direct link from Juan."},
+    {"id": "1mc-mcallen", "name": "1 Million Cups McAllen", "type": "org", "method": "page", "url": "https://mcallenchamber.com/event/1-million-cups/", "priority": 2, "notes": "Weekly Wed mornings, McAllen Creative Incubator. National 1MC site is scrape-hostile; chamber listing + FB (facebook.com/1MCMcAllen) are the practical sources."},
+
+    {"id": "isd-mcallen", "name": "McAllen ISD", "type": "school-district", "method": "browser", "url": "https://www.mcallenisd.org/events", "priority": 2, "notes": "Apptegy, JS-rendered; no full iCal. Athletics at /athletics."},
+    {"id": "isd-edinburg", "name": "Edinburg CISD", "type": "school-district", "method": "ical", "url": "https://www.ecisd.us/apps/pages/district_calendar", "priority": 2, "notes": "Edlio — exposes iCal/ICS subscribe. Grab feed URL from calendar subscribe control on first ingest."},
+    {"id": "isd-psja", "name": "PSJA ISD", "type": "school-district", "method": "ical", "url": "https://www.psjaisd.us/district-calendar", "priority": 2, "notes": "Finalsite — standard iCal subscribe; verify feed URL on first ingest."},
+    {"id": "isd-mission", "name": "Mission CISD", "type": "school-district", "method": "ical", "url": "https://www.mcisd.net/apps/events/", "priority": 2, "notes": "Edlio — confirmed Google/iCal/ICS subscribe."},
+    {"id": "isd-harlingen", "name": "Harlingen CISD", "type": "school-district", "method": "browser", "url": "https://www.hcisd.org/events", "priority": 2, "notes": "Apptegy, JS-rendered; per-event export only."},
+    {"id": "isd-brownsville", "name": "Brownsville ISD", "type": "school-district", "method": "ical", "url": "https://brownsvilleisd.tandem.co/index.php?type=view&action=month", "priority": 2, "notes": "Tandem master calendar with subscribe (iCal/Google) + school/dept filters — best district feed."},
+    {"id": "school-sja", "name": "Saint Joseph Academy (Brownsville)", "type": "private-school", "method": "ical", "url": "https://www.sja.us/sja-calendar", "priority": 2, "notes": "Public Google Calendar with GCal + ICS subscribe links. Fundraisers at /support-sja/special-events."},
+    {"id": "school-mma", "name": "Marine Military Academy (Harlingen)", "type": "private-school", "method": "page", "url": "https://www.mma-tx.org/", "priority": 3, "notes": "Calendar is PDF-only; public events (Birthday Ball, parades) announced on site + FB."},
+    {"id": "school-jda", "name": "Juan Diego Academy (Mission)", "type": "private-school", "method": "page", "url": "https://www.juandiegoacademy.org/", "priority": 3, "notes": "Static calendar page; FB most active. Athletics on MaxPreps."}
+  ]
+}
