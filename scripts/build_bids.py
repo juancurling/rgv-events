@@ -17,7 +17,6 @@ data/bids.json shape:
   sources:  [{name, search_url, how_to_use, notes}]        # federal/state search pages
   platforms:[{name, url, coverage, cost, alerts, notes}]   # aggregators / plan rooms
   community:[{name, url, type, notes}]                     # FB groups, chambers, APEX
-  planhub_setup: "text"
 """
 import csv, io, json
 from datetime import date
@@ -143,8 +142,6 @@ def main():
         f'<td>{esc(c.get("type"))}</td><td class="notes">{esc(c.get("notes"))}</td></tr>'
         for c in DATA.get("community", []))
 
-    planhub = esc(DATA.get("planhub_setup", "")).replace("\n", "<br>")
-
     html = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -188,9 +185,6 @@ td{{padding:9px 12px;border-top:1px solid var(--line);vertical-align:top}}
 
 <h2>Bid platforms &amp; plan rooms</h2>
 <div class="tablewrap"><table><thead><tr><th>Platform</th><th>Coverage</th><th>Cost</th><th>Alerts</th><th>Notes</th></tr></thead><tbody>{plat_rows}</tbody></table></div>
-
-<h2>PlanHub setup (your subscription)</h2>
-<div class="box">{planhub}</div>
 
 <h2>Community &amp; other sources</h2>
 <div class="tablewrap"><table><thead><tr><th>Source</th><th>Type</th><th>Notes</th></tr></thead><tbody>{comm_rows}</tbody></table></div>
