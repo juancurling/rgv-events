@@ -131,6 +131,13 @@ def main():
         f'<td class="notes">{esc(p.get("alerts"))}</td><td class="notes">{esc(p.get("notes"))}</td></tr>'
         for p in DATA.get("platforms", []))
 
+    portal_rows = "".join(
+        f'<tr><td>{esc(p.get("entity"))}</td>'
+        f'<td><a href="{esc(p.get("url"))}" target="_blank">{esc(p.get("url"))}</a></td>'
+        f'<td>{"✓ verified" if p.get("verified") else "see notes"}</td>'
+        f'<td class="notes">{esc(p.get("notes"))}</td></tr>'
+        for p in DATA.get("ionwave_portals", []))
+
     comm_rows = "".join(
         f'<tr><td><a href="{esc(c.get("url"))}" target="_blank">{esc(c.get("name"))} ↗</a></td>'
         f'<td>{esc(c.get("type"))}</td><td class="notes">{esc(c.get("notes"))}</td></tr>'
@@ -175,6 +182,9 @@ td{{padding:9px 12px;border-top:1px solid var(--line);vertical-align:top}}
 
 <h2>Entity directory — every RGV purchasing division</h2>
 {"".join(dir_sections)}
+
+<h2>Vendor portal registrations (register on each — free)</h2>
+<div class="tablewrap"><table><thead><tr><th>Entity</th><th>Portal</th><th>Status</th><th>Notes</th></tr></thead><tbody>{portal_rows}</tbody></table></div>
 
 <h2>Bid platforms &amp; plan rooms</h2>
 <div class="tablewrap"><table><thead><tr><th>Platform</th><th>Coverage</th><th>Cost</th><th>Alerts</th><th>Notes</th></tr></thead><tbody>{plat_rows}</tbody></table></div>
