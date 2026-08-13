@@ -40,6 +40,7 @@
   .chip:hover{border-color:var(--accent);color:var(--text)}
   .chip.active{background:var(--accent);border-color:var(--accent);color:#08130c;font-weight:600}
   .chip.sponsor.active{background:var(--gold);border-color:var(--gold)}
+  .chip.booth.active{background:var(--gold);border-color:var(--gold)}
 
   .month{margin:26px 0 12px;font-size:1.05rem;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;font-weight:700}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
@@ -137,11 +138,12 @@ const CATS = [
   ["expo","Expos"],
   ["city","City Events"],
   ["nonprofit","Nonprofit & Community"],
+  ["networking","Networking"],
   ["other","Other"]
 ];
 const CATLABEL = Object.fromEntries(CATS);
 CATLABEL["community"]="Nonprofit & Community"; CATLABEL["banquet"]="Galas & Banquets";
-const state = { cat:"all", q:"", city:"", sponsor:false, events:[] };
+const state = { cat:"all", q:"", city:"", sponsor:false, booth:false, events:[] };
 
 async function load(){
   try{
@@ -173,6 +175,11 @@ function buildChips(){
   sp.textContent="★ Sponsorship opportunities";
   sp.onclick=()=>{state.sponsor=!state.sponsor;render();};
   el.appendChild(sp);
+  const bo=document.createElement("button");
+  bo.className="chip booth"+(state.booth?" active":"");
+  bo.textContent="🏪 Booth opportunities";
+  bo.onclick=()=>{state.booth=!state.booth;render();};
+  el.appendChild(bo);
 }
 
 function norm(c){ if(c==="banquet")return "gala"; if(c==="community")return "nonprofit"; return c||"other"; }
@@ -184,6 +191,7 @@ function render(){
     if(state.cat!=="all" && norm(e.category)!==state.cat) return false;
     if(state.city && e.city!==state.city) return false;
     if(state.sponsor && !e.sponsorship) return false;
+    if(state.booth && !e.booth) return false;
     if(q && ![e.title,e.description,e.venue,e.city].join(" ").toLowerCase().includes(q)) return false;
     return true;
   }).sort((a,b)=>new Date(a.start)-new Date(b.start));
@@ -226,6 +234,7 @@ function card(e){
       <span class="tag cat">${esc(CATLABEL[norm(e.category)]||e.category||"Event")}</span>
       ${e.price?`<span class="tag">${esc(e.price)}</span>`:""}
       ${e.sponsorship?`<span class="tag sp">★ Sponsorships available</span>`:""}
+      ${e.booth?`<span class="tag sp">🏪 Booth space available</span>`:""}
     </div>
     ${e.id?`<a class="cta" href="event/${escAttr(e.id)}/">Details →</a>`:(e.url?`<a class="cta" href="${escAttr(e.url)}" target="_blank" rel="noopener">Details →</a>`:"")}
   `;

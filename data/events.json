@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-13",
   "events": [
     {
       "title": "\"Alegria\" - UTRGV Ballet Folklorico",
@@ -24,7 +24,8 @@
       "organization": "UTRGV Events Calendar",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Fireworks on the Beach",
@@ -49,7 +50,8 @@
       "organization": "Visit South Padre Island",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "RGV Pokefest 2026",
@@ -74,7 +76,8 @@
       "organization": "McAllen Next",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Seussical",
@@ -99,7 +102,8 @@
       "organization": "Visit Harlingen",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Lemonade Day University",
@@ -124,7 +128,8 @@
       "organization": "Brownsville Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Nature Discovery Camps – Wonders of Wildlife",
@@ -149,7 +154,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Nature Discovery Camps – Geology Rocks!",
@@ -174,7 +180,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Employee Benefits & Wellness Fair 2026 (Edinburg)",
@@ -199,7 +206,8 @@
       "organization": "UTRGV",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Public Health Pláticas: Healthy Living and Diabetes Prevention",
@@ -225,7 +233,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Frost Sweet Treats",
@@ -250,7 +259,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ribbon Cutting: South Texas Urgent Care Micro Clinic",
@@ -260,7 +270,7 @@
       "venue": "South Texas Urgent Care Micro Clinic",
       "city": "Harlingen",
       "address": "313 N Stuart Place Rd., Harlingen, TX",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://business.harlingen.com/events/details/ribbon-cutting-south-texas-urgent-care-micro-clinic-17863",
       "image": "",
@@ -275,7 +285,8 @@
       "organization": "Harlingen Area Chamber",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Flashlight Nights at Quinta Mazatlan",
@@ -300,7 +311,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Lemonade Day Brownsville Proclamation Presentation",
@@ -325,7 +337,8 @@
       "organization": "Brownsville Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "The Credit Playbook – Lunch & Learn",
@@ -350,7 +363,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Know Your Business Rivals: Basic Tools for Competitor Analysis",
@@ -375,7 +389,8 @@
       "organization": "Greater Mission Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ribbon Cutting: Davila's Clinic - New Location",
@@ -385,7 +400,7 @@
       "venue": "Davila's Clinic",
       "city": "Weslaco",
       "address": "624 S Pleasantview Dr, Weslaco, TX 78596",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://business.weslaco.com/events/details/ribbon-cutting-davila-s-clinic-new-location-24348",
       "image": "",
@@ -400,7 +415,8 @@
       "organization": "Weslaco Area Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Operation Chill is Back!",
@@ -425,7 +441,8 @@
       "organization": "City of Mission",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ribbon Cutting: Daily Dose Coffee",
@@ -435,7 +452,7 @@
       "venue": "",
       "city": "Weslaco",
       "address": "",
-      "category": "nonprofit",
+      "category": "networking",
       "price": "",
       "url": "https://business.weslaco.com/events/details/ribbon-cutting-daily-dose-coffee-24338",
       "image": "",
@@ -450,7 +467,8 @@
       "organization": "Weslaco Area Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Hiring On the Spot — Harlingen",
@@ -476,7 +494,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Explore UTRGV's Graduate Programs & Funding Opportunities Webinar",
@@ -501,7 +520,8 @@
       "organization": "UTRGV",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Grupo Frontera - Triste Pero Bien Cabron Tour (Night 1)",
@@ -526,7 +546,8 @@
       "organization": "Bert Ogden Arena (via ValleyCentral coverage)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Grupo Frontera - Triste Pero Bien Cabron Tour (Night 2)",
@@ -551,7 +572,8 @@
       "organization": "Bert Ogden Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Friday with the City: Downtown Renaissance Update",
@@ -576,7 +598,8 @@
       "organization": "City of Brownsville",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mariachi Night at Nana's Taqueria",
@@ -601,7 +624,8 @@
       "organization": "Weslaco Area Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Friday Night Lights Youth Football Camp",
@@ -626,7 +650,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Friday with the City | Downtown Renaissance Master Plan Update",
@@ -651,7 +676,8 @@
       "organization": "Brownsville Chamber",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Part 2: High Impact Marketing Workshop",
@@ -676,7 +702,8 @@
       "organization": "RGV Hispanic Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Zest for Cents Financial Literacy Bootcamp",
@@ -701,7 +728,8 @@
       "organization": "Weslaco Area Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Purple Studio Waxing - Ribbon Cutting",
@@ -711,7 +739,7 @@
       "venue": "Purple Studio Waxing",
       "city": "McAllen",
       "address": "",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://mcallenchamber.com/event/purple-studio-waxing-ribbon-cutting/",
       "image": "",
@@ -726,7 +754,8 @@
       "organization": "McAllen Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Leadership Graduation Class of XXXVIII",
@@ -751,7 +780,8 @@
       "organization": "Harlingen Area Chamber",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Sweet Treats — Brownsville",
@@ -777,7 +807,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "35th Annual Texas Hunters & Sportsman's Expo",
@@ -802,7 +833,8 @@
       "organization": "Texas Hunter Association (official)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Texas Hunter & Sportsman Expo - Pharr",
@@ -828,7 +860,8 @@
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "6 interested · 4 going"
+      "fbSignals": "6 interested · 4 going",
+      "booth": false
     },
     {
       "title": "Christmas in July 5K",
@@ -853,7 +886,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Run Texas 5K Run & 1 Mile Fun Walk",
@@ -878,7 +912,8 @@
       "organization": "Findarace",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Cosmic Noodles 5K",
@@ -903,7 +938,8 @@
       "organization": "RunSignup",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Run Texas 5K plus 1 Mile Fun Walk",
@@ -928,7 +964,8 @@
       "organization": "RunSignup",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "STHS Transform Your Life Health & Wellness Event",
@@ -953,7 +990,8 @@
       "organization": "RGV Hispanic Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Lemonade Day Brownsville",
@@ -978,7 +1016,8 @@
       "organization": "Brownsville Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "RGV Parade of Homes 2026 - Second Weekend",
@@ -1003,7 +1042,8 @@
       "organization": "RGV Builders Association (found via KTEX 100.1 calendar)",
       "county": "",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Connecting With Artists & Crafters",
@@ -1028,7 +1068,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Xmas In July Market - Pre-Loved Clothes and Trinkets",
@@ -1053,7 +1094,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Downtown at Sundown",
@@ -1078,7 +1120,8 @@
       "organization": "Visit Harlingen",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Prófugos de Nuevo León",
@@ -1103,7 +1146,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Cactus Kitty Creative Summer Kids Workshop: Craft Week",
@@ -1128,7 +1172,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Weslaco Museum Summer Camp Week 1",
@@ -1153,7 +1198,8 @@
       "organization": "Weslaco Area Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "RGV Vipers 6th Annual Back to School Expo",
@@ -1178,7 +1224,8 @@
       "organization": "RGV Vipers release (also covered by KRGV/ValleyCentral)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Flashlight Nights at Quinta Mazatlan",
@@ -1203,7 +1250,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Lunch & Learn: Smart Moves - Real Estate & Tax Planning for Financial Success",
@@ -1213,7 +1261,7 @@
       "venue": "RGV Hispanic Chamber of Commerce",
       "city": "McAllen",
       "address": "801 E. Fern Ave, Suite 131, McAllen, TX 78501",
-      "category": "other",
+      "category": "networking",
       "price": "",
       "url": "https://business.rgvhcc.org/events/details/lunch-learn-smart-moves-real-estate-tax-planning-for-financial-success-1205",
       "image": "",
@@ -1228,7 +1276,8 @@
       "organization": "RGV Hispanic Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Member Mixer: GMCC Open House",
@@ -1238,7 +1287,7 @@
       "venue": "Greater Mission Chamber of Commerce",
       "city": "Mission",
       "address": "202 W. Tom Landry St., Mission, TX 78572",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://members.missionchamber.com/events/details/member-mixer-gmcc-open-house-963",
       "image": "",
@@ -1253,7 +1302,8 @@
       "organization": "Mission Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Cattlemen's RoundUp at Triple G",
@@ -1279,7 +1329,8 @@
       "county": "Starr",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "30 interested · 4 going"
+      "fbSignals": "30 interested · 4 going",
+      "booth": false
     },
     {
       "title": "Bring Your Own Backpack",
@@ -1304,7 +1355,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Summer Movies at the Park: Space Jam",
@@ -1329,7 +1381,8 @@
       "organization": "Visit Harlingen",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Dive-In Movie: The Little Rascals",
@@ -1354,7 +1407,8 @@
       "organization": "City of Brownsville",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "BP 5K Hero Run",
@@ -1379,7 +1433,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ready Set Glow 5K",
@@ -1404,7 +1459,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Back to School Health Fair — Weslaco",
@@ -1430,7 +1486,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Taste and See Women's Conference (5th Annual)",
@@ -1455,7 +1512,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Arts & Literacy Festival",
@@ -1480,7 +1538,8 @@
       "organization": "City of Brownsville",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Capable Kids RGV Capabilities Expo",
@@ -1505,7 +1564,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Monthly Market Days at Harlingen Convention Center",
@@ -1530,7 +1590,8 @@
       "organization": "AllEvents",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Ready Set Glow (2nd Annual)",
@@ -1555,7 +1616,8 @@
       "organization": "RunSignup",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Marco Antonio Solis in Concert",
@@ -1580,7 +1642,8 @@
       "organization": "Songkick",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "KPOP Princesses - A Tribute to K-Pop Demon Hunters",
@@ -1605,7 +1668,8 @@
       "organization": "City of Edinburg (Edinburg Arts)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Costumbre, Secretto y García Bros en Concierto",
@@ -1631,7 +1695,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Eslabon Armado - Amor Nocturno Tour",
@@ -1656,7 +1721,8 @@
       "organization": "Experience McAllen",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Blood Drive",
@@ -1681,7 +1747,8 @@
       "organization": "Harlingen Area Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mission CISD Back to School Bash",
@@ -1706,7 +1773,8 @@
       "organization": "Mission CISD Events Calendar (Edlio iCal)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Flashlight Nights at Quinta Mazatlan",
@@ -1731,7 +1799,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "AI for Small Businesses: Practical Tools and Insights",
@@ -1756,7 +1825,8 @@
       "organization": "Greater Mission Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "AI for Small Businesses: Practical Tools and Insights (Webinar)",
@@ -1781,7 +1851,8 @@
       "organization": "Greater Mission Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "86th Texas International Fishing Tournament (TIFT)",
@@ -1806,7 +1877,8 @@
       "organization": "TIFT.org",
       "county": "",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ribbon Cutting: Monarch Learning Academy",
@@ -1816,7 +1888,7 @@
       "venue": "",
       "city": "Mission",
       "address": "",
-      "category": "nonprofit",
+      "category": "networking",
       "price": "",
       "url": "https://members.missionchamber.com/events/details/ribbon-cutting-monarch-learning-academy-965",
       "image": "",
@@ -1831,7 +1903,8 @@
       "organization": "Greater Mission Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Texas Boxing Hall of Fame",
@@ -1856,7 +1929,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Grupo Barak",
@@ -1881,7 +1955,8 @@
       "organization": "Bert Ogden Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Viva McAllen Fiesta",
@@ -1906,7 +1981,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Viva McAllen Fiesta 5K/10K Run (McAllen Crime Stoppers)",
@@ -1931,7 +2007,8 @@
       "organization": "RunSignup",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "McAllen Crime Stoppers Viva McAllen Fiesta 5K/10K",
@@ -1956,7 +2033,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Jackson Street Market Days",
@@ -1981,7 +2059,8 @@
       "organization": "City of Harlingen",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "A Crash Course for the Motorcyclist",
@@ -2007,7 +2086,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Book Signing at The Caffeine Library",
@@ -2033,7 +2113,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Majo Aguilar en Concierto",
@@ -2058,7 +2139,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Valley Barbz 5K",
@@ -2083,7 +2165,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Genitallica - The Box Theater",
@@ -2108,7 +2191,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Texas Home Show",
@@ -2133,7 +2217,8 @@
       "organization": "Bert Ogden Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "True Love United Kicks 4 Kids 5K",
@@ -2158,7 +2243,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "45th Annual Ladies Kingfish Tournament",
@@ -2183,7 +2269,8 @@
       "organization": "South Padre Island Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Piff the Magic Dragon",
@@ -2208,7 +2295,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Piff the Magic Dragon - The Box",
@@ -2233,7 +2321,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Race of Thrones 5K",
@@ -2258,7 +2347,8 @@
       "organization": "RunningInTheUSA",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Weslaco Panthers 5K / 1-Mile Run-Walk",
@@ -2284,7 +2374,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Meraki Institute's 3rd Annual Back to School Bash",
@@ -2310,7 +2401,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Backpacks for Bright Futures",
@@ -2336,7 +2428,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Make-it and Take-it Workshop",
@@ -2362,7 +2455,8 @@
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "20 interested · 2 going"
+      "fbSignals": "20 interested · 2 going",
+      "booth": false
     },
     {
       "title": "First Responders Day - Beach Waterpark",
@@ -2388,7 +2482,8 @@
       "county": "Cameron",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "39 interested · 5 going"
+      "fbSignals": "39 interested · 5 going",
+      "booth": false
     },
     {
       "title": "McAllen Chamber August Link-Up",
@@ -2398,7 +2493,7 @@
       "venue": "McAllen Chamber of Commerce",
       "city": "McAllen",
       "address": "1200 Ash Avenue, McAllen, TX 78501",
-      "category": "other",
+      "category": "networking",
       "price": "",
       "url": "https://mcallenchamber.com/event/august-link-up/",
       "image": "",
@@ -2413,7 +2508,8 @@
       "organization": "McAllen Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "1 Million Cups McAllen - August Session",
@@ -2423,7 +2519,7 @@
       "venue": "McAllen Creative Incubator",
       "city": "McAllen",
       "address": "601 N. Main Street, McAllen, TX 78501",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://mcallenchamber.com/event/1-million-cups-22/2026-08-12/",
       "image": "",
@@ -2438,7 +2534,8 @@
       "organization": "McAllen Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Buenas Tardes Luncheon - Community Spotlight",
@@ -2463,7 +2560,8 @@
       "organization": "Mission Chamber",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "STVT Ribbon Cutting: Automotive Service Technician Program",
@@ -2473,7 +2571,7 @@
       "venue": "South Texas Vocational Technical Institute (STVT)",
       "city": "McAllen",
       "address": "1800 S. Main St., Suite 500, McAllen, TX 78503",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://mcallenchamber.com/events/",
       "image": "",
@@ -2488,7 +2586,8 @@
       "organization": "McAllen Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Business Over Breakfast - Harlingen Chamber",
@@ -2498,7 +2597,7 @@
       "venue": "Harlingen Area Chamber of Commerce",
       "city": "Harlingen",
       "address": "311 E. Tyler Ave., Harlingen, TX 78550",
-      "category": "other",
+      "category": "networking",
       "price": "",
       "url": "https://business.harlingen.com/events/details/business-over-breakfast-08-13-2026-17817",
       "image": "",
@@ -2513,7 +2612,8 @@
       "organization": "Harlingen Area Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ocean Creatures: An ArtVenture with Sea Life",
@@ -2538,7 +2638,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Vendiendo Con Mi Grandma & Grandpa Kids Mercadito",
@@ -2563,7 +2664,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Pretty in Pink: Back 2 School",
@@ -2588,7 +2690,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Boys and Girls Clubs of Edinburg 5K",
@@ -2613,7 +2716,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Spicy and Fancy 5K",
@@ -2638,7 +2742,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "The Valley's Watermelon Run 5K",
@@ -2663,7 +2768,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "The Valley's Watermelon Run",
@@ -2688,7 +2794,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "19th Annual Lisa Shampoe 5K Run/Walk",
@@ -2713,7 +2820,8 @@
       "organization": "RunSignup",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Lisa Shampoe 5K",
@@ -2738,7 +2846,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Summer Theme Days",
@@ -2763,7 +2872,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "The Saxet Gun Show",
@@ -2788,7 +2898,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "SneakerPhest: A Collectors Expo",
@@ -2813,7 +2924,8 @@
       "organization": "City of Pharr",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Texas Strong 5K/10K",
@@ -2839,7 +2951,8 @@
       "organization": "Facebook (public search) + RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Downtown at Sundown",
@@ -2864,7 +2977,8 @@
       "organization": "Visit Harlingen",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Calle 24 – Eterno Tour",
@@ -2889,7 +3003,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "City of Edinburg Triathlon",
@@ -2914,7 +3029,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Escape the Zom-Bites 5K",
@@ -2939,7 +3055,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "McAllen Chamber Ambassador Meeting",
@@ -2949,7 +3066,7 @@
       "venue": "Macaroni Grill",
       "city": "McAllen",
       "address": "Macaroni Grill, McAllen, TX",
-      "category": "other",
+      "category": "networking",
       "price": "",
       "url": "https://mcallenchamber.com/events/",
       "image": "",
@@ -2964,7 +3081,8 @@
       "organization": "McAllen Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Saint Joseph Academy Meet the Teacher Night + DEEP Orientation",
@@ -2989,7 +3107,8 @@
       "organization": "Saint Joseph Academy Google Calendar",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Unleash Change! Workshop",
@@ -3015,7 +3134,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "RGVHCC Corporate Pin Challenge",
@@ -3025,7 +3145,7 @@
       "venue": "Incredibowl Pickle & Paddle",
       "city": "Mission",
       "address": "2140 E. Business 83, Mission, TX",
-      "category": "other",
+      "category": "networking",
       "price": "$500 team / $750 corporate team / $200 t-shirt sponsor",
       "url": "https://business.rgvhcc.org/events/details/rgvhcc-corporate-pin-challenge-1193",
       "image": "",
@@ -3040,7 +3160,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Business to Botana Expo | 956 Made",
@@ -3065,7 +3186,8 @@
       "organization": "Brownsville Chamber",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Rogelio Ramos — La Risa Tiene Visa",
@@ -3091,7 +3213,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "1st Annual Small Business Summit - Harlingen",
@@ -3116,7 +3239,8 @@
       "organization": "Harlingen Area Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Back to School Bash: RGV's Got Talent",
@@ -3141,7 +3265,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Los Dos de Tamaulipas",
@@ -3166,7 +3291,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Running for a Sweet Cause 5K",
@@ -3191,7 +3317,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Luna Awards Luncheon - Rio Grande Valley",
@@ -3216,7 +3343,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Built by Ella Luna Awards Luncheon 2026",
@@ -3241,7 +3369,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Omar Courtz - Por Si Manana No",
@@ -3266,7 +3395,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Edith Marquez",
@@ -3291,7 +3421,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Matute – Disco Stereo Tour",
@@ -3316,7 +3447,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Pharr International Bridge Truck Expo",
@@ -3341,7 +3473,8 @@
       "organization": "MyRGV.com (The Monitor)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "IMAS Collage Gala (47th Annual)",
@@ -3366,7 +3499,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Night Owl Trail Run",
@@ -3391,7 +3525,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Sunset Sessions 5K",
@@ -3416,7 +3551,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "The Vault: Cards & Collectibles Show 2.0",
@@ -3441,7 +3577,8 @@
       "organization": "AllEvents",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "WWE NXT Heatwave / Lucha Libre AAA",
@@ -3466,7 +3603,8 @@
       "organization": "Bert Ogden Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Ringling Bros. and Barnum & Bailey: The Greatest Show On Earth",
@@ -3491,7 +3629,8 @@
       "organization": "Bert Ogden Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Casimiro Tijerina Memorial 5K",
@@ -3516,7 +3655,8 @@
       "organization": "RunningInTheUSA",
       "county": "Willacy",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Freedom Life Church 5K",
@@ -3541,7 +3681,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Rio Grande City 9/11 Memorial Stair Climb",
@@ -3567,7 +3708,8 @@
       "county": "Starr",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "70 interested · 29 going"
+      "fbSignals": "70 interested · 29 going",
+      "booth": false
     },
     {
       "title": "Casimiro Tijerina Memorial Bike Ride / Run",
@@ -3593,7 +3735,34 @@
       "county": "Willacy",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "4 interested · 1 going"
+      "fbSignals": "4 interested · 1 going",
+      "booth": false
+    },
+    {
+      "title": "JustUs RGV Networking Lunch",
+      "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
+      "start": "2026-09-09T11:30:00-05:00",
+      "end": "2026-09-09T13:00:00-05:00",
+      "venue": "Poncho's Restaurant",
+      "city": "McAllen",
+      "address": "Poncho's, W Expressway 83, McAllen, TX",
+      "category": "networking",
+      "price": "",
+      "url": "",
+      "image": "",
+      "source": "JustUs (RGV)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "recurring": true,
+      "id": "justus-rgv-networking-lunch-2026-09-09",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "JustUs (RGV)",
+      "county": "Hidalgo",
+      "confidence": "high"
     },
     {
       "title": "Saint Joseph Academy Open House",
@@ -3618,7 +3787,8 @@
       "organization": "Saint Joseph Academy Google Calendar",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "SPI Wahoo Classic",
@@ -3643,7 +3813,8 @@
       "organization": "visitsouthpadreisland.com",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Latina Leadership Conference 2026",
@@ -3668,7 +3839,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Frontera Fest 2026",
@@ -3694,7 +3866,8 @@
       "county": "Cameron",
       "confidence": "high",
       "recurring": false,
-      "fbSignals": "148 interested · 19 going"
+      "fbSignals": "148 interested · 19 going",
+      "booth": false
     },
     {
       "title": "El Fantasma en Frontera Fest",
@@ -3720,7 +3893,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Finish the Race 5K",
@@ -3745,7 +3919,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Wonderful Citrus Run for Autism 5K",
@@ -3770,7 +3945,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "SJA Library Used Book Sale",
@@ -3795,7 +3971,8 @@
       "organization": "Saint Joseph Academy Google Calendar",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Brownsville Chamber Washington, D.C. Fly-In",
@@ -3805,7 +3982,7 @@
       "venue": "",
       "city": "Brownsville",
       "address": "",
-      "category": "nonprofit",
+      "category": "networking",
       "price": "",
       "url": "https://business.brownsvillechamber.com/events/details/2026-brownsville-chamber-washington-d-c-fly-in-8296",
       "image": "",
@@ -3820,7 +3997,8 @@
       "organization": "Brownsville Chamber of Commerce",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mariposa Gala 2026: New York, New York!",
@@ -3845,7 +4023,8 @@
       "organization": "RGV Hispanic Chamber of Commerce / Children's Bereavement Center RGV",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "45th Edinburg Ole Time Festival",
@@ -3870,7 +4049,8 @@
       "organization": "Edinburg Ole Time Festival / Edinburg Heritage Foundation",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Miles of Hope 5K",
@@ -3895,7 +4075,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Race for Grace 5K",
@@ -3920,7 +4101,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mariachi 7 Leguas in Concert",
@@ -3945,7 +4127,8 @@
       "organization": "RGV Hispanic Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Run for Recovery RGV 5K",
@@ -3970,7 +4153,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Back On Road Premiere at Cine El Rey",
@@ -3996,7 +4180,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Space Fest 2026",
@@ -4021,7 +4206,8 @@
       "organization": "brownsvilletx.gov",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Daniel Habif – ASCENDER: El Paso Final World Tour",
@@ -4046,7 +4232,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "SJA Homecoming Pre-Game Parade",
@@ -4071,7 +4258,8 @@
       "organization": "Saint Joseph Academy Google Calendar",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Riofest 2026",
@@ -4096,7 +4284,8 @@
       "organization": "Harlingen Riofest",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Grupo Duelo — Gravedad Tour",
@@ -4122,7 +4311,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Franco Escamilla – El Juicio Tour",
@@ -4147,7 +4337,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "South Padre Island Triathlon",
@@ -4173,7 +4364,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "RGV Wedding and Quince Expo",
@@ -4198,7 +4390,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Samuel Shaer Suicide Awareness 5K",
@@ -4223,7 +4416,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Concrete & Jerry Garcia's \"That's Not Me\" Comedy Tour",
@@ -4248,7 +4442,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Marisela - Eterna Tour 2026",
@@ -4273,7 +4468,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "SJA Alumni Association Golf Tournament",
@@ -4298,7 +4494,8 @@
       "organization": "Saint Joseph Academy Google Calendar",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Great Strides RGV",
@@ -4323,7 +4520,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Juanes Live in McAllen",
@@ -4349,7 +4547,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Chayanne – Bailemos Otra Vez Tour",
@@ -4374,7 +4573,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Jo Koy – Koy Meets World Tour",
@@ -4400,7 +4600,8 @@
       "organization": "bertogdenarena.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Pharr Gateway Forum",
@@ -4425,7 +4626,8 @@
       "organization": "MyRGV.com (The Monitor)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Start of the Produce Season Ceremony",
@@ -4450,7 +4652,8 @@
       "organization": "MyRGV.com (The Monitor)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Flatland Cavalry",
@@ -4475,7 +4678,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Drive For Trade Golf Tournament",
@@ -4500,7 +4704,8 @@
       "organization": "MyRGV.com (The Monitor)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "SJA College Fair",
@@ -4525,7 +4730,8 @@
       "organization": "Saint Joseph Academy Google Calendar",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Alicia Villarreal in Concert",
@@ -4551,7 +4757,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Fright Night 5K",
@@ -4576,7 +4783,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Queen City Trail Run",
@@ -4601,7 +4809,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Monster Jam 2026",
@@ -4627,7 +4836,8 @@
       "organization": "bertogdenarena.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "2026 Pharr Avocado Festival",
@@ -4652,7 +4862,8 @@
       "organization": "MyRGV.com (The Monitor)",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Paws and Peeps",
@@ -4677,7 +4888,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Tatiana - Los Chicharrines Tativerso",
@@ -4702,7 +4914,34 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
+    },
+    {
+      "title": "JustUs RGV Networking Lunch",
+      "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
+      "start": "2026-10-14T11:30:00-05:00",
+      "end": "2026-10-14T13:00:00-05:00",
+      "venue": "Poncho's Restaurant",
+      "city": "McAllen",
+      "address": "Poncho's, W Expressway 83, McAllen, TX",
+      "category": "networking",
+      "price": "",
+      "url": "",
+      "image": "",
+      "source": "JustUs (RGV)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "recurring": true,
+      "id": "justus-rgv-networking-lunch-2026-10-14",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "JustUs (RGV)",
+      "county": "Hidalgo",
+      "confidence": "high"
     },
     {
       "title": "Yandel Sinfonico",
@@ -4727,7 +4966,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "5K Stronger Than Yesterday",
@@ -4752,7 +4992,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Dobie Dash 5K + Kids Run",
@@ -4777,7 +5018,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Run Baby Run 5K + Kids Run",
@@ -4802,7 +5044,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Dia De Los Dobies 5K Walk/Run",
@@ -4827,7 +5070,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mariachazo in McAllen",
@@ -4852,7 +5096,8 @@
       "organization": "exploremcallen.com",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mon Laferte - Femme Fatale Tour",
@@ -4877,7 +5122,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "The Coffee Fest — Brownsville 2026",
@@ -4903,7 +5149,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Los Muertos Bailan 2026 (12th Annual)",
@@ -4928,7 +5175,8 @@
       "organization": "Edinburg Arts",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Nightmare on Cage Blvd. 5K",
@@ -4953,7 +5201,8 @@
       "organization": "RunSignup",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Journey featuring former lead vocalist Steve Augeri",
@@ -4978,7 +5227,8 @@
       "organization": "hidalgoarena.com",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Boot Run 5K — RGVLS Champs for Champions",
@@ -5003,7 +5253,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Disney On Ice: Magic In The Stars",
@@ -5028,7 +5279,8 @@
       "organization": "Bert Ogden Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Monster Dash 5K/10K",
@@ -5053,7 +5305,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Arbor Day Celebration Run 5K/10K",
@@ -5078,7 +5331,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Daniel A. Saldana 5K",
@@ -5103,7 +5357,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Women Running Violence Out of Town 5K",
@@ -5128,7 +5383,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Harlon Block Half Marathon",
@@ -5153,7 +5409,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "30th Annual Rio Grande Valley Birding Festival",
@@ -5178,7 +5435,34 @@
       "organization": "Rio Grande Valley Birding Festival",
       "county": "Cameron",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
+    },
+    {
+      "title": "JustUs RGV Networking Lunch",
+      "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
+      "start": "2026-11-11T11:30:00-06:00",
+      "end": "2026-11-11T13:00:00-06:00",
+      "venue": "Poncho's Restaurant",
+      "city": "McAllen",
+      "address": "Poncho's, W Expressway 83, McAllen, TX",
+      "category": "networking",
+      "price": "",
+      "url": "",
+      "image": "",
+      "source": "JustUs (RGV)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "recurring": true,
+      "id": "justus-rgv-networking-lunch-2026-11-11",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "JustUs (RGV)",
+      "county": "Hidalgo",
+      "confidence": "high"
     },
     {
       "title": "TMF South Padre Island Half Marathon Weekend",
@@ -5204,7 +5488,8 @@
       "organization": "Facebook (public search)",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Mud Factor — Edinburg",
@@ -5229,7 +5514,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "McAllen Turkey Trot",
@@ -5254,7 +5540,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "November Market",
@@ -5279,7 +5566,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": true
     },
     {
       "title": "Jose Madero in Concert",
@@ -5305,7 +5593,8 @@
       "organization": "Facebook (public search)",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Jim Gaffigan - Everything is Wonderful",
@@ -5330,7 +5619,8 @@
       "organization": "AllEvents",
       "county": "Hidalgo",
       "confidence": "low",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Hermanos Espinoza - Linaje Tour",
@@ -5355,7 +5645,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Intocable - Cultura Tour 2026",
@@ -5380,7 +5671,34 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
+    },
+    {
+      "title": "JustUs RGV Networking Lunch",
+      "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
+      "start": "2026-12-09T11:30:00-06:00",
+      "end": "2026-12-09T13:00:00-06:00",
+      "venue": "Poncho's Restaurant",
+      "city": "McAllen",
+      "address": "Poncho's, W Expressway 83, McAllen, TX",
+      "category": "networking",
+      "price": "",
+      "url": "",
+      "image": "",
+      "source": "JustUs (RGV)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "recurring": true,
+      "id": "justus-rgv-networking-lunch-2026-12-09",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "JustUs (RGV)",
+      "county": "Hidalgo",
+      "confidence": "high"
     },
     {
       "title": "Comedian DoKnow & Friends LIVE",
@@ -5405,7 +5723,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Top Gym Road Race",
@@ -5430,7 +5749,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Brownsville Chief of Police Marathon",
@@ -5455,7 +5775,8 @@
       "organization": "RunningInTheUSA",
       "county": "Cameron",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Blue October - Foiled 20th Anniversary",
@@ -5480,7 +5801,8 @@
       "organization": "Payne Arena",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "Nutcracker Magical Christmas Ballet",
@@ -5505,7 +5827,8 @@
       "organization": "Explore McAllen",
       "county": "Hidalgo",
       "confidence": "high",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "McAllen Marathon — Scott Crane Memorial Run",
@@ -5530,7 +5853,8 @@
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
-      "recurring": false
+      "recurring": false,
+      "booth": false
     },
     {
       "title": "South Padre Island Market Days (January)",
@@ -5556,7 +5880,8 @@
       "county": "Cameron",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "743 interested · 32 going"
+      "fbSignals": "743 interested · 32 going",
+      "booth": false
     },
     {
       "title": "South Padre Island Market Days (February)",
@@ -5582,7 +5907,8 @@
       "county": "Cameron",
       "confidence": "medium",
       "recurring": false,
-      "fbSignals": "1K interested · 34 going"
+      "fbSignals": "1K interested · 34 going",
+      "booth": false
     }
   ]
 }

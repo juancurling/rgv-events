@@ -22,7 +22,8 @@ TZ = "America/Chicago"
 CATLABEL = {
     "run": "5K / 10K Runs", "cycling": "Cycling", "gala": "Galas & Banquets",
     "market": "Markets", "expo": "Expos", "city": "City Events",
-    "nonprofit": "Nonprofit & Community", "other": "More Events",
+    "nonprofit": "Nonprofit & Community", "networking": "Networking & Mixers",
+    "other": "More Events",
 }
 # County map comes from the source registry's cities list (all RGV cities,
 # Hidalgo/Cameron/Willacy/Starr counties)
@@ -127,6 +128,8 @@ def event_page(e):
         badges += f'<span class="badge">{esc(e["price"])}</span>'
     if e.get("sponsorship"):
         badges += '<span class="badge sp">★ Sponsorship / vendor opportunities</span>'
+    if e.get("booth"):
+        badges += '<span class="badge sp">🏪 Booth space available</span>'
     where = " · ".join(x for x in [e.get("venue"), e.get("address") or e.get("city")] if x)
     src = f'<p class="meta">Source: {esc(e.get("source",""))}</p>' if e.get("source") else ""
     link = f'<a class="cta" href="{esc(e["url"])}" target="_blank" rel="noopener">Official page & registration →</a>' if e.get("url") else ""
