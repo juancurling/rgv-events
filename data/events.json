@@ -4105,32 +4105,6 @@
       "booth": false
     },
     {
-      "title": "Noche de Vino 2026",
-      "description": "Wine-tasting evening event at the McAllen Convention Center on September 12, 2026 at 7 p.m.",
-      "start": "2026-09-12T19:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Convention Center",
-      "city": "McAllen",
-      "address": "700 Convention Center Blvd, McAllen, TX",
-      "category": "gala",
-      "price": "",
-      "url": "https://www.ticketmaster.com/mcallen-convention-center-tickets-mcallen/venue/476003",
-      "source": "Ticketmaster / McAllen Convention Center listings",
-      "sponsorship": true,
-      "booth": false,
-      "verified": true,
-      "image": "",
-      "id": "noche-de-vino-2026-2026-09-12",
-      "tags": [
-        "gala",
-        "mcallen"
-      ],
-      "organization": "Ticketmaster / McAllen Convention Center listings",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false
-    },
-    {
       "title": "Noche de Vino 2026: Midnight at the Garden",
       "description": "McAllen's premier wine, food and music fundraiser returns for 2026 with the theme 'Midnight at the Garden,' featuring wines, chef-inspired cuisine and live entertainment. Proceeds support performing arts initiatives and cultural programming across the Rio Grande Valley.",
       "start": "2026-09-12T19:00:00-05:00",
@@ -6552,32 +6526,6 @@
         "port-isabel"
       ],
       "organization": "Port Isabel Chamber of Commerce event page (via web search)",
-      "county": "Cameron",
-      "confidence": "medium",
-      "recurring": false
-    },
-    {
-      "title": "Port Isabel Shrimp Cook-Off & Seafood Festival",
-      "description": "The famous annual Shrimp Cook-Off & Seafood Festival in Port Isabel on Saturday, November 7, 2026, with cooking teams, seafood, live music, and performances.",
-      "start": "2026-11-07T09:00:00-06:00",
-      "end": "",
-      "venue": "Downtown Port Isabel",
-      "city": "Port Isabel",
-      "address": "",
-      "category": "other",
-      "price": "",
-      "url": "https://www.portisabelchamber.com/event/31st-annual-shrimp-cook-off-seafood-festival/",
-      "source": "Port Isabel Chamber of Commerce",
-      "sponsorship": true,
-      "booth": true,
-      "verified": false,
-      "image": "",
-      "id": "port-isabel-shrimp-cook-off-seafood-festival-2026-11-07",
-      "tags": [
-        "other",
-        "port-isabel"
-      ],
-      "organization": "Port Isabel Chamber of Commerce",
       "county": "Cameron",
       "confidence": "medium",
       "recurring": false
