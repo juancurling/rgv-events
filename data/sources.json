@@ -1,6 +1,6 @@
 {
   "description": "Events956 source registry. Every sweep iterates this file. method: rss|ical|gcal|page (plain fetch), browser (needs real Chrome — Cloudflare/JS), browser-public (Facebook logged-out), websearch (general search), submission-only (no public calendar; rely on outreach/submissions). priority: 1=every sweep, 2=weekly, 3=occasional. The cities list drives Facebook searches, websearch queries, and geographic filtering — tier 1 cities get searched every sweep, tier 2 weekly/rotating.",
-  "updated": "2026-08-13",
+  "updated": "2026-08-16",
   "cities": [
     {
       "name": "McAllen",
@@ -789,7 +789,7 @@
       "method": "search",
       "url": "https://www.cutco.com/company/events?state=TX",
       "priority": 2,
-      "notes": "Added per Juan 2026-08-13. Statewide fair/show directory — filter for RGV cities. Events listed here typically sell vendor booth space; set booth=true."
+      "notes": "Added per Juan 2026-08-13. Statewide fair/show directory — filter for RGV cities. Events listed here typically sell vendor booth space; set booth=true. Sweep 2026-08-16: no RGV-area events listed (nearest were Houston); keep checking."
     },
     {
       "id": "isd-sharyland",
@@ -799,7 +799,7 @@
       "url": "https://www.sharylandisd.org",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-lajoya",
@@ -809,7 +809,7 @@
       "url": "https://www.lajoyaisd.com",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-donna",
@@ -819,7 +819,7 @@
       "url": "https://www.donnaisd.net",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-weslaco",
@@ -829,7 +829,7 @@
       "url": "https://www.wisd.us",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-mercedes",
@@ -839,7 +839,7 @@
       "url": "https://www.misdtx.net",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-hidalgo",
@@ -849,7 +849,7 @@
       "url": "https://www.hidalgo-isd.org",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-valleyview",
@@ -859,7 +859,7 @@
       "url": "https://www.vviewisd.net",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-progreso",
@@ -869,7 +869,7 @@
       "url": "https://www.progresoisd.net",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-edcouchelsa",
@@ -879,7 +879,7 @@
       "url": "https://www.eeisd.org",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-lavilla",
@@ -889,7 +889,7 @@
       "url": "https://www.lavillaisd.org",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-montealto",
@@ -899,7 +899,7 @@
       "url": "https://www.maisd.net",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-sanbenito",
@@ -909,7 +909,7 @@
       "url": "https://www.sbcisd.net",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-losfresnos",
@@ -919,7 +919,7 @@
       "url": "https://www.lfcisd.net",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-laferia",
@@ -929,7 +929,7 @@
       "url": "https://www.laferiaisd.org",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-riohondo",
@@ -939,7 +939,7 @@
       "url": "https://www.rhisd.net",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-pointisabel",
@@ -949,7 +949,7 @@
       "url": "https://www.pi-isd.net",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-santarosa",
@@ -959,7 +959,7 @@
       "url": "https://www.santarosaisd.us",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-santamaria",
@@ -969,7 +969,7 @@
       "url": "https://www.santamariaisd.org",
       "priority": 2,
       "county": "Cameron",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-raymondville",
@@ -979,7 +979,7 @@
       "url": "https://www.raymondvilleisd.org",
       "priority": 2,
       "county": "Willacy",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-lyford",
@@ -989,7 +989,7 @@
       "url": "https://www.lyfordcisd.net",
       "priority": 2,
       "county": "Willacy",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-sanperlita",
@@ -999,7 +999,7 @@
       "url": "https://www.sanperlitaisd.org",
       "priority": 2,
       "county": "Willacy",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-rgccg",
@@ -1009,7 +1009,7 @@
       "url": "https://www.rgccisd.org",
       "priority": 2,
       "county": "Starr",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-roma",
@@ -1019,7 +1019,7 @@
       "url": "https://www.romaisd.com",
       "priority": 2,
       "county": "Starr",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-sanisidro",
@@ -1029,7 +1029,7 @@
       "url": "https://www.sanisidroisd.org",
       "priority": 2,
       "county": "Starr",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "isd-southtexas",
@@ -1039,7 +1039,7 @@
       "url": "https://www.stisd.net",
       "priority": 2,
       "county": "Regional",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "charter-idea",
@@ -1049,7 +1049,7 @@
       "url": "https://ideapublicschools.org",
       "priority": 2,
       "county": "Regional",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "charter-vanguard",
@@ -1059,7 +1059,7 @@
       "url": "https://www.vanguardacademy.net",
       "priority": 2,
       "county": "Hidalgo",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     },
     {
       "id": "charter-harmony",
@@ -1069,7 +1069,7 @@
       "url": "https://www.harmonytx.org",
       "priority": 2,
       "county": "Regional",
-      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true)."
+      "notes": "Added 2026-08-13 for full RGV district coverage. Verify domain/calendar URL on first sweep. Watch for back-to-school bashes and community events with vendor booths (set booth=true). Sweep 2026-08-16: no dated fall events published yet; districts typically post Sep-Oct."
     }
   ]
 }
