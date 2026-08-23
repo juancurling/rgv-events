@@ -4235,32 +4235,6 @@
       "recurring": false
     },
     {
-      "title": "The Music Man (Broadway national tour launch)",
-      "description": "Meredith Willson's The Music Man opens McAllen's Broadway season on September 13, 2026; the national tour launches from the McAllen Performing Arts Center.",
-      "start": "2026-09-13T09:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Performing Arts Center",
-      "city": "McAllen",
-      "address": "801 Convention Center Blvd, McAllen, TX 78501",
-      "category": "other",
-      "price": "",
-      "url": "https://texasborderbusiness.com/mcallen-unveils-major-fall-and-holiday-performing-arts-lineup/",
-      "source": "Texas Border Business (City of McAllen announcement)",
-      "sponsorship": false,
-      "booth": false,
-      "verified": false,
-      "image": "",
-      "id": "the-music-man-broadway-national-tour-launch-2026-09-13",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "Texas Border Business (City of McAllen announcement)",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false
-    },
-    {
       "title": "Meredith Willson's The Music Man",
       "description": "Touring production of the classic Broadway musical at McAllen Performing Arts Center, September 13, 2026 at 3 p.m.",
       "start": "2026-09-13T15:00:00-05:00",
