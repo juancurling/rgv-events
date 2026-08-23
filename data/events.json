@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "events": [
     {
       "title": "\"Alegria\" - UTRGV Ballet Folklorico",
@@ -3763,6 +3763,32 @@
       "booth": false
     },
     {
+      "title": "McAllen Mega Food & Truck Festival",
+      "description": "Food truck festival in downtown McAllen at 10 N Broadway St starting at 10:00 AM on Friday, September 4, 2026.",
+      "start": "2026-09-04T10:00:00-05:00",
+      "end": "",
+      "venue": "Downtown McAllen",
+      "city": "McAllen",
+      "address": "10 N Broadway St, McAllen, TX 78501",
+      "category": "market",
+      "price": "",
+      "url": "https://www.eventbrite.com/d/tx--mcallen/mcallen-texas/",
+      "source": "Eventbrite",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "image": "",
+      "id": "mcallen-mega-food-truck-festival-2026-09-04",
+      "tags": [
+        "market",
+        "mcallen"
+      ],
+      "organization": "Eventbrite",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Casimiro Tijerina Memorial 5K",
       "description": "Memorial 5K in Raymondville. Time TBD.",
       "start": "2026-09-05T00:00:00-05:00",
@@ -3895,6 +3921,32 @@
       "recurring": false
     },
     {
+      "title": "City of South Padre Island City Council Special Election Candidate Forum",
+      "description": "The South Padre Island Chamber of Commerce hosts a candidate forum for the Place 1 City Council seat ahead of the October special election, featuring candidates Rita Hernandez and Gayle Hood. Open to the public; concludes by 7 p.m.",
+      "start": "2026-09-08T17:30:00-05:00",
+      "end": "2026-09-08T19:00:00-05:00",
+      "venue": "South Padre Island Convention Centre",
+      "city": "South Padre Island",
+      "address": "7355 Padre Blvd, South Padre Island, TX 78597",
+      "category": "city",
+      "price": "Free",
+      "url": "https://www.portisabelsouthpadre.com/2026/08/20/candidate-forum-set-for-sept-8/",
+      "source": "Port Isabel-South Padre Press (2026-08-20) / SPI Chamber of Commerce",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "city-of-south-padre-island-city-council-special-election-candidate-forum-2026-09-08",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ],
+      "organization": "Port Isabel-South Padre Press (2026-08-20) / SPI Chamber of Commerce",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "JustUs RGV Networking Lunch",
       "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
       "start": "2026-09-09T11:30:00-05:00",
@@ -3945,6 +3997,32 @@
       "confidence": "high",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Business Over Breakfast (Harlingen Chamber)",
+      "description": "Monthly free breakfast networking event hosted by the Harlingen Area Chamber of Commerce, held the second Thursday of each month in the David E. Allex Boardroom. Free and open to the public with complimentary breakfast and guest speakers on local business topics.",
+      "start": "2026-09-10T09:00:00-05:00",
+      "end": "",
+      "venue": "David E. Allex Boardroom, Harlingen Area Chamber of Commerce",
+      "city": "Harlingen",
+      "address": "",
+      "category": "networking",
+      "price": "Free",
+      "url": "https://www.harlingen.com/mixers-networking-events/",
+      "source": "Harlingen Area Chamber of Commerce events calendar",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "business-over-breakfast-harlingen-chamber-2026-09-10",
+      "tags": [
+        "harlingen",
+        "networking"
+      ],
+      "organization": "Harlingen Area Chamber of Commerce events calendar",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "SPI Wahoo Classic",
@@ -4105,6 +4183,32 @@
       "booth": false
     },
     {
+      "title": "Kolton Moore & the Clever Few",
+      "description": "Texas country/red dirt act Kolton Moore & the Clever Few performs at Payne Arena on September 12, 2026.",
+      "start": "2026-09-12T09:00:00-05:00",
+      "end": "",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "2600 N State Highway 336, Hidalgo, TX 78557",
+      "category": "other",
+      "price": "",
+      "url": "https://www.hidalgoarena.com/",
+      "source": "JamBase / Payne Arena listings",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "kolton-moore-the-clever-few-2026-09-12",
+      "tags": [
+        "hidalgo",
+        "other"
+      ],
+      "organization": "JamBase / Payne Arena listings",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Noche de Vino 2026: Midnight at the Garden",
       "description": "McAllen's premier wine, food and music fundraiser returns for 2026 with the theme 'Midnight at the Garden,' featuring wines, chef-inspired cuisine and live entertainment. Proceeds support performing arts initiatives and cultural programming across the Rio Grande Valley.",
       "start": "2026-09-12T19:00:00-05:00",
@@ -4128,6 +4232,32 @@
       "organization": "Texas Border Business / Ticketmaster / nochedevino.net",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "The Music Man (Broadway national tour launch)",
+      "description": "Meredith Willson's The Music Man opens McAllen's Broadway season on September 13, 2026; the national tour launches from the McAllen Performing Arts Center.",
+      "start": "2026-09-13T09:00:00-05:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "url": "https://texasborderbusiness.com/mcallen-unveils-major-fall-and-holiday-performing-arts-lineup/",
+      "source": "Texas Border Business (City of McAllen announcement)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "the-music-man-broadway-national-tour-launch-2026-09-13",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Texas Border Business (City of McAllen announcement)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -4207,6 +4337,32 @@
       "confidence": "high",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Mission Small Business Expo",
+      "description": "Mission EDC's annual expo bringing together entrepreneurs, business professionals, investors, and community leaders from across the Rio Grande Valley, with business resources, speakers, and exhibitors. Free admission, 9 a.m.-5 p.m.",
+      "start": "2026-09-16T09:00:00-05:00",
+      "end": "2026-09-16T17:00:00-05:00",
+      "venue": "Mission Event Center",
+      "city": "Mission",
+      "address": "200 N Shary Rd, Mission, TX 78572",
+      "category": "expo",
+      "price": "Free",
+      "url": "https://www.missionedc.com/missionsmallbusinessexpo",
+      "source": "Mission Economic Development Corporation",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "image": "",
+      "id": "mission-small-business-expo-2026-09-16",
+      "tags": [
+        "expo",
+        "mission"
+      ],
+      "organization": "Mission Economic Development Corporation",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Mariposa Gala 2026: New York, New York!",
@@ -4388,6 +4544,32 @@
       "organization": "Experience McAllen events calendar",
       "county": "Hidalgo",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "RGVBA Parade of Homes - Fall Edition 2026",
+      "description": "The Rio Grande Valley Builders Association's fall Parade of Homes showcases new homes by RGVBA builders across the Valley over two weekends, Sept. 19-21 and Sept. 26-28. Hours are noon-5 p.m. Saturday/Sunday and 3-7 p.m. Mondays.",
+      "start": "2026-09-19T12:00:00-05:00",
+      "end": "2026-09-28T19:00:00-05:00",
+      "venue": "Various homes across the Rio Grande Valley",
+      "city": "Rio Grande Valley",
+      "address": "",
+      "category": "expo",
+      "price": "",
+      "url": "https://rgvba.org/parade",
+      "source": "Rio Grande Valley Builders Association",
+      "sponsorship": true,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "rgvba-parade-of-homes-fall-edition-2026-2026-09-19",
+      "tags": [
+        "expo",
+        "rio-grande-valley"
+      ],
+      "organization": "Rio Grande Valley Builders Association",
+      "county": "",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -4992,6 +5174,32 @@
       "booth": false
     },
     {
+      "title": "2026 Walk to End Alzheimer's - Upper Valley",
+      "description": "The Alzheimer's Association's annual Upper Valley walk (San Antonio & South Texas chapter) is confirmed for Saturday, October 3, 2026 in Pharr, raising funds for Alzheimer's care, support, and research. Registration is open on the official act.alz.org event page; start time not yet posted.",
+      "start": "2026-10-03T08:00:00-05:00",
+      "end": "",
+      "venue": "TBA (Pharr)",
+      "city": "Pharr",
+      "address": "",
+      "category": "nonprofit",
+      "price": "Free to register; fundraising encouraged",
+      "url": "https://act.alz.org/site/TR?fr_id=19956&pg=entry",
+      "source": "act.alz.org (official Walk to End Alzheimer's event page)",
+      "sponsorship": true,
+      "booth": true,
+      "verified": false,
+      "image": "",
+      "id": "2026-walk-to-end-alzheimer-s-upper-valley-2026-10-03",
+      "tags": [
+        "nonprofit",
+        "pharr"
+      ],
+      "organization": "act.alz.org (official Walk to End Alzheimer's event page)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Motley Krue & GN'R Reloaded (tribute night)",
       "description": "Mötley Crüe and Guns N' Roses tribute bands perform at Railyard 83 IceHouse in Alamo on October 3, 2026.",
       "start": "2026-10-03T09:00:00-05:00",
@@ -5013,6 +5221,32 @@
         "other"
       ],
       "organization": "Bandsintown",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Nightmare on Cage Blvd. 5K",
+      "description": "City of Pharr's Halloween-themed evening 5K with costumes, ghouls, and zombies along the course, plus finisher medals and age-group awards; listed for Saturday, October 3, 2026. Evening start (2025 edition started 7:00 PM) — confirm 2026 start time with Pharr Parks & Recreation (956-402-4550).",
+      "start": "2026-10-03T19:00:00-05:00",
+      "end": "",
+      "venue": "Cage Boulevard corridor",
+      "city": "Pharr",
+      "address": "Cage Blvd, Pharr, TX",
+      "category": "run",
+      "price": "$20 adults / $10 kids (2025 pricing)",
+      "url": "https://runsignup.com/Race/TX/Pharr/NightmareOnCageBlvd5K",
+      "source": "RunSignup / City of Pharr events page / RunningInTheUSA",
+      "sponsorship": true,
+      "booth": true,
+      "verified": false,
+      "image": "",
+      "id": "nightmare-on-cage-blvd-5k-2026-10-03",
+      "tags": [
+        "pharr",
+        "run"
+      ],
+      "organization": "RunSignup / City of Pharr events page / RunningInTheUSA",
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
@@ -5150,6 +5384,32 @@
       "booth": false
     },
     {
+      "title": "Jo Koy",
+      "description": "Stand-up comedian Jo Koy performs at Bert Ogden Arena on October 4, 2026 at 7:30 PM.",
+      "start": "2026-10-04T19:30:00-05:00",
+      "end": "",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "4900 S US-281, Edinburg, TX 78539",
+      "category": "other",
+      "price": "",
+      "url": "https://bertogdenarena.com/upcoming-events/",
+      "source": "AllEvents / Bert Ogden Arena listings",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "jo-koy-2026-10-04",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "AllEvents / Bert Ogden Arena listings",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Pharr Gateway Forum",
       "description": "Inaugural free forum for local and international investors, business owners, and students, with panels on the Pharr bridge expansion, transportation, and international trade. Registration opens Aug. 28 at the Truck Expo.",
       "start": "2026-10-07T00:00:00-05:00",
@@ -5198,6 +5458,32 @@
       ],
       "organization": "Weslaco Area Chamber of Commerce programs page (recurring first-Wednesday schedule; individual date not separately confirmed)",
       "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Business Over Breakfast (Harlingen Chamber)",
+      "description": "Monthly free breakfast networking event hosted by the Harlingen Area Chamber of Commerce, held the second Thursday of each month in the David E. Allex Boardroom. Free and open to the public with complimentary breakfast and guest speakers on local business topics.",
+      "start": "2026-10-08T09:00:00-05:00",
+      "end": "",
+      "venue": "David E. Allex Boardroom, Harlingen Area Chamber of Commerce",
+      "city": "Harlingen",
+      "address": "",
+      "category": "networking",
+      "price": "Free",
+      "url": "https://www.harlingen.com/mixers-networking-events/",
+      "source": "Harlingen Area Chamber of Commerce events calendar",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "business-over-breakfast-harlingen-chamber-2026-10-08",
+      "tags": [
+        "harlingen",
+        "networking"
+      ],
+      "organization": "Harlingen Area Chamber of Commerce events calendar",
+      "county": "Cameron",
       "confidence": "medium",
       "recurring": false
     },
@@ -5278,6 +5564,32 @@
       "confidence": "high",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Luis R Conriquez & Eslabon Armado",
+      "description": "Corridos co-headline show with Luis R Conriquez and Eslabon Armado at Payne Arena, listed for October 9, 2026.",
+      "start": "2026-10-09T09:00:00-05:00",
+      "end": "",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "2600 N State Highway 336, Hidalgo, TX 78557",
+      "category": "other",
+      "price": "",
+      "url": "https://www.hidalgoarena.com/",
+      "source": "Spotify concerts / AllEvents",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "luis-r-conriquez-eslabon-armado-2026-10-09",
+      "tags": [
+        "hidalgo",
+        "other"
+      ],
+      "organization": "Spotify concerts / AllEvents",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "SJA College Fair",
@@ -5750,6 +6062,32 @@
       "recurring": false
     },
     {
+      "title": "Marine Military Academy Parents Weekend",
+      "description": "Marine Military Academy's annual Parents Weekend and Homecoming, October 16-18, 2026, when families visit cadets on the Harlingen campus for a weekend of academy events.",
+      "start": "2026-10-16T09:00:00-05:00",
+      "end": "2026-10-18T17:00:00-05:00",
+      "venue": "Marine Military Academy",
+      "city": "Harlingen",
+      "address": "320 Iwo Jima Blvd, Harlingen, TX 78550",
+      "category": "other",
+      "price": "",
+      "url": "https://www.mma-tx.org/events/parents-weekend/",
+      "source": "mma-tx.org (official MMA events page)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "marine-military-academy-parents-weekend-2026-10-16",
+      "tags": [
+        "harlingen",
+        "other"
+      ],
+      "organization": "mma-tx.org (official MMA events page)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Yandel Sinfonico",
       "description": "Reggaeton star Yandel performs a symphonic concert at Payne Arena. Tickets via Ticketmaster.",
       "start": "2026-10-16T20:00:00-05:00",
@@ -6011,6 +6349,32 @@
       "booth": true
     },
     {
+      "title": "Dante Gebel - World Tour Despedida 2026",
+      "description": "Speaker and pastor Dante Gebel brings his farewell world tour to the McAllen Performing Arts Center on October 21, 2026 at 8:00 PM.",
+      "start": "2026-10-21T20:00:00-05:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
+      "source": "Ticketmaster / City of McAllen fall arts lineup",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "dante-gebel-world-tour-despedida-2026-2026-10-21",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Ticketmaster / City of McAllen fall arts lineup",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "South Padre Island Muzicians Run 5K/10K",
       "description": "5K/10K run on South Padre Island scheduled for Saturday, October 24, 2026. Online registration is open through October 22, 2026, with race-day registration subject to sell-out caps.",
       "start": "2026-10-24T08:00:00-05:00",
@@ -6033,6 +6397,58 @@
       ],
       "organization": "muziciansrun.com",
       "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "UIL 5A Area G Marching Contest",
+      "description": "UIL Music Area G marching band contest for Class 5A bands, hosted at Mercedes Tiger Stadium. Advancing bands from Rio Grande Valley region contests compete for spots at the UIL State Marching Band Contest.",
+      "start": "2026-10-24T09:00:00-05:00",
+      "end": "",
+      "venue": "Mercedes Tiger Stadium",
+      "city": "Mercedes",
+      "address": "Mercedes, TX",
+      "category": "other",
+      "price": "Ticketed (digital tickets via HomeTown Ticketing)",
+      "url": "https://uilmusic15.com/uil-area-g-marching-contest/",
+      "source": "uilmusic15.com (UIL Music Region 15 Area G contest page)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "uil-5a-area-g-marching-contest-2026-10-24",
+      "tags": [
+        "mercedes",
+        "other"
+      ],
+      "organization": "uilmusic15.com (UIL Music Region 15 Area G contest page)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "City of Edinburg Fall Festival",
+      "description": "The City of Edinburg's family Fall Festival on October 24, 2026 with costume contests, sweet treats, rides and games.",
+      "start": "2026-10-24T09:00:00-05:00",
+      "end": "",
+      "venue": "City of Edinburg (venue TBA)",
+      "city": "Edinburg",
+      "address": "",
+      "category": "city",
+      "price": "Free",
+      "url": "https://exploreetx.com/event/city-of-edinburgs-fall-festival/",
+      "source": "Explore Edinburg (exploreetx.com)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "city-of-edinburg-fall-festival-2026-10-24",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Explore Edinburg (exploreetx.com)",
+      "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
     },
@@ -6141,6 +6557,32 @@
       "booth": false
     },
     {
+      "title": "Gaby Mendoza",
+      "description": "Comedian Gaby Mendoza performs at the McAllen Performing Arts Center on October 24, 2026 at 8:00 PM.",
+      "start": "2026-10-24T20:00:00-05:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
+      "source": "Ticketmaster",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "gaby-mendoza-2026-10-24",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Boot Run 5K — RGVLS Champs for Champions",
       "description": "5K + 1K at the Rio Grande Valley Livestock Show grounds, Mercedes. Time TBD.",
       "start": "2026-10-25T00:00:00-05:00",
@@ -6245,32 +6687,6 @@
       "recurring": false
     },
     {
-      "title": "Monster Dash 5K/10K",
-      "description": "Halloween 5K/10K + 1M in Weslaco. Time TBD.",
-      "start": "2026-10-31T00:00:00-05:00",
-      "end": "",
-      "venue": "",
-      "city": "Weslaco",
-      "address": "",
-      "category": "run",
-      "price": "Registration",
-      "url": "https://www.runningintheusa.com/race/list/within-50-miles-of-mcallen-tx/upcoming",
-      "image": "",
-      "source": "RunningInTheUSA",
-      "sponsorship": false,
-      "verified": false,
-      "id": "monster-dash-5k-10k-2026-10-31",
-      "tags": [
-        "run",
-        "weslaco"
-      ],
-      "organization": "RunningInTheUSA",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "Monster Dash 10K, 5K & 1 Mile Little Monster's Dash",
       "description": "Inaugural Halloween-themed Monster Dash 10K, 5K, and kids' 1-mile run at Harlon Block Sports Complex in Weslaco on Saturday, October 31, 2026 at 8 a.m.",
       "start": "2026-10-31T08:00:00-05:00",
@@ -6280,7 +6696,7 @@
       "address": "1201 N Airport Dr, Weslaco, TX",
       "category": "run",
       "price": "",
-      "url": "https://allevents.in/weslaco/all",
+      "url": "https://www.bikesignup.com/Race/Register/RaceGroup-2096459?raceId=150640",
       "source": "AllEvents.in / Eventbrite",
       "sponsorship": true,
       "booth": false,
@@ -6349,6 +6765,32 @@
       "recurring": false
     },
     {
+      "title": "Dia de los Muertos Celebration & Parade",
+      "description": "Free community Dia de los Muertos celebration and parade at Texas Southmost College's Fort Brown Campus, featuring altars, tributes, and cultural festivities.",
+      "start": "2026-11-02T09:00:00-06:00",
+      "end": "",
+      "venue": "Texas Southmost College, Fort Brown Campus",
+      "city": "Brownsville",
+      "address": "80 Fort Brown, Brownsville, TX 78520",
+      "category": "other",
+      "price": "Free",
+      "url": "https://www.tsc.edu/events/category/student-life/day/2026-11-02/",
+      "source": "tsc.edu (TSC events calendar)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "dia-de-los-muertos-celebration-parade-2026-11-02",
+      "tags": [
+        "brownsville",
+        "other"
+      ],
+      "organization": "tsc.edu (TSC events calendar)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Weslaco Chamber Networking Lunch Mob (November)",
       "description": "Monthly networking lunch hosted by the Weslaco Area Chamber of Commerce on the first Wednesday of each month at a selected member restaurant (location announced in advance). Free for members, $5 for non-members.",
       "start": "2026-11-04T11:30:00-06:00",
@@ -6370,6 +6812,32 @@
         "weslaco"
       ],
       "organization": "Weslaco Area Chamber of Commerce programs page (recurring first-Wednesday schedule; individual date not separately confirmed)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Adelitas Way - Home School Valedictorian Tour",
+      "description": "Rock band Adelitas Way performs at Payne Arena on November 5, 2026.",
+      "start": "2026-11-05T09:00:00-06:00",
+      "end": "",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "2600 N State Highway 336, Hidalgo, TX 78557",
+      "category": "other",
+      "price": "",
+      "url": "https://www.hidalgoarena.com/",
+      "source": "JamBase / Payne Arena listings",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "adelitas-way-home-school-valedictorian-tour-2026-11-05",
+      "tags": [
+        "hidalgo",
+        "other"
+      ],
+      "organization": "JamBase / Payne Arena listings",
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
@@ -6453,32 +6921,6 @@
       "booth": false
     },
     {
-      "title": "Daniel A. Saldana 5K",
-      "description": "Memorial 5K in McAllen. Time TBD.",
-      "start": "2026-11-07T00:00:00-06:00",
-      "end": "",
-      "venue": "",
-      "city": "McAllen",
-      "address": "",
-      "category": "run",
-      "price": "Registration",
-      "url": "https://www.runningintheusa.com/race/list/within-50-miles-of-mcallen-tx/upcoming",
-      "image": "",
-      "source": "RunningInTheUSA",
-      "sponsorship": false,
-      "verified": false,
-      "id": "daniel-a-saldana-5k-2026-11-07",
-      "tags": [
-        "mcallen",
-        "run"
-      ],
-      "organization": "RunningInTheUSA",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "Women Running Violence Out of Town 5K",
       "description": "Awareness 5K + 1K in San Juan. Time TBD.",
       "start": "2026-11-07T00:00:00-06:00",
@@ -6503,6 +6945,32 @@
       "confidence": "medium",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Daniel A. Saldana Memorial \"Share the Love 5K\"",
+      "description": "Memorial 5K raising awareness for epilepsy and SUDEP, with proceeds benefiting Daniel's Closet at the South Texas College Technology Campus. Organized by HOG Racing; price increases after September 12 and shirt deadline is October 25.",
+      "start": "2026-11-07T08:00:00-06:00",
+      "end": "",
+      "venue": "Edinburg Municipal Park",
+      "city": "Edinburg",
+      "address": "714 S Raul Longoria Rd, Edinburg, TX",
+      "category": "run",
+      "price": "$35",
+      "url": "https://runsignup.com/Race/TX/Mcallen/DanielASaldaA5k",
+      "source": "RunSignup / AllEvents listing",
+      "sponsorship": true,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "daniel-a-saldana-memorial-share-the-love-5k-2026-11-07",
+      "tags": [
+        "edinburg",
+        "run"
+      ],
+      "organization": "RunSignup / AllEvents listing",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "33rd Annual Shrimp Cook-off and Seafood Festival",
@@ -6554,6 +7022,58 @@
       "organization": "Texas Butterfly Festival (official)",
       "county": "Hidalgo",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Adrián Uribe: 50 y Pico Tour",
+      "description": "Mexican comedian and actor Adrián Uribe brings his 50 y Pico Tour to the McAllen Performing Arts Center on November 7, 2026.",
+      "start": "2026-11-07T09:00:00-06:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "url": "https://texasborderbusiness.com/mcallen-unveils-major-fall-and-holiday-performing-arts-lineup/",
+      "source": "Texas Border Business (City of McAllen announcement)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "adrian-uribe-50-y-pico-tour-2026-11-07",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Texas Border Business (City of McAllen announcement)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "La Mafia Live at Mustang Yard",
+      "description": "Tejano legends La Mafia perform live at Mustang Yard in Weslaco on Saturday, November 7, 2026 starting at 5:00 PM.",
+      "start": "2026-11-07T17:00:00-06:00",
+      "end": "",
+      "venue": "Mustang Yard",
+      "city": "Weslaco",
+      "address": "3610 E Expressway 83, Weslaco, TX 78596",
+      "category": "other",
+      "price": "",
+      "url": "https://www.eventbrite.com/d/tx--weslaco/weslaco-texas/",
+      "source": "Eventbrite",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "la-mafia-live-at-mustang-yard-2026-11-07",
+      "tags": [
+        "other",
+        "weslaco"
+      ],
+      "organization": "Eventbrite",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -6686,6 +7206,32 @@
       "confidence": "medium",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Banda Corona del Rey",
+      "description": "Banda Corona del Rey performs at the McAllen Performing Arts Center on November 13, 2026 at 8:00 PM.",
+      "start": "2026-11-13T20:00:00-06:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
+      "source": "Ticketmaster",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "banda-corona-del-rey-2026-11-13",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Mud Factor — Edinburg",
@@ -6895,6 +7441,32 @@
       "confidence": "low",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Beatriz Adriana",
+      "description": "Ranchera singer Beatriz Adriana performs at the McAllen Performing Arts Center on November 21, 2026 at 8:00 PM.",
+      "start": "2026-11-21T20:00:00-06:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
+      "source": "Ticketmaster",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "beatriz-adriana-2026-11-21",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Hermanos Espinoza - Linaje Tour",
