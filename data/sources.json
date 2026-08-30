@@ -1,6 +1,6 @@
 {
   "description": "Events956 source registry. Every sweep iterates this file. method: rss|ical|gcal|page (plain fetch), browser (needs real Chrome — Cloudflare/JS), browser-public (Facebook logged-out), websearch (general search), submission-only (no public calendar; rely on outreach/submissions). priority: 1=every sweep, 2=weekly, 3=occasional. The cities list drives Facebook searches, websearch queries, and geographic filtering — tier 1 cities get searched every sweep, tier 2 weekly/rotating.",
-  "updated": "2026-08-23",
+  "updated": "2026-08-30",
   "cities": [
     {
       "name": "McAllen",
@@ -789,7 +789,7 @@
       "method": "search",
       "url": "https://www.cutco.com/company/events?state=TX",
       "priority": 2,
-      "notes": "Added per Juan 2026-08-13. Statewide fair/show directory — filter for RGV cities. Events listed here typically sell vendor booth space; set booth=true. Sweeps 2026-08-16 and 2026-08-23: no RGV-area events listed; keep checking."
+      "notes": "Added per Juan 2026-08-13. Statewide fair/show directory — filter for RGV cities. Events listed here typically sell vendor booth space; set booth=true. Sweeps 2026-08-16/08-23/08-30: no RGV-area events listed; keep checking."
     },
     {
       "id": "isd-sharyland",
