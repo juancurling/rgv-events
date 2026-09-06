@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-09-06",
   "events": [
     {
       "title": "\"Alegria\" - UTRGV Ballet Folklorico",
@@ -3999,6 +3999,32 @@
       "recurring": false
     },
     {
+      "title": "1 Million Cups McAllen",
+      "description": "Free Kauffman Foundation entrepreneur coffee-and-pitch program hosted by the McAllen Chamber of Commerce, running Wednesday mornings 9-10 AM. Next session in the recurring series falls Wednesday, September 9, 2026; specific presenter not yet announced.",
+      "start": "2026-09-09T09:00:00-05:00",
+      "end": "2026-09-09T10:00:00-05:00",
+      "venue": "McAllen Chamber of Commerce",
+      "city": "McAllen",
+      "address": "1200 Ash Ave, McAllen, TX 78501",
+      "category": "networking",
+      "price": "Free",
+      "url": "https://mcallenchamber.com/event/1-million-cups/",
+      "source": "McAllen Chamber of Commerce event page; 1MC McAllen Facebook",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "1-million-cups-mcallen-2026-09-09",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "McAllen Chamber of Commerce event page; 1MC McAllen Facebook",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "JustUs RGV Networking Lunch",
       "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
       "start": "2026-09-09T11:30:00-05:00",
@@ -5148,6 +5174,58 @@
       "recurring": false
     },
     {
+      "title": "Member Spin — Harlingen Area Chamber of Commerce (October)",
+      "description": "Monthly first-Friday member networking spin hosted by the Harlingen Area Chamber of Commerce. Listed on the chamber's event calendar for Friday, October 2, 2026; time not yet published.",
+      "start": "2026-10-02T09:00:00-05:00",
+      "end": "",
+      "venue": "",
+      "city": "Harlingen",
+      "address": "",
+      "category": "networking",
+      "price": "",
+      "url": "https://business.harlingen.com/events",
+      "source": "Harlingen Area Chamber of Commerce event calendar",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "member-spin-harlingen-area-chamber-of-commerce-october-2026-10-02",
+      "tags": [
+        "harlingen",
+        "networking"
+      ],
+      "organization": "Harlingen Area Chamber of Commerce event calendar",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Sandcastle Days 2026",
+      "description": "South Padre Island's annual master sand-sculpting festival, a qualifying event for the World Championships of Sand Sculpting, with live music, art booths and food. October 2-4, 2026; free admission and a new location this year.",
+      "start": "2026-10-02T09:00:00-05:00",
+      "end": "2026-10-04T18:00:00-05:00",
+      "venue": "South Padre Island beachfront (new location TBA)",
+      "city": "South Padre Island",
+      "address": "",
+      "category": "other",
+      "price": "Free",
+      "url": "https://www.sandcastledays.com/",
+      "source": "sandcastledays.com (official site)",
+      "sponsorship": true,
+      "booth": true,
+      "verified": false,
+      "image": "",
+      "id": "sandcastle-days-2026-2026-10-02",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ],
+      "organization": "sandcastledays.com (official site)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Concrete & Jerry Garcia's \"That's Not Me\" Comedy Tour",
       "description": "Stand-up night at the historic Cine El Rey featuring Concrete and HBO/Netflix comedian Jerry Garcia. Doors 6 PM, show 7 PM.",
       "start": "2026-10-02T18:00:00-05:00",
@@ -5330,6 +5408,32 @@
       "recurring": false
     },
     {
+      "title": "Jesus Saves 5k Run",
+      "description": "Chip-timed 5K and 1-mile walk hosted by First Baptist Church of Pharr on the Precinct 2 Hike and Bike Trail, Saturday Oct 3, 2026. 5K $25 (increases Sept 1); shirt guaranteed for registrations by Sept 12. Start time not yet confirmed.",
+      "start": "2026-10-03T08:00:00-05:00",
+      "end": "",
+      "venue": "Precinct 2 Hike and Bike Trail",
+      "city": "Pharr",
+      "address": "1901 S Cage Blvd, Pharr, TX 78577",
+      "category": "run",
+      "price": "$25 5K / $20 1-mile walk",
+      "url": "https://runsignup.com/Race/TX/Pharr/JesusSaves5kRun",
+      "source": "runsignup.com via web search",
+      "sponsorship": true,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "jesus-saves-5k-run-2026-10-03",
+      "tags": [
+        "pharr",
+        "run"
+      ],
+      "organization": "runsignup.com via web search",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Motley Krue & GN'R Reloaded (tribute night)",
       "description": "Mötley Crüe and Guns N' Roses tribute bands perform at Railyard 83 IceHouse in Alamo on October 3, 2026.",
       "start": "2026-10-03T09:00:00-05:00",
@@ -5382,6 +5486,32 @@
       "recurring": false
     },
     {
+      "title": "25th Annual PSJA Tri-City Red Ribbon Parade",
+      "description": "PSJA ISD's annual Tri-City Red Ribbon Parade kicks off Red Ribbon Week drug-awareness season, with school and community entries marching through San Juan. Hosted with the cities of Pharr, San Juan and Alamo.",
+      "start": "2026-10-03T09:00:00-05:00",
+      "end": "2026-10-03T11:00:00-05:00",
+      "venue": "Downtown San Juan (parade route)",
+      "city": "San Juan",
+      "address": "San Juan, TX 78589",
+      "category": "other",
+      "price": "Free",
+      "url": "https://pharr-tx.gov/event/24th-annual-psja-tri-city-red-ribbon-parade-2025/",
+      "source": "City of Pharr events calendar / PSJA ISD",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "25th-annual-psja-tri-city-red-ribbon-parade-2026-10-03",
+      "tags": [
+        "other",
+        "san-juan"
+      ],
+      "organization": "City of Pharr events calendar / PSJA ISD",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Nightmare on Cage Blvd. 5K",
       "description": "City of Pharr's Halloween-themed evening 5K with costumes, ghouls, and zombies along the course, plus finisher medals and age-group awards; listed for Saturday, October 3, 2026. Evening start (2025 edition started 7:00 PM) — confirm 2026 start time with Pharr Parks & Recreation (956-402-4550).",
       "start": "2026-10-03T19:00:00-05:00",
@@ -5406,33 +5536,6 @@
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
-    },
-    {
-      "title": "Juanes Live in McAllen",
-      "description": "Latin rock icon Juanes performs hits like \"A Dios Le Pido\" and \"La Camisa Negra\" with world-class stage production at the McAllen Performing Arts Center.",
-      "start": "2026-10-03T20:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Performing Arts Center",
-      "city": "McAllen",
-      "address": "801 Convention Center Blvd, McAllen, TX 78501",
-      "category": "other",
-      "price": "See Ticketmaster",
-      "url": "https://www.exploremcallen.com/event/juanes-live-in-mcallen/",
-      "image": "",
-      "source": "exploremcallen.com",
-      "sponsorship": false,
-      "verified": true,
-      "fbSignals": "6 interested · 2 going",
-      "id": "juanes-live-in-mcallen-2026-10-03",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "exploremcallen.com",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false,
-      "booth": false
     },
     {
       "title": "Chayanne – Bailemos Otra Vez Tour",
@@ -6060,6 +6163,32 @@
       "recurring": false
     },
     {
+      "title": "Saint Joseph Academy Open House",
+      "description": "Admissions open house for prospective families with students in grades 5-8, featuring Angel Ambassador-led tours, classroom visits, faculty meet-and-greets and program presentations. Walk-up tours welcome until 11:30 a.m.",
+      "start": "2026-10-10T09:00:00-05:00",
+      "end": "2026-10-10T12:00:00-05:00",
+      "venue": "Saint Joseph Academy",
+      "city": "Brownsville",
+      "address": "101 St. Joseph Dr, Brownsville, TX 78520",
+      "category": "other",
+      "price": "Free",
+      "url": "https://www.sja.us/",
+      "source": "Saint Joseph Academy website (sja.us)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "saint-joseph-academy-open-house-2026-10-10",
+      "tags": [
+        "brownsville",
+        "other"
+      ],
+      "organization": "Saint Joseph Academy website (sja.us)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Monster Jam 2026",
       "description": "Monster Jam roars into Bert Ogden Arena with three shows: Saturday 1 PM and 7 PM, Sunday 2 PM. Full-throttle monster truck action for the whole family.",
       "start": "2026-10-10T13:00:00-05:00",
@@ -6477,6 +6606,32 @@
       "recurring": false
     },
     {
+      "title": "Step Up for Down Syndrome Awareness Walk 2026",
+      "description": "RGV Down Syndrome Association's largest annual fundraiser walk and community celebration at Edinburg Municipal Park, 9:00 AM to 1:00 PM. Proceeds fund RGVDSA's year-round family services, education and advocacy programs.",
+      "start": "2026-10-17T09:00:00-05:00",
+      "end": "2026-10-17T13:00:00-05:00",
+      "venue": "Edinburg Municipal Park",
+      "city": "Edinburg",
+      "address": "714 S Raul Longoria Rd, Edinburg, TX 78542",
+      "category": "nonprofit",
+      "price": "",
+      "url": "https://charity.pledgeit.org/StepUpRGVDSA",
+      "source": "charity.pledgeit.org/StepUpRGVDSA via web search",
+      "sponsorship": true,
+      "booth": true,
+      "verified": true,
+      "image": "",
+      "id": "step-up-for-down-syndrome-awareness-walk-2026-2026-10-17",
+      "tags": [
+        "edinburg",
+        "nonprofit"
+      ],
+      "organization": "charity.pledgeit.org/StepUpRGVDSA via web search",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Mariachazo in McAllen",
       "description": "Two of the world's most iconic mariachi ensembles, Mariachi Vargas de Tecalitlán and Mariachi Nuevo Tecalitlán, share one stage for a celebration of Mexican heritage.",
       "start": "2026-10-17T20:00:00-05:00",
@@ -6608,6 +6763,32 @@
       "booth": true
     },
     {
+      "title": "9th Annual Trunk or Treat at RGV College",
+      "description": "Rio Grande Valley College's annual free community trunk-or-treat at its Pharr campus, with decorated trunks, music, food and a costume contest. Prior editions have drawn large family crowds.",
+      "start": "2026-10-21T18:30:00-05:00",
+      "end": "",
+      "venue": "Rio Grande Valley College",
+      "city": "Pharr",
+      "address": "5419 N. Cage Blvd, Pharr, TX 78577",
+      "category": "other",
+      "price": "Free",
+      "url": "https://www.facebook.com/RGVCollege/",
+      "source": "RGV College Facebook event",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "9th-annual-trunk-or-treat-at-rgv-college-2026-10-21",
+      "tags": [
+        "other",
+        "pharr"
+      ],
+      "organization": "RGV College Facebook event",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Dante Gebel - World Tour Despedida 2026",
       "description": "Speaker and pastor Dante Gebel brings his farewell world tour to the McAllen Performing Arts Center on October 21, 2026 at 8:00 PM.",
       "start": "2026-10-21T20:00:00-05:00",
@@ -6634,6 +6815,32 @@
       "recurring": false
     },
     {
+      "title": "Marine Military Academy Ball",
+      "description": "MMA's formal Ball held on campus during Parents Weekend, featuring heavy hors d'oeuvres, the Marine Corps birthday cake-cutting ceremony, a live auction and a dance. Note: MMA's site places this during Parents Weekend, which may indicate the Parents Weekend entry already on the calendar (Oct 16-18) needs re-checking.",
+      "start": "2026-10-22T17:00:00-05:00",
+      "end": "2026-10-22T21:00:00-05:00",
+      "venue": "King Gym, Marine Military Academy",
+      "city": "Harlingen",
+      "address": "320 Iwo Jima Blvd, Harlingen, TX 78550",
+      "category": "gala",
+      "price": "",
+      "url": "https://www.mma-tx.org/events/parents-weekend/",
+      "source": "Marine Military Academy website (mma-tx.org)",
+      "sponsorship": true,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "marine-military-academy-ball-2026-10-22",
+      "tags": [
+        "gala",
+        "harlingen"
+      ],
+      "organization": "Marine Military Academy website (mma-tx.org)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "South Padre Island Muzicians Run 5K/10K",
       "description": "5K/10K run on South Padre Island scheduled for Saturday, October 24, 2026. Online registration is open through October 22, 2026, with race-day registration subject to sell-out caps.",
       "start": "2026-10-24T08:00:00-05:00",
@@ -6655,6 +6862,32 @@
         "south-padre-island"
       ],
       "organization": "muziciansrun.com",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "2026 Walk to End Alzheimer's - Lower Valley",
+      "description": "Alzheimer's Association's Lower Valley edition of its nationwide fundraising walk, confirmed for October 24, 2026 on the official act.alz.org event page. Start time and exact Harlingen venue not yet posted.",
+      "start": "2026-10-24T08:00:00-05:00",
+      "end": "",
+      "venue": "",
+      "city": "Harlingen",
+      "address": "",
+      "category": "nonprofit",
+      "price": "Free (fundraising encouraged)",
+      "url": "https://act.alz.org/site/TR?fr_id=19954&pg=entry",
+      "source": "act.alz.org via web search",
+      "sponsorship": true,
+      "booth": true,
+      "verified": false,
+      "image": "",
+      "id": "2026-walk-to-end-alzheimer-s-lower-valley-2026-10-24",
+      "tags": [
+        "harlingen",
+        "nonprofit"
+      ],
+      "organization": "act.alz.org via web search",
       "county": "Cameron",
       "confidence": "medium",
       "recurring": false
@@ -7154,32 +7387,6 @@
       "recurring": false
     },
     {
-      "title": "Adelitas Way - Home School Valedictorian Tour",
-      "description": "Rock band Adelitas Way performs at Payne Arena on November 5, 2026.",
-      "start": "2026-11-05T09:00:00-06:00",
-      "end": "",
-      "venue": "Payne Arena",
-      "city": "Hidalgo",
-      "address": "2600 N State Highway 336, Hidalgo, TX 78557",
-      "category": "other",
-      "price": "",
-      "url": "https://www.hidalgoarena.com/",
-      "source": "JamBase / Payne Arena listings",
-      "sponsorship": false,
-      "booth": false,
-      "verified": false,
-      "image": "",
-      "id": "adelitas-way-home-school-valedictorian-tour-2026-11-05",
-      "tags": [
-        "hidalgo",
-        "other"
-      ],
-      "organization": "JamBase / Payne Arena listings",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false
-    },
-    {
       "title": "Man & Woman of the Year Gala: La Catrina",
       "description": "The McAllen Chamber of Commerce and McAllen EDC host their largest annual fundraiser, a binational 'La Catrina'-themed gala honoring the Man and Woman of the Year, Thursday, November 5, 2026, 6:30-10:00 PM. Proceeds fund the Chamber's small business and workforce development programs; sponsorships and table purchases available.",
       "start": "2026-11-05T18:30:00-06:00",
@@ -7229,6 +7436,32 @@
       "organization": "Ticketmaster / Payne Arena listings",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Member Spin — Harlingen Area Chamber of Commerce (November)",
+      "description": "Monthly first-Friday member networking spin hosted by the Harlingen Area Chamber of Commerce, showing on the chamber calendar for Friday, November 6, 2026; time not yet published.",
+      "start": "2026-11-06T09:00:00-06:00",
+      "end": "",
+      "venue": "",
+      "city": "Harlingen",
+      "address": "",
+      "category": "networking",
+      "price": "",
+      "url": "https://business.harlingen.com/events",
+      "source": "Harlingen Area Chamber of Commerce event calendar",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "member-spin-harlingen-area-chamber-of-commerce-november-2026-11-06",
+      "tags": [
+        "harlingen",
+        "networking"
+      ],
+      "organization": "Harlingen Area Chamber of Commerce event calendar",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -7388,6 +7621,32 @@
       "recurring": false
     },
     {
+      "title": "Edinburg Chamber Installation & Awards Banquet — An Evening in Color",
+      "description": "Edinburg Chamber of Commerce annual Installation & Awards Banquet, themed 'An Evening in Color,' recognizing Man & Woman of the Year and outstanding businesses, and installing the new board of directors. Saturday, November 7, 2026; venue and time not yet announced (historically held at Region One ESC).",
+      "start": "2026-11-07T09:00:00-06:00",
+      "end": "",
+      "venue": "",
+      "city": "Edinburg",
+      "address": "",
+      "category": "gala",
+      "price": "",
+      "url": "https://edinburg.com/awards/",
+      "source": "Edinburg Chamber (edinburg.com/awards); Texas Border Business",
+      "sponsorship": true,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "edinburg-chamber-installation-awards-banquet-an-evening-in-color-2026-11-07",
+      "tags": [
+        "edinburg",
+        "gala"
+      ],
+      "organization": "Edinburg Chamber (edinburg.com/awards); Texas Border Business",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "La Mafia Live at Mustang Yard",
       "description": "Tejano legends La Mafia perform live at Mustang Yard in Weslaco on Saturday, November 7, 2026 starting at 5:00 PM.",
       "start": "2026-11-07T17:00:00-06:00",
@@ -7411,6 +7670,32 @@
       "organization": "Eventbrite",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Una Noche de Leyendas",
+      "description": "Regional Mexican legends package show at Bert Ogden Arena on Saturday, November 7, 2026, featuring Conjunto Primavera, La Firma, Banda Machos and Cadetes de Linares. Listings show a 7:00 PM start (one source says 8:00 PM).",
+      "start": "2026-11-07T19:00:00-06:00",
+      "end": "",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "",
+      "category": "other",
+      "price": "Resale from ~$72; Ticketmaster on-sale",
+      "url": "https://bertogdenarena.com/upcoming-events/",
+      "source": "Ticketmaster/Vivid Seats/BoxOfficeTicketSales listings",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "una-noche-de-leyendas-2026-11-07",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Ticketmaster/Vivid Seats/BoxOfficeTicketSales listings",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -7570,33 +7855,6 @@
       "recurring": false
     },
     {
-      "title": "TMF South Padre Island Half Marathon Weekend",
-      "description": "Three-day half-marathon weekend at Isla Blanca Park — the biggest Facebook-tracked event in the region with nearly 2,000 interested.",
-      "start": "2026-11-13T07:00:00-06:00",
-      "end": "2026-11-15T12:00:00-06:00",
-      "venue": "Isla Blanca Park",
-      "city": "South Padre Island",
-      "address": "",
-      "category": "run",
-      "price": "Registration",
-      "url": "https://www.facebook.com/events/search?q=South%20Padre%20Island",
-      "image": "",
-      "source": "Facebook (public search)",
-      "sponsorship": true,
-      "verified": false,
-      "fbSignals": "1.9K interested · 226 going",
-      "id": "tmf-south-padre-island-half-marathon-weekend-2026-11-13",
-      "tags": [
-        "run",
-        "south-padre-island"
-      ],
-      "organization": "Facebook (public search)",
-      "county": "Cameron",
-      "confidence": "medium",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "Harlingen Gun Show",
       "description": "Gun and knife show at the Harlingen Convention Center, Nov. 13-15, 2026, with vendor tables for firearms, knives, ammo, and accessories.",
       "start": "2026-11-13T09:00:00-06:00",
@@ -7673,6 +7931,32 @@
       "confidence": "medium",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "41st Annual Turkey Trot (Brownsville)",
+      "description": "Brownsville's long-running Turkey Trot associated with the Heart Institute of Brownsville, appearing on race listings for November 14, 2026. Time, venue and registration details not yet confirmed from an official source.",
+      "start": "2026-11-14T08:00:00-06:00",
+      "end": "",
+      "venue": "Heart Institute of Brownsville (TBC)",
+      "city": "Brownsville",
+      "address": "",
+      "category": "run",
+      "price": "",
+      "url": "https://www.runningintheusa.com/race/list/map/within-50-miles-of-Harlingen-tx/upcoming",
+      "source": "runningintheusa.com listing + Heart Institute of Brownsville Facebook event via web search",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "41st-annual-turkey-trot-brownsville-2026-11-14",
+      "tags": [
+        "brownsville",
+        "run"
+      ],
+      "organization": "runningintheusa.com listing + Heart Institute of Brownsville Facebook event via web search",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "November Market",
@@ -8012,6 +8296,32 @@
       "recurring": false
     },
     {
+      "title": "McAllen Holiday Parade 2026",
+      "description": "The largest illuminated Christmas and helium-balloon parade in Texas, presented by H-E-B, on Saturday, December 5, 2026 with the theme 'Wild Christmas.' The 1.5-mile route runs through McAllen Veterans Memorial Stadium and south on Bicentennial Blvd; stadium tickets via Ticketmaster and $8 VIP chair seats along the route.",
+      "start": "2026-12-05T09:00:00-06:00",
+      "end": "",
+      "venue": "McAllen Veterans Memorial Stadium",
+      "city": "McAllen",
+      "address": "2001 N Bicentennial Blvd, McAllen, TX 78501",
+      "category": "city",
+      "price": "Free along parts of route; stadium and VIP chair tickets from $8",
+      "url": "https://mcallenholidayparade.com/",
+      "source": "mcallenholidayparade.com + KVEO 2026 theme announcement",
+      "sponsorship": true,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "mcallen-holiday-parade-2026-2026-12-05",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "mcallenholidayparade.com + KVEO 2026 theme announcement",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "JustUs RGV Networking Lunch",
       "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
       "start": "2026-12-09T11:30:00-06:00",
@@ -8194,30 +8504,30 @@
       "confidence": "high"
     },
     {
-      "title": "McAllen Marathon — Scott Crane Memorial Run",
-      "description": "The Valley's marquee race: full marathon (Boston Qualifier), half, 10K, 5K, relay and kids run. Time TBD.",
-      "start": "2027-01-16T00:00:00-06:00",
+      "title": "McAllen Marathon Scott Crane Run",
+      "description": "Boston-qualifying race day with full marathon, half, 6-person relay, 10K, 5K and Kids Final Mile, starting and finishing at McAllen Sports Park. All races start 7:00 AM; online registration closes Jan 13, 2027 at 12:00 PM.",
+      "start": "2027-01-16T07:00:00-06:00",
       "end": "",
-      "venue": "",
+      "venue": "McAllen Sports Park",
       "city": "McAllen",
-      "address": "",
+      "address": "2001 N Bicentennial Blvd, McAllen, TX",
       "category": "run",
-      "price": "Registration",
-      "url": "https://www.runningintheusa.com/race/list/within-50-miles-of-mcallen-tx/upcoming",
-      "image": "",
-      "source": "RunningInTheUSA",
+      "price": "",
+      "url": "https://mcallenmarathon.com/mcallen-marathon/",
+      "source": "mcallenmarathon.com via web search",
       "sponsorship": true,
-      "verified": false,
-      "id": "mcallen-marathon-scott-crane-memorial-run-2027-01-16",
+      "booth": true,
+      "verified": true,
+      "image": "",
+      "id": "mcallen-marathon-scott-crane-run-2027-01-16",
       "tags": [
         "mcallen",
         "run"
       ],
-      "organization": "RunningInTheUSA",
+      "organization": "mcallenmarathon.com via web search",
       "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false,
-      "booth": false
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "South Padre Island Market Days (January)",
