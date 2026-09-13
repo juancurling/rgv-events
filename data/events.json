@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-13",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -24,7 +24,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "1 Million Cups McAllen",
@@ -153,7 +154,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "12th Annual South Texas International Film Festival",
@@ -178,7 +180,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Late Nite at the Rec",
@@ -203,7 +206,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Red Owl Boxing presents BoxFest 2.0",
@@ -228,7 +232,8 @@
       "tags": [
         "hidalgo",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "“Rent” at the Camille Playhouse",
@@ -253,7 +258,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "UTRGV 9/11 Commemorative Event",
@@ -278,7 +284,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "SPI Wahoo Classic",
@@ -355,7 +362,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "911 Community Service Event at the Valley International Airport in Harlingen",
@@ -380,7 +388,8 @@
       "tags": [
         "harlingen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Healthcare Roundtable Discussion",
@@ -405,7 +414,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Meet the Author: Ken Salazar - Session 1",
@@ -430,7 +440,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Frontera Fest 2026",
@@ -482,7 +493,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "El Fantasma en Frontera Fest",
@@ -534,7 +546,8 @@
       "tags": [
         "mission",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "SUCK IT UP: A BOBA COMEDY SHOW",
@@ -559,7 +572,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Obsesion RGV",
@@ -584,7 +598,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Finish the Race 5K",
@@ -661,7 +676,8 @@
       "tags": [
         "port-isabel",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "5th Annual Wonderful Citrus Run for Autism 5K Run",
@@ -689,7 +705,8 @@
       ],
       "alsoSeenOn": [
         "Mission CISD"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "19th Annual Countdown to Zero",
@@ -714,7 +731,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Walk For Wishes - Make-A-Wish RGV 5K Run & Walk",
@@ -765,7 +783,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Kolton Moore & the Clever Few",
@@ -816,7 +835,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "STHS Chalk the Walk: Hope & Inspiration Walk",
@@ -841,7 +861,8 @@
       "tags": [
         "edinburg",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Brownsville Farmers Market",
@@ -870,7 +891,8 @@
       ],
       "alsoSeenOn": [
         "Facebook (public search)"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Hummingbird Morning",
@@ -895,7 +917,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "24th Annual AMTA International Taekwondo Championship",
@@ -920,7 +943,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "She's My Hero – Recruitment Edition",
@@ -948,7 +972,8 @@
       ],
       "alsoSeenOn": [
         "https://pharr-tx.gov/events/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Dog Days of Summer Pop Up Mini Session at Paws and Stay on Padre",
@@ -973,7 +998,8 @@
       "tags": [
         "south-padre-island",
         "market"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mexi-Con 2026",
@@ -998,7 +1024,8 @@
       "tags": [
         "mission",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "FREE Talk: \"Hummingbird Migration in the RGV\"",
@@ -1023,7 +1050,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Frontera Fest 2026",
@@ -1048,7 +1076,8 @@
       "tags": [
         "harlingen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Weslaco High School Class of 1971 & FRIENDS Dinner Dance",
@@ -1073,7 +1102,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Lola’s Moo-Niverse 5k/10k",
@@ -1101,7 +1131,8 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Noche de Vino 2026: Midnight at the Garden",
@@ -1152,7 +1183,8 @@
       "tags": [
         "port-isabel",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Hotline TNT",
@@ -1177,7 +1209,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Misery",
@@ -1202,7 +1235,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "PROTEIN N PUNCHLINES 3: USUAL SUSPECTS",
@@ -1227,7 +1261,8 @@
       "tags": [
         "alton",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Rhythm Room Social",
@@ -1252,7 +1287,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Jessica Audiffred",
@@ -1277,7 +1313,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Paws Fur Help 5K Run & 1 Mile Walk",
@@ -1354,7 +1391,8 @@
       "tags": [
         "brownsville",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "SJA Library Used Book Sale",
@@ -1405,7 +1443,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Who Am I This Time?",
@@ -1430,7 +1469,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "2026 Brownsville Chamber Washington, D.C. Fly-In",
@@ -1481,7 +1521,8 @@
       "tags": [
         "port-isabel",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mission Small Business Expo",
@@ -1532,7 +1573,8 @@
       "tags": [
         "harlingen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Americans with Disability Act-Employer Resources",
@@ -1557,7 +1599,8 @@
       "tags": [
         "harlingen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Greater Mission Chamber Member Mixer",
@@ -1567,7 +1610,7 @@
       "venue": "Holiday Inn Express",
       "city": "Mission",
       "address": "901 S. Shary Rd., Mission, TX 78572",
-      "category": "other",
+      "category": "networking",
       "price": "",
       "url": "https://members.missionchamber.com/events/details/member-mixer-989",
       "image": "",
@@ -1582,7 +1625,8 @@
       "tags": [
         "mission",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Empowering Women in Real Estate Meet Up - Happy Hour!",
@@ -1607,7 +1651,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "16 de Septiembre: Cody's Block Party",
@@ -1635,7 +1680,8 @@
       ],
       "alsoSeenOn": [
         "https://pharr-tx.gov/events/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Ladies' Loteria Appreciation Night",
@@ -1660,7 +1706,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Film Screening: Los Tejanos: A 500-Year History",
@@ -1685,7 +1732,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "2026 Dieciseis De Septiembre 5K/1M",
@@ -1710,7 +1758,8 @@
       "tags": [
         "brownsville",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Movies that ROCK",
@@ -1735,7 +1784,8 @@
       "tags": [
         "harlingen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Sing Street (2016) Dir. John Carney",
@@ -1760,7 +1810,8 @@
       "tags": [
         "harlingen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mariposa Gala 2026: New York, New York!",
@@ -1796,7 +1847,7 @@
       "venue": "Rotating host business (TBA)",
       "city": "McAllen",
       "address": "TBA",
-      "category": "other",
+      "category": "networking",
       "price": "TBD",
       "url": "https://www.nhporgv.com/events.html",
       "source": "NHPO-RGV website (recurring third-Thursday schedule; individual date not separately confirmed)",
@@ -1837,7 +1888,8 @@
       "tags": [
         "weslaco",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Isla Grand Comedy Night",
@@ -1862,7 +1914,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "45th Edinburg Ole Time Festival",
@@ -1913,7 +1966,8 @@
       "tags": [
         "weslaco",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "FriYAY Informational Session - SBA Assistance to Small Business",
@@ -1938,7 +1992,8 @@
       "tags": [
         "harlingen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "JUST SAY IT",
@@ -1963,7 +2018,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Miles of Hope 5K",
@@ -2040,7 +2096,8 @@
       "tags": [
         "edinburg",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "UTRGV Football vs McNeese - Hispanic Heritage Night",
@@ -2143,7 +2200,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Vinyl Record Show of Rio Grande Valley",
@@ -2172,7 +2230,8 @@
       ],
       "alsoSeenOn": [
         "Facebook (public search)"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Meet & Greet Bonnie Aarons",
@@ -2197,7 +2256,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Free Kids Event: Dino Day Featuring Lakeshore Exclusives (McAllen)",
@@ -2222,7 +2282,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "RGVBA Parade of Homes - Fall Edition 2026",
@@ -2273,7 +2334,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "FREE Talk: \"Rare Plants of the RGV\"",
@@ -2298,7 +2360,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "THE GREAT PUMPKIN MARKET🍂🍁",
@@ -2323,7 +2386,8 @@
       "tags": [
         "mcallen",
         "market"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "De Parranda, Mesteno, & Arturo Quintero Outdoor Concert at Mustang Lounge",
@@ -2348,7 +2412,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "SCHOOL OF ROCK MCALLEN SOUTH - SUMMER MUSIC FESTIVAL",
@@ -2373,7 +2438,8 @@
       "tags": [
         "alamo",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mariachi 7 Leguas in Concert",
@@ -2427,7 +2493,8 @@
       ],
       "alsoSeenOn": [
         "https://allevents.in/brownsville/lunada-artisan-market-2026/200030473907718"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "5K Kemp's Krawl | Night Glow Run",
@@ -2452,7 +2519,8 @@
       "tags": [
         "south-padre-island",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "National Night Out 2026 - City of Weslaco",
@@ -2477,7 +2545,8 @@
       "tags": [
         "weslaco",
         "city"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Willie Barcena Live in Cine El Rey",
@@ -2502,7 +2571,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "LA CULTURA PRESENTS : INDEPENDENCIA RAVE",
@@ -2527,7 +2597,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Otaku United Lock In: The Remake",
@@ -2552,7 +2623,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Run for Recovery RGV 5K",
@@ -2603,7 +2675,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "a Fall Book Fest 🍂🎃📙",
@@ -2628,7 +2701,8 @@
       "tags": [
         "pharr",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "🩴CHANCLAMANIA🩴",
@@ -2653,7 +2727,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Back On Road Premiere at Cine El Rey",
@@ -2705,7 +2780,8 @@
       "tags": [
         "brownsville",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Smiles of Hope Gala",
@@ -2730,7 +2806,8 @@
       "tags": [
         "mission",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Midnight Generation",
@@ -2755,7 +2832,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "The Rasmus",
@@ -2806,7 +2884,8 @@
       "tags": [
         "pharr",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "WCR Yoga & Connections",
@@ -2831,7 +2910,8 @@
       "tags": [
         "edinburg",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Soft Launch Workforce Training",
@@ -2856,7 +2936,8 @@
       "tags": [
         "pharr",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Year of the Horse",
@@ -2881,7 +2962,8 @@
       "tags": [
         "harlingen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Schoolyard Transformation Groundbreaking",
@@ -2906,7 +2988,8 @@
       "tags": [
         "pharr",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Space Fest 2026",
@@ -2957,7 +3040,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Sea Turtle Inc. - Mama's Gotcha Day",
@@ -2982,7 +3066,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Taller de Empoderamiento Femenino con HEART-MIND-MONEY FOUNDATION",
@@ -3007,7 +3092,8 @@
       "tags": [
         "edinburg",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Organic Lead Generation",
@@ -3032,7 +3118,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "From Service to Strength: Creative Arts and Wellness Event | September",
@@ -3057,7 +3144,8 @@
       "tags": [
         "edinburg",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "South Texas Community Mental Health Forum",
@@ -3082,7 +3170,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "BiG Hearts BiG Heroes Masquerade Ball",
@@ -3107,7 +3196,8 @@
       "tags": [
         "brownsville",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Buenas Con Tu Sonrisa 2026",
@@ -3132,7 +3222,8 @@
       "tags": [
         "pharr",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Daniel Habif – ASCENDER: El Paso Final World Tour",
@@ -3261,7 +3352,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Harlingen Art Night",
@@ -3286,7 +3378,8 @@
       "tags": [
         "harlingen",
         "market"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Conexión RGV Upscale Singles Mixer (Ages: 30s - 40s)",
@@ -3296,7 +3389,7 @@
       "venue": "Bond Cocktail Lounge",
       "city": "McAllen",
       "address": "1200 Auburn Avenue #Suite 220, McAllen, TX 78504",
-      "category": "other",
+      "category": "networking",
       "price": "",
       "url": "https://www.eventbrite.com/e/conexion-rgv-upscale-singles-mixer-ages-30s-40s-tickets-1999707404678",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192675091%2F3004048969614%2F1%2Foriginal.20260904-123547?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.156&s=38f43d8d97d290686ca29cc9d5146c63",
@@ -3311,7 +3404,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Sips & Savors",
@@ -3336,7 +3430,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Riofest 2026",
@@ -3387,7 +3482,8 @@
       "tags": [
         "weslaco",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Community Garage Sale",
@@ -3415,7 +3511,8 @@
       ],
       "alsoSeenOn": [
         "https://pharr-tx.gov/events/"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Hustle for Hope 5K Run",
@@ -3440,7 +3537,8 @@
       "tags": [
         "donna",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "BTX Space Fest: FIRST Tech Challenge Robotics Competition",
@@ -3468,7 +3566,8 @@
       ],
       "alsoSeenOn": [
         "AllEvents"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "SCHOOL OF ROCK MCALLEN - SUMMER MUSIC FEST",
@@ -3493,7 +3592,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Megan Hollingshead at The Comic Cave as Part of PokeCon RGV",
@@ -3518,7 +3618,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Exploring Encounters: A Cryptozoology Seminar",
@@ -3547,7 +3648,8 @@
       ],
       "alsoSeenOn": [
         "Facebook (public search)"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "FREE Talk: \"Birds in Focus: Bird and Nature Photography for Beginners\"",
@@ -3572,7 +3674,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Water Lantern Festival McAllen",
@@ -3623,7 +3726,8 @@
       "tags": [
         "mcallen",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Grupo Duelo — Gravedad Tour",
@@ -3754,7 +3858,8 @@
       "tags": [
         "south-padre-island",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "RGV Wedding and Quince Expo Sunday Sept 27th",
@@ -3779,7 +3884,8 @@
       "tags": [
         "mcallen",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Valley Makers Market 🩷🛍️✨",
@@ -3804,7 +3910,8 @@
       "tags": [
         "pharr",
         "market"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Unloco LIVE at Cine El Rey",
@@ -3829,7 +3936,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Alfonso Waithsman en Mcallen",
@@ -3854,7 +3962,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "20th Annual Empty Bowls Luncheon - Food Bank RGV",
@@ -3905,7 +4014,8 @@
       "tags": [
         "edinburg",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Texas Oncology McAllen West Ribbon Cutting",
@@ -3915,7 +4025,7 @@
       "venue": "Texas Oncology - McAllen West",
       "city": "McAllen",
       "address": "1800 S. Main St., Suite 600, McAllen, TX 78501",
-      "category": "other",
+      "category": "networking",
       "price": "Free",
       "url": "https://mcallenchamber.com/event/texas-oncology-ribbon-cutting/",
       "image": "",
@@ -3930,7 +4040,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Pity Party (Girls Club)",
@@ -3955,7 +4066,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "5th Annual Tradiciones Mexicanas Concert",
@@ -3980,7 +4092,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Women's Health Breakfast: Insights, Awareness & Empowerment",
@@ -3990,7 +4103,7 @@
       "venue": "Brownsville Events Center",
       "city": "Brownsville",
       "address": "1 Event Center, Brownsville, TX",
-      "category": "other",
+      "category": "networking",
       "price": "$50 member / $75 non-member",
       "url": "https://business.brownsvillechamber.com/events/details/new-date-women-s-health-breakfast-insights-awareness-empowerment-8321",
       "image": "https://cdn-az.allevents.in/events9/banners/cc4cdf877daaab14db03eed8c2c46917a52ee4235ef5327e595578c039abb79b-rimg-w1200-h628-dca80848-gmir?v=1788041233",
@@ -4008,7 +4121,8 @@
       ],
       "alsoSeenOn": [
         "https://allevents.in/brownsville/new-date-womens-health-breakfast-insights-awareness-and-empowerment/200030525204743"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mission Fire Department Fire Safety Fest",
@@ -4033,7 +4147,8 @@
       "tags": [
         "mission",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "PSJA Summer Reads Celebration",
@@ -4058,7 +4173,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "RISE Up Harlingen Business Pitch Competition (3rd Annual)",
@@ -4083,7 +4199,8 @@
       "tags": [
         "harlingen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Samuel Shaer Suicide Awareness 5K",
@@ -4212,7 +4329,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Concrete & Jerry Garcia's \"That's Not Me\" Comedy Tour",
@@ -4263,7 +4381,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mexican Slum Rats",
@@ -4288,7 +4407,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Fragancia Grata",
@@ -4313,7 +4433,8 @@
       "tags": [
         "mission",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Marisela - Eterna Tour 2026",
@@ -4364,7 +4485,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Odin Dupeyron",
@@ -4441,7 +4563,8 @@
       "tags": [
         "brownsville",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Edinburg Fire Department 100 Years Strong 5K",
@@ -4573,7 +4696,8 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Great Strides RGV 5K Run/ Walk",
@@ -4601,7 +4725,8 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Birdies for Babies! Golf Tournament",
@@ -4626,7 +4751,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Motley Krue & GN'R Reloaded (tribute night)",
@@ -4729,7 +4855,8 @@
       "tags": [
         "san-juan",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Downtown Harlingen Market Days",
@@ -4754,7 +4881,8 @@
       "tags": [
         "harlingen",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Blessing of the Animals at Saint Joseph Academy",
@@ -4779,7 +4907,8 @@
       "tags": [
         "brownsville",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "FREE Talk: \"Pollinators of Managed Habitats in the RGV\"",
@@ -4804,7 +4933,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Fire Fest 2026",
@@ -4829,7 +4959,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "The Good Shepherd 5k",
@@ -4857,7 +4988,8 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Sunset Pilates @ Tres Lagos Saturday Night Markets",
@@ -4882,7 +5014,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Faith, Hope and Love 5k",
@@ -4911,7 +5044,8 @@
       "alsoSeenOn": [
         "AllEvents",
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Nightmare on Cage Blvd. 5K",
@@ -4962,7 +5096,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Chayanne – Bailemos Otra Vez Tour",
@@ -5065,7 +5200,8 @@
       "tags": [
         "elsa",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Jo Koy – Koy Meets World Tour",
@@ -5128,7 +5264,7 @@
       "venue": "Sinatra International Cuisine & Bar",
       "city": "McAllen",
       "address": "109 W Nolana Ave, McAllen, TX 78504",
-      "category": "other",
+      "category": "networking",
       "price": "Free for new members and first-time attendees",
       "url": "https://business.rgvhcc.org/events/details/manic-monday-mixer-sinatra-international-cuisine-bar-1224",
       "image": "",
@@ -5143,7 +5279,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "National Night Out - McAllen",
@@ -5220,7 +5357,8 @@
       "tags": [
         "pharr",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Pharr Gateway Forum",
@@ -5275,7 +5413,8 @@
       "alsoSeenOn": [
         "https://texasborderbusiness.com/register-free-for-the-first-ever-pharr-gateway-forum-oct-7th/",
         "https://www.eventbrite.com/e/the-gateway-forum-tickets-1998801188160"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Weslaco Chamber Networking Lunch Mob (October)",
@@ -5285,7 +5424,7 @@
       "venue": "Weslaco Chamber member restaurant (TBA)",
       "city": "Weslaco",
       "address": "TBA, Weslaco, TX",
-      "category": "other",
+      "category": "networking",
       "price": "Free for members; $5 non-members",
       "url": "https://www.weslaco.com/chamber-events-programs/",
       "source": "Weslaco Area Chamber of Commerce programs page (recurring first-Wednesday schedule; individual date not separately confirmed)",
@@ -5378,7 +5517,8 @@
       "tags": [
         "pharr",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Greater Mission Chamber Annual Member Awards Banquet: An 80's Night Under the Palms",
@@ -5403,7 +5543,8 @@
       "tags": [
         "mission",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Flatland Cavalry",
@@ -5532,7 +5673,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Alicia Villarreal",
@@ -5638,7 +5780,8 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "3rd Annual Run to the Future 5K/1M",
@@ -5663,7 +5806,8 @@
       "tags": [
         "brownsville",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Tiny's Palm Mile - Time Trial",
@@ -5688,7 +5832,8 @@
       "tags": [
         "brownsville",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Fright Nite 5K",
@@ -5768,7 +5913,34 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": false
+    },
+    {
+      "title": "17th Annual Mission Pink 5K Run/Walk",
+      "description": "Mission Regional Medical Center's 17th annual breast cancer awareness 5K, themed 'Como la Flor - Her Fight is Our Fight.' Proceeds fund free screening mammograms for uninsured Rio Grande Valley women over 40; the Valley's largest 5K of its kind with up to 2,000 participants.",
+      "start": "2026-10-10T08:00:00-05:00",
+      "end": "",
+      "venue": "Mission Regional Medical Center",
+      "city": "Mission",
+      "address": "900 S. Bryan Road, Mission, TX 78572",
+      "category": "run",
+      "price": "",
+      "url": "https://missionrmc.org/mission-pink-5k-run-walk/",
+      "source": "missionrmc.org (official event page)",
+      "sponsorship": true,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "17th-annual-mission-pink-5k-run-walk-2026-10-10",
+      "tags": [
+        "mission",
+        "run"
+      ],
+      "organization": "missionrmc.org (official event page)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "UTRGV Football vs Southeastern Louisiana - Breast Cancer Awareness Night",
@@ -5923,7 +6095,8 @@
       "tags": [
         "mcallen",
         "nonprofit"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Monster Jam 2026",
@@ -6004,7 +6177,8 @@
       ],
       "alsoSeenOn": [
         "https://pharr-tx.gov/events/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Paws and Peeps",
@@ -6081,7 +6255,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Halloween event ! Potions and Treats !",
@@ -6106,7 +6281,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Tricks & Treats 2K",
@@ -6131,7 +6307,8 @@
       "tags": [
         "mcallen",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Zereno Live in Concert at Mustang Lounge",
@@ -6156,7 +6333,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Averly Morillo",
@@ -6210,7 +6388,8 @@
       ],
       "alsoSeenOn": [
         "RunningInTheUSA"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Monster Jam 2026",
@@ -6235,7 +6414,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Hidalgo County 4-H Glow Run Clover 5K & Fun Run",
@@ -6260,7 +6440,8 @@
       "tags": [
         "edinburg",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Bilingualism in Higher Ed Summit",
@@ -6285,7 +6466,8 @@
       "tags": [
         "edinburg",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Jackson Street Classic Car Show",
@@ -6362,7 +6544,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Accelerator 2026: Bridging AI & Health Outcomes",
@@ -6387,7 +6570,8 @@
       "tags": [
         "harlingen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "NHPO-RGV Monthly Networking Event (October)",
@@ -6397,7 +6581,7 @@
       "venue": "Rotating host business (TBA)",
       "city": "McAllen",
       "address": "TBA",
-      "category": "other",
+      "category": "networking",
       "price": "TBD",
       "url": "https://www.nhporgv.com/events.html",
       "source": "NHPO-RGV website (recurring third-Thursday schedule; individual date not separately confirmed)",
@@ -6442,7 +6626,8 @@
       "alsoSeenOn": [
         "Eventbrite",
         "https://www.exploremcallen.com/event/mercado-foodie-fest/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "South Texas College Foundation Gala",
@@ -6471,32 +6656,6 @@
       "recurring": false
     },
     {
-      "title": "Marine Military Academy Parents Weekend",
-      "description": "Marine Military Academy's annual Parents Weekend and Homecoming, October 16-18, 2026, when families visit cadets on the Harlingen campus for a weekend of academy events.",
-      "start": "2026-10-16T09:00:00-05:00",
-      "end": "2026-10-18T17:00:00-05:00",
-      "venue": "Marine Military Academy",
-      "city": "Harlingen",
-      "address": "320 Iwo Jima Blvd, Harlingen, TX 78550",
-      "category": "other",
-      "price": "",
-      "url": "https://www.mma-tx.org/events/parents-weekend/",
-      "source": "mma-tx.org (official MMA events page)",
-      "sponsorship": false,
-      "booth": false,
-      "verified": false,
-      "image": "",
-      "id": "marine-military-academy-parents-weekend-2026-10-16",
-      "tags": [
-        "harlingen",
-        "other"
-      ],
-      "organization": "mma-tx.org (official MMA events page)",
-      "county": "Cameron",
-      "confidence": "medium",
-      "recurring": false
-    },
-    {
       "title": "Texas Oncology Breast Cancer Awareness Symposium",
       "description": "Please join us for the Inaugural Texas Oncology Breast Cancer Awareness Symposium set to take place on Friday, October 17th, 2026! Sign up for the 14th Annual Breast Caner Awareness 5K: https://runsignup.com/Race/TX/Mcallen/14AnnualBreastCancerAwarenessWalkRunRide",
       "start": "2026-10-16T15:00:00-05:00",
@@ -6519,7 +6678,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Fiesta de Palmas 2026",
@@ -6544,7 +6704,8 @@
       "tags": [
         "mcallen",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "3rd Annual Wine for Wishes by the Bay",
@@ -6569,7 +6730,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Micah Edwards with special guest Marley Hale",
@@ -6594,7 +6756,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Yandel Sinfonico",
@@ -6779,7 +6942,8 @@
       "fbSignals": "9 interested · 7 going",
       "alsoSeenOn": [
         "Facebook (public search)"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Southmost Chapter Fall Conference",
@@ -6804,7 +6968,8 @@
       "tags": [
         "brownsville",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Step Up for Down Syndrome Awareness Walk 2026",
@@ -6855,7 +7020,8 @@
       "tags": [
         "valley-wide-(rio-grande-valley)",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "BOOTS,BBQ, & BABIES FUNDRAISER",
@@ -6880,7 +7046,8 @@
       "tags": [
         "weslaco",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "TRICK OR TREAT 🎃🍭🍬",
@@ -6905,7 +7072,8 @@
       "tags": [
         "mcallen",
         "market"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Make-A-Wish: 3rd Annual Wine for Wishes by the Bay 2026",
@@ -6930,7 +7098,8 @@
       "tags": [
         "south-padre-island",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Beer Around the World at Fiesta de Palmas",
@@ -6955,7 +7124,8 @@
       "tags": [
         "mcallen",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Run for Rotary 5k",
@@ -6980,7 +7150,8 @@
       "tags": [
         "elsa",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mariachazo in McAllen",
@@ -7083,7 +7254,8 @@
       "tags": [
         "pharr",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Her Fight is Our Fight 5K Benefit",
@@ -7108,7 +7280,8 @@
       "tags": [
         "edinburg",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Fiesta de Palmas",
@@ -7159,7 +7332,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "The Coffee Fest — Brownsville 2026",
@@ -7211,7 +7385,8 @@
       "tags": [
         "brownsville",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "9th Annual Trunk or Treat at RGV College",
@@ -7262,7 +7437,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Dante Gebel - World Tour Despedida 2026",
@@ -7313,7 +7489,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Pedro Capo!!! La Carretera tour🤩⚜️🥳",
@@ -7338,7 +7515,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "SUN - SAND - SEA & CPE",
@@ -7363,13 +7541,14 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Marine Military Academy Ball",
       "description": "MMA's formal Ball held on campus during Parents Weekend, featuring heavy hors d'oeuvres, the Marine Corps birthday cake-cutting ceremony, a live auction and a dance. Note: MMA's site places this during Parents Weekend, which may indicate the Parents Weekend entry already on the calendar (Oct 16-18) needs re-checking.",
       "start": "2026-10-22T17:00:00-05:00",
-      "end": "2026-10-22T21:00:00-05:00",
+      "end": "2026-10-22T22:00:00-05:00",
       "venue": "King Gym, Marine Military Academy",
       "city": "Harlingen",
       "address": "320 Iwo Jima Blvd, Harlingen, TX 78550",
@@ -7414,7 +7593,8 @@
       "tags": [
         "harlingen",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "PSJA Education Foundation Gala",
@@ -7439,7 +7619,8 @@
       "tags": [
         "edinburg",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "VOCES Health Summit 2026: Bridging Health & Culture",
@@ -7464,7 +7645,8 @@
       "tags": [
         "brownsville",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "LIVE2LEAD 2026 - Eyes on the Prize",
@@ -7489,7 +7671,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Live2Lead RGV Texas 2026",
@@ -7514,7 +7697,8 @@
       "tags": [
         "mission",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Spooktacular Halloween Bash",
@@ -7539,7 +7723,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Spartan Fitness Breast Cancer 5K",
@@ -7564,7 +7749,8 @@
       "tags": [
         "roma",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Bats and Bases 5K Run",
@@ -7589,7 +7775,8 @@
       "tags": [
         "pharr",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "South Padre Island Muzicians Run 5K/10K",
@@ -7666,7 +7853,8 @@
       "tags": [
         "los-fresnos",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Cybersecurity: Breaking Barriers and Building Futures",
@@ -7691,7 +7879,8 @@
       "tags": [
         "brownsville",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "UIL 5A Area G Marching Contest",
@@ -7794,7 +7983,8 @@
       "tags": [
         "brownsville",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "Do The Halloween Pub Crawl in Brownsville!",
@@ -7819,7 +8009,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Zombie 5K Run",
@@ -7844,7 +8035,8 @@
       "tags": [
         "harlingen",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "2026 South Padre Island Muzicians Run 10K-5K-1 Miler",
@@ -7873,7 +8065,8 @@
       ],
       "alsoSeenOn": [
         "Facebook (public search)"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "The Main Thing- Youth Event",
@@ -7898,33 +8091,34 @@
       "tags": [
         "weslaco",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
-      "title": "Los Muertos Bailan 2026 (12th Annual)",
-      "description": "Free City of Edinburg Cultural Arts Dia de los Muertos festival with art, music, dance, a community procession, kids zone, car show, and cultural performances from City Hall to Promenade Park Amphitheater.",
+      "title": "Los Muertos Bailan",
+      "description": "12th annual Dia de los Muertos festival hosted by the City of Edinburg Cultural Arts Department, spanning Edinburg City Hall to the Promenade Park Amphitheater with art, music, folklorico and Aztec dancers, Official Catrinas, and a community procession beginning at 7:00 PM. Free and open to the public; kids zone offers unlimited rides with a $5 wristband.",
       "start": "2026-10-24T18:00:00-05:00",
-      "end": null,
+      "end": "",
       "venue": "Promenade Park Amphitheater",
       "city": "Edinburg",
-      "address": "201 W. McIntyre St., Edinburg, TX",
+      "address": "201 W. McIntyre St., Edinburg, TX 78541",
       "category": "city",
-      "price": "Free (kids zone $5 wristband)",
+      "price": "Free",
       "url": "https://www.edinburgarts.com/losmuertosbailan",
+      "source": "City of Edinburg / Edinburg Arts (12th Annual Los Muertos Bailan announcement, Oct 24, 2026)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
       "image": "",
-      "source": "Edinburg Arts",
-      "sponsorship": true,
-      "verified": false,
-      "id": "los-muertos-bailan-2026-12th-annual-2026-10-24",
+      "id": "los-muertos-bailan-2026-10-24",
       "tags": [
-        "edinburg",
-        "city"
+        "city",
+        "edinburg"
       ],
-      "organization": "Edinburg Arts",
+      "organization": "City of Edinburg / Edinburg Arts (12th Annual Los Muertos Bailan announcement, Oct 24, 2026)",
       "county": "Hidalgo",
-      "confidence": "low",
-      "recurring": false,
-      "booth": false
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Trunk-or-Treat (Pharr)",
@@ -7978,7 +8172,8 @@
       ],
       "alsoSeenOn": [
         "https://pharr-tx.gov/events/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Nightmare on Cage Blvd. 5K",
@@ -8107,7 +8302,8 @@
       "tags": [
         "mcallen",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "The Saxet Gun Show",
@@ -8132,7 +8328,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Pink Sunday Brunch",
@@ -8157,7 +8354,8 @@
       "tags": [
         "harlingen",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Spooky Toon Market : Trick or Treat 🎃💜",
@@ -8185,7 +8383,8 @@
       ],
       "alsoSeenOn": [
         "AllEvents"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Killer Queen - A Tribute to Queen",
@@ -8221,7 +8420,7 @@
       "venue": "Topgolf Pharr",
       "city": "Pharr",
       "address": "1901 Interstate 2, Pharr, TX 78577",
-      "category": "nonprofit",
+      "category": "networking",
       "price": "",
       "url": "https://www.eventbrite.com/e/she-is-you-topgolf-mixer-fundraiser-tickets-1995610816673",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189758913%2F1379410259563%2F1%2Foriginal.20260728-035852?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.028&fp-y=0.37&s=f745e35432f6f9f858a7a494144c4b26",
@@ -8236,7 +8435,8 @@
       "tags": [
         "pharr",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "4th Annual PSJA Trunk or Treat",
@@ -8261,7 +8461,8 @@
       "tags": [
         "pharr",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Thee Sinseers",
@@ -8286,7 +8487,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "WCR Bras for a Cause",
@@ -8311,7 +8513,8 @@
       "tags": [
         "mcallen",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Disney On Ice: Magic In The Stars",
@@ -8367,7 +8570,8 @@
       "alsoSeenOn": [
         "Facebook (public search)",
         "https://texasborderbusiness.com/leadership-day-conference-returns-to-pharr-with-focus-on-developing-rgv-leaders-october-30/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Boo at the Zoo",
@@ -8421,7 +8625,8 @@
       ],
       "alsoSeenOn": [
         "https://pharr-tx.gov/events/"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Monster Dash 10K, 5K & 1 Mile Little Monster's Dash",
@@ -8498,7 +8703,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "RC Racing & Alliance Performance Car Club's Trunk or Treat Vendor",
@@ -8523,7 +8729,8 @@
       "tags": [
         "edinburg",
         "market"
-      ]
+      ],
+      "booth": true
     },
     {
       "title": "UTRGV Homecoming Football Game vs Lamar",
@@ -8574,7 +8781,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Endurance Splits Muertos 5K/10K",
@@ -8599,7 +8807,8 @@
       "tags": [
         "pharr",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Dia De Los Muertos 5K & 1 Mile",
@@ -8702,7 +8911,8 @@
       "tags": [
         "edinburg",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "2026 PSJA Cradle to College Conference",
@@ -8727,7 +8937,8 @@
       "tags": [
         "mission",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Weslaco Chamber Networking Lunch Mob (November)",
@@ -8737,7 +8948,7 @@
       "venue": "Weslaco Chamber member restaurant (TBA)",
       "city": "Weslaco",
       "address": "TBA, Weslaco, TX",
-      "category": "other",
+      "category": "networking",
       "price": "Free for members; $5 non-members",
       "url": "https://www.weslaco.com/chamber-events-programs/",
       "source": "Weslaco Area Chamber of Commerce programs page (recurring first-Wednesday schedule; individual date not separately confirmed)",
@@ -8778,7 +8989,8 @@
       "tags": [
         "south-padre-island",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Man & Woman of the Year Gala: La Catrina",
@@ -8829,7 +9041,8 @@
       "tags": [
         "los-fresnos",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Adelitas Way with Kingdom Collapse",
@@ -8906,7 +9119,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "2026 BARCC Toast to Tails Gala",
@@ -8931,7 +9145,8 @@
       "tags": [
         "brownsville",
         "gala"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "ilykimchi",
@@ -8956,7 +9171,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Padel for United Way Charity Event",
@@ -8981,7 +9197,8 @@
       "tags": [
         "brownsville",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Arbor Day Celebration Run 5K/10K",
@@ -9058,7 +9275,8 @@
       "tags": [
         "weslaco",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "World Diabetes Day 5K/1M - Ride the Blue Wave!",
@@ -9083,7 +9301,8 @@
       "tags": [
         "brownsville",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Women Running Violence Out of Town 5K Run",
@@ -9108,7 +9327,8 @@
       "tags": [
         "san-juan",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Daniel A. Saldana Memorial \"Share the Love 5K\"",
@@ -9289,7 +9509,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Una Noche de Leyendas",
@@ -9340,7 +9561,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Harlon Block Half Marathon",
@@ -9391,7 +9613,8 @@
       "tags": [
         "mcallen",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "BARBER FREQUENCY FT. TEXAS FINEST",
@@ -9416,7 +9639,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mike Bliss: Comedy Magic and Pickpocketing show",
@@ -9441,7 +9665,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "2026 Dia-BEAT-It Community Health Fair",
@@ -9466,7 +9691,8 @@
       "tags": [
         "weslaco",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "30th Annual Rio Grande Valley Birding Festival",
@@ -9699,7 +9925,8 @@
       "tags": [
         "mission",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Faith Family Health 5K",
@@ -9724,7 +9951,8 @@
       "tags": [
         "la-grulla",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Fire Department Charity Classic",
@@ -9749,7 +9977,8 @@
       "tags": [
         "brownsville",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "41st Annual Turkey Trot (Brownsville)",
@@ -9852,7 +10081,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Jose Madero",
@@ -9903,7 +10133,8 @@
       "tags": [
         "pharr",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Jim Gaffigan - Everything is Wonderful",
@@ -9954,7 +10185,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "NHPO-RGV Monthly Networking Event",
@@ -10030,7 +10262,8 @@
       "tags": [
         "san-benito",
         "nonprofit"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Beatriz Adriana",
@@ -10107,7 +10340,8 @@
       "tags": [
         "hidalgo",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "McAllen Turkey Trot 5K/10K",
@@ -10158,7 +10392,8 @@
       "tags": [
         "mcallen",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "South Pole Illuminated Festival 2026",
@@ -10235,7 +10470,8 @@
       "tags": [
         "mission",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Intocable - Cultura Tour 2026",
@@ -10312,7 +10548,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Noche de Adoración con Daniel Calveti, Julissa & Travy Joe",
@@ -10337,7 +10574,8 @@
       "tags": [
         "mcallen",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "37th Annual South Padre Island Christmas Parade",
@@ -10362,7 +10600,8 @@
       "tags": [
         "south-padre-island",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Oakwood",
@@ -10387,7 +10626,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "McAllen Holiday Parade 2026: Wild Christmas",
@@ -10412,7 +10652,8 @@
       "tags": [
         "mcallen",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Weslaco Scholarship Foundation Scholar Stride 5k",
@@ -10437,7 +10678,8 @@
       "tags": [
         "weslaco",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "McAllen Holiday Parade 2026",
@@ -10488,7 +10730,8 @@
       "tags": [
         "pharr",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "THE CRUISERWEIGHTS",
@@ -10513,7 +10756,8 @@
       "tags": [
         "weslaco",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "JustUs RGV Networking Lunch",
@@ -10564,7 +10808,34 @@
       "tags": [
         "brownsville",
         "nonprofit"
-      ]
+      ],
+      "booth": false
+    },
+    {
+      "title": "Mercedes Annual Lighted Christmas Parade",
+      "description": "The Mercedes Chamber of Commerce presents the annual Lighted Christmas Parade with the 2026 theme 'A Sweet Christmas on Candy Cane Lane.' The parade begins at 7:00 PM on Sixth Street and travels north on Texas Avenue into the Rio Grande Valley Livestock Show Grounds.",
+      "start": "2026-12-09T19:00:00-06:00",
+      "end": "",
+      "venue": "Downtown Mercedes / RGV Livestock Show Grounds",
+      "city": "Mercedes",
+      "address": "Sixth Street and Texas Avenue, Mercedes, TX 78570",
+      "category": "city",
+      "price": "Free",
+      "url": "https://mercedeschamber.com/event/christmas-parade-festival-lights/",
+      "source": "Mercedes Chamber of Commerce event page (Dec. 9 parade, 7 PM)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "mercedes-annual-lighted-christmas-parade-2026-12-09",
+      "tags": [
+        "city",
+        "mercedes"
+      ],
+      "organization": "Mercedes Chamber of Commerce event page (Dec. 9 parade, 7 PM)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Comedian DoKnow & Friends LIVE",
@@ -10615,7 +10886,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Home Alone 5K",
@@ -10640,7 +10912,8 @@
       "tags": [
         "pharr",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Top Gym Road Race",
@@ -10691,7 +10964,8 @@
       "tags": [
         "alamo",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Clarion",
@@ -10716,7 +10990,8 @@
       "tags": [
         "mcallen",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Brownsville Chief of Police Marathon",
@@ -10793,7 +11068,60 @@
       "tags": [
         "pharr",
         "city"
-      ]
+      ],
+      "booth": false
+    },
+    {
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "image": "",
+      "sponsorship": false,
+      "booth": false,
+      "end": "",
+      "source": "Texas Border Business / MPAC holiday lineup",
+      "title": "Matteo Bocelli",
+      "description": "Matteo Bocelli live at the McAllen Performing Arts Center as part of the venue's holiday season lineup.",
+      "start": "2026-12-19T19:00:00-06:00",
+      "url": "https://texasborderbusiness.com/mcallen-unveils-major-fall-and-holiday-performing-arts-lineup/",
+      "verified": false,
+      "id": "matteo-bocelli-2026-12-19",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Texas Border Business / MPAC holiday lineup",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "",
+      "image": "",
+      "sponsorship": false,
+      "booth": false,
+      "end": "",
+      "source": "Texas Border Business / MPAC holiday lineup",
+      "title": "A Celtic Christmas",
+      "description": "Holiday concert of Irish music and dance at the McAllen Performing Arts Center.",
+      "start": "2026-12-20T19:00:00-06:00",
+      "url": "https://texasborderbusiness.com/mcallen-unveils-major-fall-and-holiday-performing-arts-lineup/",
+      "verified": false,
+      "id": "a-celtic-christmas-2026-12-20",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Texas Border Business / MPAC holiday lineup",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Nutcracker Magical Christmas Ballet",
@@ -10844,7 +11172,8 @@
       "tags": [
         "mission",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Abundant Grace Learning Academy",
@@ -10869,7 +11198,8 @@
       "tags": [
         "edinburg",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "JustUs RGV Networking Lunch",
@@ -10946,7 +11276,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "SPI Market Days",
@@ -10971,7 +11302,8 @@
       "tags": [
         "south-padre-island",
         "market"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "South Padre Island Market Days (January)",
@@ -11023,7 +11355,8 @@
       "tags": [
         "edinburg",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Bullets for Broadway",
@@ -11048,7 +11381,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Enchantment Under the Sea Gala",
@@ -11073,7 +11407,34 @@
       "tags": [
         "south-padre-island",
         "gala"
-      ]
+      ],
+      "booth": false
+    },
+    {
+      "title": "JustUs RGV Networking Lunch",
+      "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
+      "start": "2027-02-10T11:30:00-06:00",
+      "end": "2027-02-10T13:00:00-06:00",
+      "venue": "Poncho's Restaurant",
+      "city": "McAllen",
+      "address": "Poncho's, W Expressway 83, McAllen, TX",
+      "category": "networking",
+      "price": "",
+      "url": "",
+      "image": "",
+      "source": "JustUs (RGV)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "recurring": true,
+      "id": "justus-rgv-networking-lunch-2027-02-10",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "JustUs (RGV)",
+      "county": "Hidalgo",
+      "confidence": "high"
     },
     {
       "title": "45th Annual Rio Grande Valley Quilt Show-Rhythm in Blues",
@@ -11098,7 +11459,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "The Farndale Av Housing Estate Townswomen’s Guild Dramatic Society Murder M",
@@ -11123,7 +11485,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "South Padre Island Market Days (February)",
@@ -11175,7 +11538,8 @@
       "tags": [
         "mission",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "4th Annual Causeway Double Cross",
@@ -11200,7 +11564,8 @@
       "tags": [
         "south-padre-island",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "RGVLE Fiesta 5k",
@@ -11225,7 +11590,8 @@
       "tags": [
         "edinburg",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Charro Days Fiesta 2027",
@@ -11250,7 +11616,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Charro Days Children's Parade 2027",
@@ -11275,7 +11642,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Noche Mexicana 2027",
@@ -11300,7 +11668,8 @@
       "tags": [
         "brownsville",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Charro Days Illuminated Parade 2027",
@@ -11325,7 +11694,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Cristian Castro: Nada Más Que Éxitos Tour",
@@ -11350,7 +11720,8 @@
       "tags": [
         "hidalgo",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Charro Days Grand International Parade 2027",
@@ -11375,7 +11746,8 @@
       "tags": [
         "brownsville",
         "city"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "YEM World Tour 2027",
@@ -11404,7 +11776,8 @@
       ],
       "alsoSeenOn": [
         "Facebook (public search)"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Resurgence Trail Run",
@@ -11429,7 +11802,8 @@
       "tags": [
         "harlingen",
         "run"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "Mariachi Aztlán",
@@ -11454,7 +11828,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "32nd Annual Rio Grande Valley Medical Education Conference & Exposition",
@@ -11479,7 +11854,8 @@
       "tags": [
         "south-padre-island",
         "expo"
-      ]
+      ],
+      "booth": false
     },
     {
       "title": "California Suite",
@@ -11504,7 +11880,8 @@
       "tags": [
         "south-padre-island",
         "other"
-      ]
+      ],
+      "booth": false
     }
   ]
 }
