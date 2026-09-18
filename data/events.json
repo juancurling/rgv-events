@@ -1918,32 +1918,6 @@
       "booth": false
     },
     {
-      "title": "45th Edinburg Ole Time Festival",
-      "description": "Hidalgo County's oldest community festival with craft demonstrations (blacksmithing, spinning, apple butter boiling), living-history encampment, live music, and old-timey entertainment at the Historic Edinburg Mill and Museum.",
-      "start": "2026-09-18T00:00:00-05:00",
-      "end": "2026-09-20T23:59:00-05:00",
-      "venue": "Historic Edinburg Mill and Museum",
-      "city": "Edinburg",
-      "address": "",
-      "category": "nonprofit",
-      "price": "",
-      "url": "https://edinburgoletimefestival.com/",
-      "image": "",
-      "source": "Edinburg Ole Time Festival / Edinburg Heritage Foundation",
-      "sponsorship": true,
-      "verified": true,
-      "id": "45th-edinburg-ole-time-festival-2026-09-18",
-      "tags": [
-        "edinburg",
-        "nonprofit"
-      ],
-      "organization": "Edinburg Ole Time Festival / Edinburg Heritage Foundation",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "Be Your Own Boss Workshop",
       "description": "If you have a business idea or a side hustle you'd like to turn into a thriving business, then the BYOB Workshop is calling your name!",
       "start": "2026-09-18T09:00:00-05:00",
