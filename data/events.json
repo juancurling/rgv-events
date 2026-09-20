@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-20",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -6470,6 +6470,32 @@
       "recurring": false
     },
     {
+      "title": "1 Million Cups McAllen",
+      "description": "Free monthly entrepreneur showcase hosted by the McAllen Chamber of Commerce, held the second Wednesday of each month: two local founders give 6-minute pitches followed by community Q&A over coffee. Free and open to the public.",
+      "start": "2026-10-14T09:00:00-05:00",
+      "end": "2026-10-14T10:00:00-05:00",
+      "venue": "McAllen Chamber of Commerce",
+      "city": "McAllen",
+      "address": "1200 Ash Ave, McAllen, TX 78501",
+      "category": "networking",
+      "price": "Free",
+      "url": "https://mcallenchamber.com/economic-development/our-programs/",
+      "source": "McAllen Chamber of Commerce program page (standing second-Wednesday 9-10am schedule); specific October instance not individually posted yet",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "1-million-cups-mcallen-2026-10-14",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "McAllen Chamber of Commerce program page (standing second-Wednesday 9-10am schedule); specific October instance not individually posted yet",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "JustUs RGV Networking Lunch",
       "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
       "start": "2026-10-14T11:30:00-05:00",
@@ -7959,6 +7985,32 @@
         "market"
       ],
       "booth": true
+    },
+    {
+      "title": "Dia de los Muertos Folklife Festival",
+      "description": "Mission Historical Museum's annual free Dia de los Muertos Folklife Festival with live entertainment, food and merchandise vendors, the Community Altar Exhibit, and a 500m Callejoneada street parade. Attendees are invited to come in Dia de los Muertos-inspired outfits.",
+      "start": "2026-10-24T14:00:00-05:00",
+      "end": "2026-10-24T17:00:00-05:00",
+      "venue": "Mission Historical Museum",
+      "city": "Mission",
+      "address": "900 Doherty Ave, Mission, TX 78572",
+      "category": "city",
+      "price": "Free",
+      "url": "https://texasborderbusiness.com/mission-historical-museum-to-celebrate-dia-de-los-muertos/",
+      "source": "Texas Border Business (Mission Historical Museum announcement); missiontexas.us community calendar",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "image": "",
+      "id": "dia-de-los-muertos-folklife-festival-2026-10-24",
+      "tags": [
+        "city",
+        "mission"
+      ],
+      "organization": "Texas Border Business (Mission Historical Museum announcement); missiontexas.us community calendar",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Do The Halloween Pub Crawl in Brownsville!",
@@ -10344,58 +10396,6 @@
       "recurring": false
     },
     {
-      "title": "South Pole Illuminated Festival: Wildbright",
-      "description": "The City of McAllen's holiday light festival at the McAllen Convention Center's Oval Park, themed \"Wildbright\" as an illuminated wildlife adventure, presented by H-E-B Helping Here. Opens Nov. 27, 2026; closing date and daily hours were not announced in the coverage. Ice skating is part of the festival.",
-      "start": "2026-11-27T00:00:00-06:00",
-      "end": "2026-11-27T00:00:00-06:00",
-      "venue": "McAllen Convention Center - Oval Park",
-      "city": "McAllen",
-      "address": "700 Convention Center Blvd., McAllen, TX 78501",
-      "category": "city",
-      "price": "",
-      "url": "https://texasborderbusiness.com/wild-christmas-and-wildbright-launch-holiday-season-with-new-local-experiences/",
-      "image": "",
-      "source": "Texas Border Business",
-      "sponsorship": true,
-      "verified": false,
-      "organization": "City of McAllen",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": true,
-      "id": "south-pole-illuminated-festival-wildbright-2026-11-27",
-      "tags": [
-        "mcallen",
-        "city"
-      ],
-      "booth": false
-    },
-    {
-      "title": "South Pole Illuminated Festival 2026",
-      "description": "Walk-through holiday lights festival at the McAllen Convention Center, opening Nov 27-29 at 5:30 PM nightly and running through Dec 28. Tickets $27-$41; advance purchase encouraged.",
-      "start": "2026-11-27T17:30:00-06:00",
-      "end": "2026-11-29T22:00:00-06:00",
-      "venue": "McAllen Convention Center",
-      "city": "McAllen",
-      "address": "700 Convention Center Blvd, McAllen, TX 78501",
-      "category": "other",
-      "price": "$27-$41",
-      "url": "https://www.southpoleoftexas.com/",
-      "source": "South Pole of Texas / Ticketmaster",
-      "sponsorship": false,
-      "booth": false,
-      "verified": true,
-      "image": "",
-      "id": "south-pole-illuminated-festival-2026-2026-11-27",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "South Pole of Texas / Ticketmaster",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false
-    },
-    {
       "title": "Hermanos Espinoza - Linaje Tour",
       "description": "Regional Mexican group Hermanos Espinoza performs at Payne Arena. Tickets via Ticketmaster.",
       "start": "2026-11-27T20:00:00-05:00",
@@ -10446,6 +10446,32 @@
         "run"
       ],
       "booth": false
+    },
+    {
+      "title": "South Pole Illuminated Festival 2026",
+      "description": "McAllen's holiday light festival at the McAllen Convention Center, running Nov 28 through Dec 28, 2026, with illuminated light trails, America's tallest digital Christmas tree, ice skating, rides, Santa visits, and a holiday food court with local vendors. Open evenings (5:30 PM start; later close Fri-Sat).",
+      "start": "2026-11-28T17:30:00-06:00",
+      "end": "2026-12-28T21:30:00-06:00",
+      "venue": "McAllen Convention Center",
+      "city": "McAllen",
+      "address": "700 Convention Center Blvd, McAllen, TX 78501",
+      "category": "other",
+      "price": "Ticketed; tickets via Ticketmaster and southpoleoftexas.com",
+      "url": "https://www.southpoleoftexas.com/",
+      "source": "southpoleoftexas.com; valleycentral.com 'McAllen announces South Pole Illuminated Festival dates'",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "image": "",
+      "id": "south-pole-illuminated-festival-2026-11-28",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "southpoleoftexas.com; valleycentral.com 'McAllen announces South Pole Illuminated Festival dates'",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Intocable - Cultura Tour 2026",
@@ -10526,6 +10552,32 @@
       "booth": false
     },
     {
+      "title": "South Padre Island Tree Lighting Ceremony",
+      "description": "The City of South Padre Island kicks off its holiday weekend with a welcome from the Mayor at 5:30 PM and the lighting of the Christmas tree at 5:45 PM at the SPI Multimodal building.",
+      "start": "2026-12-03T17:30:00-06:00",
+      "end": "",
+      "venue": "South Padre Island Multimodal Building",
+      "city": "South Padre Island",
+      "address": "321 Padre Blvd, South Padre Island, TX 78597",
+      "category": "city",
+      "price": "Free",
+      "url": "https://christmasparade.myspi.org/christmas-schedule",
+      "source": "christmasparade.myspi.org 2026 Christmas schedule (Thursday, December 3, 2026)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "south-padre-island-tree-lighting-ceremony-2026-12-03",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ],
+      "organization": "christmasparade.myspi.org 2026 Christmas schedule (Thursday, December 3, 2026)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Noche de Adoración con Daniel Calveti, Julissa & Travy Joe",
       "description": "Una noche inolvidable de música, fe y adoración junto a Daniel Calveti, Julissa y Travy Joe. Disfruta de 2 horas de concierto en vivo.",
       "start": "2026-12-03T19:30:00-06:00",
@@ -10554,7 +10606,7 @@
     {
       "title": "37th Annual South Padre Island Christmas Parade",
       "description": "Annual holiday parade traveling south on Padre Boulevard from Mars to Acapulco (east side of medians only). No entry fee to participate. Registration deadline Tuesday, Nov 24, 2026 at 5:00 PM; contact Debbie Huffman at (956) 761-8168. Cash prizes for entries: 1st $500, 2nd $300, 3rd $200, Finalist $100. Backup date: Saturday, Dec 12, 2026. A parade float is a low-cost local brand-visibility opportunity.",
-      "start": "2026-12-04T18:00:00-05:00",
+      "start": "2026-12-04T18:00:00-06:00",
       "end": "2026-12-04T21:00:00-05:00",
       "venue": "Padre Blvd (Mars to Acapulco)",
       "city": "South Padre Island",
@@ -10604,32 +10656,6 @@
       "booth": false
     },
     {
-      "title": "McAllen Holiday Parade 2026: Wild Christmas",
-      "description": "The City of McAllen's signature holiday parade, themed \"Wild Christmas\" to showcase RGV green spaces. Presented by H-E-B and powered by Bert Ogden Auto Group, with McAllen International Airport, South Padre Island CVB, Reliant, Lone Star National Bank and 30+ additional sponsors. McDonald's and McDonaldland characters return; community organization chairs are sold as a fundraiser and volunteer roles are open. Parade step-off time was not announced in the coverage.",
-      "start": "2026-12-05T00:00:00-06:00",
-      "end": "2026-12-05T00:00:00-06:00",
-      "venue": "Downtown McAllen (parade route)",
-      "city": "McAllen",
-      "address": "McAllen, TX",
-      "category": "city",
-      "price": "",
-      "url": "https://mcallenholidayparade.com",
-      "image": "",
-      "source": "Texas Border Business",
-      "sponsorship": true,
-      "verified": false,
-      "organization": "City of McAllen",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": true,
-      "id": "mcallen-holiday-parade-2026-wild-christmas-2026-12-05",
-      "tags": [
-        "mcallen",
-        "city"
-      ],
-      "booth": false
-    },
-    {
       "title": "Weslaco Scholarship Foundation Scholar Stride 5k",
       "description": "Weslaco Scholarship Foundation Scholar Stride 5K The Weslaco Scholarship Foundation's Scholar Stride 5k is more than just a race—it's an opportunity to invest in the future of Weslaco's students. Proceeds from this event benefit the Susan Peterson Memorial Scholarship, which is awarded each year to graduating seniors in the top 15% of their class at Weslaco ISD. Every registration, sponsorship, and donation directly supports our seniors as they take the next step toward higher education. Whether you're running, walking, or cheering from the sidelines, your participation makes a lasting impact on the lives of Weslaco graduates. Join us as we celebrate achievement, strengthen our community, and help create brighter futures—one mile at a time. Signup with your Run Club / Team. Largest Run Club Award — for the club/team with the most actual finishers on race day. Event Details Date: Saturday",
       "start": "2026-12-05T07:15:00-06:00",
@@ -10658,7 +10684,7 @@
     {
       "title": "McAllen Holiday Parade 2026",
       "description": "The largest illuminated Christmas and helium-balloon parade in Texas, presented by H-E-B, on Saturday, December 5, 2026 with the theme 'Wild Christmas.' The 1.5-mile route runs through McAllen Veterans Memorial Stadium and south on Bicentennial Blvd; stadium tickets via Ticketmaster and $8 VIP chair seats along the route.",
-      "start": "2026-12-05T09:00:00-06:00",
+      "start": "2026-12-05T18:00:00-06:00",
       "end": "",
       "venue": "McAllen Veterans Memorial Stadium",
       "city": "McAllen",
@@ -10669,7 +10695,7 @@
       "source": "mcallenholidayparade.com + KVEO 2026 theme announcement",
       "sponsorship": true,
       "booth": false,
-      "verified": false,
+      "verified": true,
       "image": "",
       "id": "mcallen-holiday-parade-2026-2026-12-05",
       "tags": [
@@ -10679,6 +10705,84 @@
       "organization": "mcallenholidayparade.com + KVEO 2026 theme announcement",
       "county": "Hidalgo",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "South Padre Island Lighted Boat Parade",
+      "description": "Illuminated boats of all sizes cruise through the Laguna Madre Bay starting from Sea Ranch Marina at 6:00 PM, with free public viewing areas along the route.",
+      "start": "2026-12-05T18:00:00-06:00",
+      "end": "",
+      "venue": "Sea Ranch Marina / Laguna Madre Bay",
+      "city": "South Padre Island",
+      "address": "1 Padre Blvd, South Padre Island, TX 78597",
+      "category": "city",
+      "price": "Free viewing",
+      "url": "https://visitsouthpadreisland.com/boatparade/",
+      "source": "visitsouthpadreisland.com and christmasparade.myspi.org (Saturday, December 5, 2026, 6:00 PM)",
+      "sponsorship": true,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "south-padre-island-lighted-boat-parade-2026-12-05",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ],
+      "organization": "visitsouthpadreisland.com and christmasparade.myspi.org (Saturday, December 5, 2026, 6:00 PM)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "74th Annual Brownsville Christmas Parade",
+      "description": "Brownsville's 74th annual Christmas parade, organized by Charro Days Fiesta, brings lighted floats and holiday spirit to downtown Brownsville on Saturday, Dec 5, 2026 at 7:00 PM.",
+      "start": "2026-12-05T19:00:00-06:00",
+      "end": "",
+      "venue": "Downtown Brownsville",
+      "city": "Brownsville",
+      "address": "Elizabeth St, Downtown Brownsville, TX 78520",
+      "category": "nonprofit",
+      "price": "Free",
+      "url": "https://www.charrodaysfiesta.com/copy-of-images-1",
+      "source": "Charro Days Fiesta official events page",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "74th-annual-brownsville-christmas-parade-2026-12-05",
+      "tags": [
+        "brownsville",
+        "nonprofit"
+      ],
+      "organization": "Charro Days Fiesta official events page",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "SPI Breakfast with Santa",
+      "description": "Family breakfast with Santa at the South Padre Island Convention Centre with festive activities and photo opportunities, closing out the island's Christmas weekend.",
+      "start": "2026-12-06T09:00:00-06:00",
+      "end": "2026-12-06T11:00:00-06:00",
+      "venue": "South Padre Island Convention Centre",
+      "city": "South Padre Island",
+      "address": "7355 Padre Blvd, South Padre Island, TX 78597",
+      "category": "city",
+      "price": "",
+      "url": "https://christmasparade.myspi.org/christmas-schedule",
+      "source": "christmasparade.myspi.org 2026 Christmas schedule (Sunday, December 6, 2026, 9:00-11:00 AM)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "spi-breakfast-with-santa-2026-12-06",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ],
+      "organization": "christmasparade.myspi.org 2026 Christmas schedule (Sunday, December 6, 2026, 9:00-11:00 AM)",
+      "county": "Cameron",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -10732,6 +10836,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "McAllen's 31st Annual Candlelight Posada",
+      "description": "McAllen Chamber of Commerce's 31st annual Candlelight Posada at Archer Park, a downtown holiday tradition reported for December 7, 2026. Start time not yet published.",
+      "start": "2026-12-07T09:00:00-06:00",
+      "end": "",
+      "venue": "Archer Park",
+      "city": "McAllen",
+      "address": "101 N Main St, McAllen, TX 78501",
+      "category": "networking",
+      "price": "Free",
+      "url": "https://mcallenchamber.com/news/be-a-part-of-the-tradition-at-the-31st-annual-candlelight-posada-2/",
+      "source": "McAllen Chamber of Commerce news page; Facebook event 'McAllen's 31st Annual Candlelight Posada'",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "mcallen-s-31st-annual-candlelight-posada-2026-12-07",
+      "tags": [
+        "mcallen",
+        "networking"
+      ],
+      "organization": "McAllen Chamber of Commerce news page; Facebook event 'McAllen's 31st Annual Candlelight Posada'",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "JustUs RGV Networking Lunch",
@@ -10996,7 +11126,7 @@
     {
       "title": "Blue October - Foiled 20th Anniversary",
       "description": "Texas alt-rock band Blue October performs their Foiled 20th anniversary show at Payne Arena. Tickets via Ticketmaster.",
-      "start": "2026-12-13T20:00:00-05:00",
+      "start": "2026-12-13T20:00:00-06:00",
       "end": null,
       "venue": "Payne Arena",
       "city": "Hidalgo",
@@ -11072,27 +11202,27 @@
       "recurring": false
     },
     {
+      "title": "A Taste of Ireland: A Celtic Christmas",
+      "description": "Touring Celtic Christmas production with traditional Irish dance, live music, and storytelling at the McAllen Performing Arts Center, Sunday, Dec 20, 2026 at 4:00 PM.",
+      "start": "2026-12-20T16:00:00-06:00",
+      "end": "",
       "venue": "McAllen Performing Arts Center",
       "city": "McAllen",
       "address": "801 Convention Center Blvd, McAllen, TX 78501",
       "category": "other",
-      "price": "",
-      "image": "",
+      "price": "Ticketed",
+      "url": "https://www.eventticketscenter.com/a-taste-of-ireland-mcallen-tickets/1452151/e",
+      "source": "Event Tickets Center listing; MPAC 2026 schedule aggregators",
       "sponsorship": false,
       "booth": false,
-      "end": "",
-      "source": "Texas Border Business / MPAC holiday lineup",
-      "title": "A Celtic Christmas",
-      "description": "Holiday concert of Irish music and dance at the McAllen Performing Arts Center.",
-      "start": "2026-12-20T19:00:00-06:00",
-      "url": "https://texasborderbusiness.com/mcallen-unveils-major-fall-and-holiday-performing-arts-lineup/",
       "verified": false,
-      "id": "a-celtic-christmas-2026-12-20",
+      "image": "",
+      "id": "a-taste-of-ireland-a-celtic-christmas-2026-12-20",
       "tags": [
         "mcallen",
         "other"
       ],
-      "organization": "Texas Border Business / MPAC holiday lineup",
+      "organization": "Event Tickets Center listing; MPAC 2026 schedule aggregators",
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
