@@ -62,6 +62,16 @@
   .price{color:var(--text);font-weight:600;font-size:.88rem}
 
   .empty{color:var(--muted);text-align:center;padding:60px 0}
+  .empty .sub{font-size:.9rem;margin:8px 0 18px}
+
+  .pending{background:var(--card);border:1px solid var(--gold);border-radius:var(--radius);padding:16px 18px;margin:18px 0;display:flex;flex-direction:column;gap:10px}
+  .pending h4{color:var(--gold);font-size:.95rem;margin:0}
+  .pending .found-card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+  .pending .found-card .t{font-weight:600}
+  .pending .found-card .m{color:var(--muted);font-size:.85rem}
+  .pending .row{display:flex;gap:10px;flex-wrap:wrap}
+  .pending .dismiss{background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:6px 12px;cursor:pointer;font-size:.85rem}
+  .pending .dismiss:hover{border-color:var(--muted)}
 
   .submit-btn{background:var(--accent);border:none;color:#08130c;font-weight:700;font-size:.95rem;border-radius:10px;padding:10px 18px;cursor:pointer;white-space:nowrap}
   .submit-btn:hover{background:var(--accent-dark)}
@@ -100,6 +110,7 @@
   </div>
 </header>
 
+<div class="wrap" id="pendingWrap"></div>
 <main class="wrap" id="app"><p class="empty">Loading events…</p></main>
 
 <div class="modal-bg" id="submitModal">
@@ -153,6 +164,65 @@ CATLABEL["expo"]="Business"; CATLABEL["market"]="Farmers Markets";
 CATLABEL["community"]="Nonprofit & Community"; CATLABEL["banquet"]="Galas & Banquets";
 const state = { cat:"all", q:"", city:"", sponsor:false, booth:false, events:[] };
 
+// --- Pending "Find & add this event" searches, tracked per-visitor in localStorage ---
+const PENDING_KEY = "events956_pending_searches";
+const PENDING_MAX_AGE_DAYS = 45;
+function getPending(){
+  try{
+    const raw = JSON.parse(localStorage.getItem(PENDING_KEY) || "[]");
+    const cutoff = Date.now() - PENDING_MAX_AGE_DAYS*86400000;
+    const fresh = raw.filter(p=>p && p.query && p.submittedAt > cutoff);
+    if(fresh.length !== raw.length) localStorage.setItem(PENDING_KEY, JSON.stringify(fresh));
+    return fresh;
+  }catch(e){ return []; }
+}
+function addPending(query){
+  try{
+    const list = getPending().filter(p=>p.query.toLowerCase()!==query.toLowerCase());
+    list.unshift({query, submittedAt: Date.now()});
+    localStorage.setItem(PENDING_KEY, JSON.stringify(list.slice(0,20)));
+  }catch(e){ /* private mode or storage disabled — pending banner just won't show */ }
+}
+function removePending(query){
+  try{
+    localStorage.setItem(PENDING_KEY, JSON.stringify(getPending().filter(p=>p.query!==query)));
+  }catch(e){}
+  renderPendingBanner();
+}
+function wordsOf(s){ return (s||"").toLowerCase().trim().split(/\s+/).filter(Boolean); }
+function eventMatchesWords(e, qWords){
+  const hay=[e.title,e.description,e.venue,e.city].join(" ").toLowerCase();
+  return qWords.length>0 && qWords.every(w=>hay.includes(w));
+}
+function renderPendingBanner(){
+  const wrap=document.getElementById("pendingWrap");
+  const pending=getPending();
+  if(!pending.length || !state.events.length){ wrap.innerHTML=""; return; }
+  wrap.innerHTML="";
+  pending.forEach(p=>{
+    const matches=state.events.filter(e=>eventMatchesWords(e,wordsOf(p.query))).slice(0,2);
+    const box=document.createElement("div"); box.className="pending";
+    if(matches.length){
+      box.innerHTML=`<h4>🎉 We found something for "${esc(p.query)}" — is this it?</h4>`+
+        matches.map(e=>{
+          const d=new Date(e.start);
+          const when=d.toLocaleString("en-US",{month:"short",day:"numeric",timeZone:"America/Chicago"});
+          return `<a class="found-card" href="event/${escAttr(e.id)}/" data-q="${escAttr(p.query)}">
+                    <span><span class="t">${esc(e.title)}</span><br><span class="m">${when} · ${esc(e.venue||"")}${e.city?" · "+esc(e.city):""}</span></span>
+                  </a>`;
+        }).join("")+
+        `<div class="row"><button class="dismiss" data-dismiss="${escAttr(p.query)}">Not what I'm looking for</button></div>`;
+    }else{
+      box.innerHTML=`<h4>🔎 Still searching for "${esc(p.query)}"…</h4>
+        <p class="m" style="color:var(--muted);font-size:.85rem;margin:0">We're looking into this — check back later, or we'll email you if you left an address.</p>
+        <div class="row"><button class="dismiss" data-dismiss="${escAttr(p.query)}">Cancel this search</button></div>`;
+    }
+    wrap.appendChild(box);
+  });
+  wrap.querySelectorAll("a.found-card").forEach(a=>a.addEventListener("click",()=>removePending(a.dataset.q)));
+  wrap.querySelectorAll("[data-dismiss]").forEach(b=>b.addEventListener("click",()=>removePending(b.dataset.dismiss)));
+}
+
 async function load(){
   try{
     const res = await fetch("data/events.json");
@@ -162,6 +232,7 @@ async function load(){
     const cities = [...new Set(state.events.map(e=>e.city).filter(Boolean))].sort();
     const sel = document.getElementById("city");
     cities.forEach(c=>{const o=document.createElement("option");o.value=o.textContent=c;sel.appendChild(o);});
+    renderPendingBanner();
     render();
   }catch(err){
     document.getElementById("app").innerHTML = '<p class="empty">Could not load events. Try again later.</p>';
@@ -194,16 +265,13 @@ function norm(c){ if(c==="banquet")return "gala"; if(c==="community")return "non
 
 function render(){
   buildChips();
-  const qWords = state.q.toLowerCase().trim().split(/\s+/).filter(Boolean);
+  const qWords = wordsOf(state.q);
   let list = state.events.filter(e=>{
     if(state.cat!=="all" && norm(e.category)!==state.cat) return false;
     if(state.city && e.city!==state.city) return false;
     if(state.sponsor && !e.sponsorship) return false;
     if(state.booth && !e.booth) return false;
-    if(qWords.length){
-      const hay=[e.title,e.description,e.venue,e.city].join(" ").toLowerCase();
-      if(!qWords.every(w=>hay.includes(w))) return false;
-    }
+    if(qWords.length && !eventMatchesWords(e,qWords)) return false;
     return true;
   }).sort((a,b)=>new Date(a.start)-new Date(b.start));
 
@@ -305,11 +373,20 @@ document.getElementById("submitForm").addEventListener("submit",async ev=>{
   fd.append("_subject","Events956 event submission");
   fd.append("_template","table");
   fd.append("_captcha","false");
+  const searchMatch = /^Search request: "(.+)" —/.exec((fd.get("event_details")||"").trim());
   try{
     const r=await fetch("https://formsubmit.co/ajax/68159adfe2f42b208578e2f830ef2f81",{method:"POST",body:fd});
     const j=await r.json();
     if(j.success==="true"||j.success===true){
-      msg.textContent="🎉 Got it! We'll review and post it — usually within a day."; msg.className="msg ok"; f.reset();
+      if(searchMatch){
+        const query=searchMatch[1];
+        addPending(query);
+        msg.textContent=`🔎 Searching for "${query}"…`; msg.className="msg ok"; f.reset();
+        renderPendingBanner();
+        setTimeout(()=>{ modal.classList.remove("open"); msg.textContent=""; },1800);
+      }else{
+        msg.textContent="🎉 Got it! We'll review and post it — usually within a day."; msg.className="msg ok"; f.reset();
+      }
     }else{throw new Error();}
   }catch(e){
     msg.textContent="Hmm, that didn't go through — please try again in a minute.";
