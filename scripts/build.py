@@ -20,10 +20,16 @@ BASE = "https://events956.com"
 TZ = "America/Chicago"
 
 CATLABEL = {
-    "run": "5K / 10K Runs", "cycling": "Cycling", "gala": "Galas & Banquets",
-    "market": "Markets", "expo": "Expos", "city": "City Events",
-    "nonprofit": "Nonprofit & Community", "networking": "Networking & Mixers",
+    "run": "5K / 10K Runs & Races", "cycling": "Cycling",
+    "concerts": "Concerts & Live Music", "shows": "Shows: Comedy, Theater & Family",
+    "games": "Games & Sports", "networking": "Networking & Mixers",
+    "business": "Business & Professional", "school": "School & Youth",
+    "religious": "Religious & Faith", "farmers-market": "Farmers & Vendor Markets",
+    "garage-sale": "Garage & Rummage Sales", "gala": "Galas & Banquets",
+    "nonprofit": "Nonprofit & Community", "city": "City & Holiday Events",
     "other": "More Events",
+    # legacy aliases, in case an older-tagged event ever shows up
+    "expo": "Business & Professional", "market": "Farmers & Vendor Markets",
 }
 # County map comes from the source registry's cities list (all RGV cities,
 # Hidalgo/Cameron/Willacy/Starr counties)
