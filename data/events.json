@@ -6126,34 +6126,8 @@
       "booth": false
     },
     {
-      "title": "2026 Pharr Avocado Festival",
-      "description": "Fourth annual Avocado Festival in downtown Pharr with taste testings and live music including headliners Los Palominos, RED - A Taylor Swift Tribute, De Parranda, La Cesetera, Braxton Keith, and local acts on the 956 Stage.",
-      "start": "2026-10-10T14:00:00-05:00",
-      "end": "2026-10-10T23:00:00-05:00",
-      "venue": "Downtown Pharr",
-      "city": "Pharr",
-      "address": "",
-      "category": "city",
-      "price": "",
-      "url": "https://myrgv.com/local-news/2026/07/10/pharr-announces-schedule-entertainment-for-upcoming-avocado-festival/",
-      "image": "",
-      "source": "MyRGV.com (The Monitor)",
-      "sponsorship": false,
-      "verified": true,
-      "id": "2026-pharr-avocado-festival-2026-10-10",
-      "tags": [
-        "city",
-        "pharr"
-      ],
-      "organization": "MyRGV.com (The Monitor)",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "Avocado Festival 2026",
-      "description": "Full-day festival in downtown Pharr with two stages of live music, food and festival activities. Headliners include Los Palominos and Domingo Elias 3zero plus regional acts. More details at avocadofest.com.",
+      "description": "Full-day festival in downtown Pharr with two stages of live music, food, and festival activities. Headliners include Los Palominos, Domingo Elias 3zero, RED - A Taylor Swift Tribute, De Parranda, La Cesetera, Braxton Keith, and regional/local acts. More details at avocadofest.com.",
       "start": "2026-10-10T14:00:00-05:00",
       "end": "2026-10-10T23:00:00-05:00",
       "venue": "Downtown Park",

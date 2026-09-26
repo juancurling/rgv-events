@@ -194,13 +194,16 @@ function norm(c){ if(c==="banquet")return "gala"; if(c==="community")return "non
 
 function render(){
   buildChips();
-  const q = state.q.toLowerCase();
+  const qWords = state.q.toLowerCase().trim().split(/\s+/).filter(Boolean);
   let list = state.events.filter(e=>{
     if(state.cat!=="all" && norm(e.category)!==state.cat) return false;
     if(state.city && e.city!==state.city) return false;
     if(state.sponsor && !e.sponsorship) return false;
     if(state.booth && !e.booth) return false;
-    if(q && ![e.title,e.description,e.venue,e.city].join(" ").toLowerCase().includes(q)) return false;
+    if(qWords.length){
+      const hay=[e.title,e.description,e.venue,e.city].join(" ").toLowerCase();
+      if(!qWords.every(w=>hay.includes(w))) return false;
+    }
     return true;
   }).sort((a,b)=>new Date(a.start)-new Date(b.start));
 
