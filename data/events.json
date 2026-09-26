@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-26",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -3757,6 +3757,32 @@
       "booth": false
     },
     {
+      "title": "Myke Towers: La Pantera Negra Tour",
+      "description": "Myke Towers brings his La Pantera Negra Tour to Payne Arena.",
+      "start": "2026-09-26T20:00:00-05:00",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "Hidalgo, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent) / Ticketmaster",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "myke-towers-la-pantera-negra-tour-2026-09-26",
+      "tags": [
+        "hidalgo",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent) / Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "South Padre Island Triathlon",
       "description": "Sprint triathlon starting at Jim's Pier on South Padre Island.",
       "start": "2026-09-27T07:00:00-05:00",
@@ -6366,6 +6392,32 @@
       "booth": true
     },
     {
+      "title": "Extreme Dwarfanator Wrestling (21+)",
+      "description": "21+ wrestling event at Shenanigans Irish Pub and Grill in Brownsville.",
+      "start": "2026-10-10T21:00:00-05:00",
+      "venue": "Shenanigans Irish Pub and Grill",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent) / Ticketmaster",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "extreme-dwarfanator-wrestling-21-2026-10-10",
+      "tags": [
+        "brownsville",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent) / Ticketmaster",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Monster Jam 2026",
       "description": "Monster Jam monster truck show at Bert Ogden Arena — Sunday matinee.",
       "start": "2026-10-11T14:00:00-05:00",
@@ -6416,6 +6468,32 @@
         "run"
       ],
       "booth": false
+    },
+    {
+      "title": "Las Damitas Histeria",
+      "description": "Comedy show Las Damitas Histeria at the McAllen Performing Arts Center.",
+      "start": "2026-10-11T20:00:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "las-damitas-histeria-2026-10-11",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Bilingualism in Higher Ed Summit",
@@ -6683,7 +6761,7 @@
     },
     {
       "title": "Fiesta de Palmas 2026",
-      "description": "The City of McAllen's three-day fall festival at the McAllen Convention Center. Friday Oct. 16 5-11 p.m. (free admission), Saturday Oct. 17 3-11 p.m. and Sunday Oct. 18 3-10 p.m. ($10 after 4 p.m.). Features an expanded carnival with 30+ rides, an H-E-B Helping Here pumpkin patch, a Dia de los Muertos altar, mariachi competition, costume contest, STEAM activities, artisan market, fireworks and headliners La Santa Cecilia and Y La Bamba. Sponsors include H-E-B, L&F Distributors and McAllen International Airport.",
+      "description": "The City of McAllen's three-day fall festival at the McAllen Convention Center. Friday Oct. 16 5-11 p.m. (free admission), Saturday Oct. 17 3-11 p.m. and Sunday Oct. 18 3-10 p.m. ($10 after 4 p.m.). Features an expanded carnival with 30+ rides, an H-E-B Helping Here pumpkin patch, a Dia de los Muertos altar, mariachi competition, costume contest, STEAM activities, artisan market, fireworks and headliners La Santa Cecilia and Y La Bamba. Sponsors include H-E-B, L&F Distributors and McAllen International Airport. Vendor/artisan mercado booths on-site.",
       "start": "2026-10-16T17:00:00-05:00",
       "end": "2026-10-18T22:00:00-05:00",
       "venue": "McAllen Convention Center",
@@ -6705,7 +6783,7 @@
         "mcallen",
         "city"
       ],
-      "booth": false
+      "booth": true
     },
     {
       "title": "3rd Annual Wine for Wishes by the Bay",
@@ -7232,6 +7310,32 @@
       "recurring": false
     },
     {
+      "title": "HallowMania 17",
+      "description": "3Bat Lucha Libre Halloween wrestling event at Brownsville Sports Park.",
+      "start": "2026-10-17T20:00:00-05:00",
+      "venue": "Brownsville Sports Park",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "hallowmania-17-2026-10-17",
+      "tags": [
+        "brownsville",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Hey Cupcake 5k",
       "description": "HEY CUPCAKE 5K A little sweet. A little fast. And definitely not your average Sunday morning. We’re bringing Hey Cupcake 5K to the Pharr Trails this October! Come race it, walk it, bring the family, or show up ready to see what you’ve got. However you cross that finish line, a pretty sweet cupcake-shaped medal is waiting for you. Sunday, October 18th ⏰ Kids 1k: 7:20 AM | 5k: 7:45 AM 1901 S Cage Blvd | Pharr, TX 5K — $30 1K — $10 | Medal Only T-Shirt Deadline — September 17th AGE GROUP AWARDS 9 & Under 10–15 16–20 21–29 30–39 40–49 50–59 60–69 70 & Over 1k awards top 3 girls and boys Run/walk the miles. Earn the cupcake medal See you at the starting line https://www.facebook.com/share/1Cvs1Shkgv/?mibextid=wwXIfr",
       "start": "2026-10-18T07:20:00-05:00",
@@ -7282,32 +7386,6 @@
         "run"
       ],
       "booth": false
-    },
-    {
-      "title": "Fiesta de Palmas",
-      "description": "McAllen's signature fall music and culture festival across the McAllen Convention Center campus with concerts, dance showcases, fireworks, artisan mercado, and carnival; listings show October 18-20, 2026 (confirm with city).",
-      "start": "2026-10-18T09:00:00-05:00",
-      "end": "2026-10-20T22:00:00-05:00",
-      "venue": "McAllen Convention Center / Oval Park",
-      "city": "McAllen",
-      "address": "700 Convention Center Blvd, McAllen, TX",
-      "category": "city",
-      "price": "",
-      "url": "https://www.fiestadepalmas.com/",
-      "source": "Fiesta de Palmas / Explore McAllen",
-      "sponsorship": true,
-      "booth": true,
-      "verified": false,
-      "image": "",
-      "id": "fiesta-de-palmas-2026-10-18",
-      "tags": [
-        "city",
-        "mcallen"
-      ],
-      "organization": "Fiesta de Palmas / Explore McAllen",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false
     },
     {
       "title": "PokeSpook Fest",
@@ -7701,6 +7779,32 @@
       "booth": false
     },
     {
+      "title": "Park After Dark",
+      "description": "Free Halloween-season event in Brownsville with haunted trails, a movie in the park, games, and a costume contest.",
+      "start": "2026-10-23T18:00:00-05:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "price": "Free",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "park-after-dark-2026-10-23",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Spooktacular Halloween Bash",
       "description": "Join us for a spooktacular evening of fun, community and purpose! Food, music, dance, Halloween costume contest and silent auction!",
       "start": "2026-10-23T20:00:00-05:00",
@@ -7956,6 +8060,32 @@
         "mcallen"
       ],
       "organization": "gunshowtrader.com / gunshowtimes.com",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Lipan Apache Tribe Dakee Si Fall Powwow & Badger Run",
+      "description": "56th annual powwow in Alton with singing, dancing, drumming, vendors, and fry bread.",
+      "start": "2026-10-24T09:00:00-05:00",
+      "venue": "",
+      "city": "Alton",
+      "address": "Alton, TX",
+      "category": "nonprofit",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "lipan-apache-tribe-dakee-si-fall-powwow-badger-run-2026-10-24",
+      "tags": [
+        "alton",
+        "nonprofit"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
@@ -8489,6 +8619,32 @@
         "city"
       ],
       "booth": false
+    },
+    {
+      "title": "Plim Plim En Vivo",
+      "description": "Spanish-language family show Plim Plim En Vivo at the McAllen Performing Arts Center.",
+      "start": "2026-10-27T18:00:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "plim-plim-en-vivo-2026-10-27",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Thee Sinseers",
@@ -9851,6 +10007,32 @@
       "recurring": false
     },
     {
+      "title": "Sesame Street Live! Elmo's Got the Moves",
+      "description": "Sesame Street Live! touring family show at the McAllen Performing Arts Center.",
+      "start": "2026-11-12T18:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "sesame-street-live-elmo-s-got-the-moves-2026-11-12",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Harlingen Gun Show",
       "description": "Gun and knife show at the Harlingen Convention Center, Nov. 13-15, 2026, with vendor tables for firearms, knives, ammo, and accessories.",
       "start": "2026-11-13T09:00:00-06:00",
@@ -10213,6 +10395,32 @@
         "expo"
       ],
       "booth": false
+    },
+    {
+      "title": "Mystic Pizza (Broadway musical)",
+      "description": "Touring Broadway musical Mystic Pizza at the McAllen Performing Arts Center.",
+      "start": "2026-11-17T19:30:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "mystic-pizza-broadway-musical-2026-11-17",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "NHPO-RGV Monthly Networking Event",
@@ -11098,6 +11306,32 @@
       "booth": false
     },
     {
+      "title": "The Nutcracker (RGV Ballet & Deborah Case Dance Academy)",
+      "description": "The Nutcracker presented by Rio Grande Valley Ballet and Deborah Case Dance Academy.",
+      "start": "2026-12-12T19:00:00-06:00",
+      "venue": "",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "the-nutcracker-rgv-ballet-deborah-case-dance-academy-2026-12-12",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Brownsville Chief of Police Marathon",
       "description": "Full marathon, half marathon and relay in Brownsville. Time TBD.",
       "start": "2026-12-13T00:00:00-06:00",
@@ -11330,6 +11564,32 @@
       "organization": "JustUs (RGV)",
       "county": "Hidalgo",
       "confidence": "high"
+    },
+    {
+      "title": "Waitress (Broadway)",
+      "description": "Touring Broadway production of Waitress at the McAllen Performing Arts Center.",
+      "start": "2027-01-15T19:30:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "waitress-broadway-2027-01-15",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "McAllen Marathon Scott Crane Run",
@@ -11854,6 +12114,32 @@
       "booth": false
     },
     {
+      "title": "Beetlejuice (Broadway, two nights)",
+      "description": "Touring Broadway production of Beetlejuice, two performances, at the McAllen Performing Arts Center.",
+      "start": "2027-03-05T19:30:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "beetlejuice-broadway-two-nights-2027-03-05",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "YEM World Tour 2027",
       "description": "Listed on the Payne Arena upcoming-events page, which links to Ticketmaster for this date. Start time is not shown on the arena page, so 00:00 is a placeholder — check the ticket link for doors and showtime.",
       "start": "2027-03-14T00:00:00-05:00",
@@ -11934,6 +12220,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "Legally Blonde (Broadway)",
+      "description": "Touring Broadway production of Legally Blonde at the McAllen Performing Arts Center.",
+      "start": "2027-04-15T19:30:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "legally-blonde-broadway-2027-04-15",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "32nd Annual Rio Grande Valley Medical Education Conference & Exposition",
