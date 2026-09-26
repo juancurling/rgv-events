@@ -205,7 +205,20 @@ function render(){
   }).sort((a,b)=>new Date(a.start)-new Date(b.start));
 
   const app=document.getElementById("app");
-  if(!list.length){app.innerHTML='<p class="empty">No events match — try clearing filters.</p>';return;}
+  if(!list.length){
+    const hasQuery = state.q.trim().length>0;
+    app.innerHTML = hasQuery
+      ? `<div class="empty">
+           <p>No events match "${esc(state.q)}" — yet.</p>
+           <p class="sub">Know of one we're missing? Tell us what you're looking for and we'll search for it and add it if it's real.</p>
+           <button class="submit-btn" id="findItBtn">🔎 Find &amp; add this event</button>
+         </div>`
+      : '<p class="empty">No events match — try clearing filters.</p>';
+    if(hasQuery){
+      document.getElementById("findItBtn").onclick=()=>openSubmitModal(`Search request: "${state.q}" — please look this up and add it if it's a real Rio Grande Valley event.`);
+    }
+    return;
+  }
 
   const byMonth={};
   list.forEach(e=>{
@@ -258,7 +271,12 @@ load();
 
 // Submit an Event modal → FormSubmit (free relay) → Events956 inbox → AI review queue
 const modal=document.getElementById("submitModal");
-document.getElementById("openSubmit").onclick=()=>modal.classList.add("open");
+function openSubmitModal(prefill){
+  modal.classList.add("open");
+  const details=document.querySelector('#submitForm textarea[name="event_details"]');
+  if(prefill && details && !details.value) details.value=prefill;
+}
+document.getElementById("openSubmit").onclick=()=>openSubmitModal();
 document.getElementById("closeSubmit").onclick=()=>modal.classList.remove("open");
 modal.addEventListener("click",ev=>{if(ev.target===modal)modal.classList.remove("open");});
 document.getElementById("submitForm").addEventListener("submit",async ev=>{
