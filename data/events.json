@@ -4151,6 +4151,32 @@
       "booth": false
     },
     {
+      "title": "Sunset on the Boardwalk",
+      "description": "Weekly evening program with drinks on the back patio, Wednesdays through Oct 28, at the South Padre Island Birding, Nature Center & Alligator Sanctuary. $7 admission.",
+      "start": "2026-09-30T18:00:00-05:00",
+      "venue": "South Padre Island Birding, Nature Center & Alligator Sanctuary",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "other",
+      "price": "$7",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "sunset-on-the-boardwalk-2026-09-30",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "PSJA Summer Reads Celebration",
       "description": "Summer reading celebration, 6:30–8:30 p.m. at the Raul Yzaguirre Middle School gym, per the PSJA ISD district calendar. Campus city within the Pharr-San Juan-Alamo district not specified on the calendar.",
       "start": "2026-09-30T18:30:00-05:00",
@@ -4201,6 +4227,32 @@
         "expo"
       ],
       "booth": false
+    },
+    {
+      "title": "Texas Venture Fest (RGV edition)",
+      "description": "Statewide startup/investment event, part of Texas Startup & Tech Week, at eBridge Center in Brownsville.",
+      "start": "2026-10-01T09:00:00-05:00",
+      "venue": "eBridge Center",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "business",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "texas-venture-fest-rgv-edition-2026-10-01",
+      "tags": [
+        "brownsville",
+        "business"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Samuel Shaer Suicide Awareness 5K",
@@ -7414,6 +7466,32 @@
       "recurring": false
     },
     {
+      "title": "Bobby Pulido",
+      "description": "Bobby Pulido performs at Bert Ogden Arena.",
+      "start": "2026-10-17T20:00:00-05:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "bobby-pulido-2026-10-17",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Hey Cupcake 5k",
       "description": "HEY CUPCAKE 5K A little sweet. A little fast. And definitely not your average Sunday morning. We’re bringing Hey Cupcake 5K to the Pharr Trails this October! Come race it, walk it, bring the family, or show up ready to see what you’ve got. However you cross that finish line, a pretty sweet cupcake-shaped medal is waiting for you. Sunday, October 18th ⏰ Kids 1k: 7:20 AM | 5k: 7:45 AM 1901 S Cage Blvd | Pharr, TX 5K — $30 1K — $10 | Medal Only T-Shirt Deadline — September 17th AGE GROUP AWARDS 9 & Under 10–15 16–20 21–29 30–39 40–49 50–59 60–69 70 & Over 1k awards top 3 girls and boys Run/walk the miles. Earn the cupcake medal See you at the starting line https://www.facebook.com/share/1Cvs1Shkgv/?mibextid=wwXIfr",
       "start": "2026-10-18T07:20:00-05:00",
@@ -7517,6 +7595,32 @@
       "confidence": "medium",
       "recurring": false,
       "booth": true
+    },
+    {
+      "title": "CCW: Till the Casket Drops IV",
+      "description": "Pro wrestling event at the Historic Cine El Rey Theatre.",
+      "start": "2026-10-18T18:00:00-05:00",
+      "venue": "Historic Cine El Rey Theatre",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "ccw-till-the-casket-drops-iv-2026-10-18",
+      "tags": [
+        "games",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Serving Those Who Served Us",
@@ -7879,6 +7983,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Bert Kreischer: Permission to Party",
+      "description": "Comedian Bert Kreischer performs at the McAllen Performing Arts Center.",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "bert-kreischer-permission-to-party-2026-10-23",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
     },
@@ -8621,6 +8751,32 @@
       "booth": false
     },
     {
+      "title": "Gary Owen: No Hard Feelings Tour",
+      "description": "Comedian Gary Owen performs at the McAllen Performing Arts Center.",
+      "start": "2026-10-25T19:00:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "gary-owen-no-hard-feelings-tour-2026-10-25",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Killer Queen - A Tribute to Queen",
       "description": "Queen tribute act Killer Queen performs at The Box Theater in McAllen on October 25, 2026 at 8 p.m.",
       "start": "2026-10-25T20:00:00-05:00",
@@ -8887,6 +9043,32 @@
         "https://pharr-tx.gov/events/"
       ],
       "booth": false
+    },
+    {
+      "title": "Valley Symphony Orchestra: Music of the Greats",
+      "description": "Valley Symphony Orchestra concert at the McAllen Performing Arts Center.",
+      "start": "2026-10-30T19:30:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "valley-symphony-orchestra-music-of-the-greats-2026-10-30",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Monster Dash 10K, 5K & 1 Mile Little Monster's Dash",
@@ -9409,6 +9591,32 @@
       "booth": false
     },
     {
+      "title": "Brownsville Latin Music Festival (featuring Latin Jazz)",
+      "description": "Latin jazz festival at The Livivo Music Hall, presented by the Brownsville Society for the Performing Arts.",
+      "start": "2026-11-06T19:00:00-06:00",
+      "venue": "The Livivo Music Hall",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "brownsville-latin-music-festival-featuring-latin-jazz-2026-11-06",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "ilykimchi",
       "description": "Ilykimchi brings her headline tour to McAllen this fall.",
       "start": "2026-11-06T20:00:00-06:00",
@@ -9433,6 +9641,58 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "Sin Bandera",
+      "description": "Sin Bandera performs at Payne Arena.",
+      "start": "2026-11-06T20:00:00-06:00",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "Hidalgo, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "sin-bandera-2026-11-06",
+      "tags": [
+        "concerts",
+        "hidalgo"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "8onthebeat (OCHO)",
+      "description": "Live music/nightlife event at Presi in McAllen.",
+      "start": "2026-11-06T21:00:00-06:00",
+      "venue": "Presi",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "8onthebeat-ocho-2026-11-06",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Padel for United Way Charity Event",
@@ -10163,6 +10423,32 @@
       "recurring": false
     },
     {
+      "title": "Los Horóscopos de Durango: El Cierre de la Gira de Oro",
+      "description": "Los Horóscopos de Durango perform at the McAllen Performing Arts Center.",
+      "start": "2026-11-13T20:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "los-horoscopos-de-durango-el-cierre-de-la-gira-de-oro-2026-11-13",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Mud Factor — Edinburg",
       "description": "5K obstacle mud run in Edinburg. Time TBD.",
       "start": "2026-11-14T00:00:00-06:00",
@@ -10290,6 +10576,32 @@
       "organization": "runningintheusa.com listing + Heart Institute of Brownsville Facebook event via web search",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Harlingen 10th Annual Turkey for Teachers",
+      "description": "Community turkey giveaway for teachers at Bert Ogden Toyota in Harlingen.",
+      "start": "2026-11-14T10:00:00-06:00",
+      "venue": "Bert Ogden Toyota",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "nonprofit",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "harlingen-10th-annual-turkey-for-teachers-2026-11-14",
+      "tags": [
+        "harlingen",
+        "nonprofit"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -10578,6 +10890,32 @@
       "booth": false
     },
     {
+      "title": "Island Life Festival",
+      "description": "Festival at the Cameron County Amphitheater on South Padre Island.",
+      "start": "2026-11-21T15:00:00-06:00",
+      "venue": "Cameron County Amphitheater",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "city",
+      "price": "$25-$200",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "image": "",
+      "id": "island-life-festival-2026-11-21",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Beatriz Adriana",
       "description": "Ranchera singer Beatriz Adriana performs at the McAllen Performing Arts Center on November 21, 2026 at 8:00 PM.",
       "start": "2026-11-21T20:00:00-06:00",
@@ -10812,6 +11150,32 @@
       "recurring": false
     },
     {
+      "title": "Rene Vaca & That Mexican OT",
+      "description": "Comedy show at the McAllen Performing Arts Center.",
+      "start": "2026-12-01T19:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rene-vaca-that-mexican-ot-2026-12-01",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "AST in SPI",
       "description": "Join AST for some holiday cheer at the Isla Grand where it's always the best time of the year!",
       "start": "2026-12-01T21:00:00-06:00",
@@ -10966,6 +11330,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "Valley Symphony Orchestra: A Touch of Frost",
+      "description": "Valley Symphony Orchestra holiday concert at the McAllen Performing Arts Center.",
+      "start": "2026-12-04T19:30:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "valley-symphony-orchestra-a-touch-of-frost-2026-12-04",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Weslaco Scholarship Foundation Scholar Stride 5k",
@@ -12324,6 +12714,32 @@
         "Facebook (public search)"
       ],
       "booth": false
+    },
+    {
+      "title": "Yuridia: Cartas Sobre La Mesa Tour 2027",
+      "description": "Yuridia performs at Bert Ogden Arena.",
+      "start": "2027-03-19T20:00:00-05:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "yuridia-cartas-sobre-la-mesa-tour-2027-2027-03-19",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Resurgence Trail Run",
