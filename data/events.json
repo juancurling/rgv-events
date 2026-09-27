@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -6233,6 +6233,32 @@
       "booth": false
     },
     {
+      "title": "20th Anniversary Diabetes Heroes Gala / Dancing with the Stars of Hidalgo County",
+      "description": "Rio Grande Valley Diabetes Association's 20th-anniversary fundraising gala, combining its annual Diabetes Heroes recognition event with its long-running Dancing with the Stars of Hidalgo County celebrity dance competition fundraiser.",
+      "start": "2026-10-10T18:00:00-05:00",
+      "end": "",
+      "venue": "",
+      "city": "Mission",
+      "address": "200 N Shary Rd, Mission, TX 78572",
+      "category": "gala",
+      "price": "",
+      "url": "https://rgvda.org/rgvda-events/",
+      "source": "websearch",
+      "sponsorship": true,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "20th-anniversary-diabetes-heroes-gala-dancing-with-the-stars-of-hidalgo-county-2026-10-10",
+      "tags": [
+        "gala",
+        "mission"
+      ],
+      "organization": "websearch",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Halloween event ! Potions and Treats !",
       "description": "Hi 👋 set your calendars because this is going to be our first event and our first party ever! We would love for you to dress up but not required! We will have treats and drinks for you to try! Great opportunity to come together to meet and greet and chat ! Bring family , friends and kids even. RSVP",
       "start": "2026-10-10T18:30:00-05:00",
@@ -6416,6 +6442,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "McAllen Halloween Festival",
+      "description": "City of McAllen Parks & Recreation Halloween festival at Westside Multi-Purpose Fields with kiddie rides, inflatables, a petting zoo, and live performances. Free admission; $5 wristbands for rides/inflatables.",
+      "start": "2026-10-11T17:30:00-05:00",
+      "end": "2026-10-11T22:00:00-05:00",
+      "venue": "Westside Multi-Purpose Fields",
+      "city": "McAllen",
+      "address": "1000 S Ware Rd, McAllen, TX 78501",
+      "category": "city",
+      "price": "Free (rides/inflatables $5 wristband)",
+      "url": "https://mcallenparks.net/mcallen-halloween-festival/",
+      "source": "McAllen Parks & Recreation (Facebook)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "mcallen-halloween-festival-2026-10-11",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "McAllen Parks & Recreation (Facebook)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Hidalgo County 4-H Glow Run Clover 5K & Fun Run",
@@ -7204,6 +7256,32 @@
         "nonprofit"
       ],
       "booth": false
+    },
+    {
+      "title": "Brownsville CycloBia (Fall Edition)",
+      "description": "City of Brownsville's car-free cycling and street festival event through downtown Brownsville, returning for its fall 2026 edition.",
+      "start": "2026-10-17T18:00:00-05:00",
+      "end": "",
+      "venue": "Downtown Brownsville",
+      "city": "Brownsville",
+      "address": "Downtown Brownsville, TX",
+      "category": "cycling",
+      "price": "Free",
+      "url": "https://www.cyclobiabrownsville.com/",
+      "source": "CycloBia Brownsville (Instagram)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "id": "brownsville-cyclobia-fall-edition-2026-10-17",
+      "tags": [
+        "brownsville",
+        "cycling"
+      ],
+      "organization": "CycloBia Brownsville (Instagram)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Run for Rotary 5k",
@@ -10838,6 +10916,32 @@
       "booth": false
     },
     {
+      "title": "Miracle on McIntyre",
+      "description": "City of Edinburg's two-night holiday kickoff: a Tree Lighting Ceremony and Holiday Market at Promenade Park Amphitheatre on night one, followed by the Edinburg Chamber's Night of Lights Parade (theme \"Cinema Christmas\") along Closner Boulevard on night two. Both nights free.",
+      "start": "2026-12-04T18:00:00-06:00",
+      "end": "2026-12-05T21:00:00-06:00",
+      "venue": "Promenade Park Amphitheatre / Closner Boulevard",
+      "city": "Edinburg",
+      "address": "Downtown Edinburg, TX",
+      "category": "city",
+      "price": "Free",
+      "url": "https://www.edinburgarts.com/miracleonmcintyre",
+      "source": "City of Edinburg / Texas Border Business",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "miracle-on-mcintyre-2026-12-04",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "City of Edinburg / Texas Border Business",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Oakwood",
       "description": "Oakwood returns to McAllen this December.",
       "start": "2026-12-04T19:00:00-06:00",
@@ -11356,6 +11460,58 @@
       "confidence": "medium",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Weslaco Chamber Santa Dash",
+      "description": "The Weslaco Area Chamber of Commerce and RGV Theme Runs host the annual Santa Dash 5K fun run, serving as the kickoff to the Weslaco Lighted Christmas Parade; each runner receives a Santa suit, medal, and bib.",
+      "start": "2026-12-13T17:00:00-06:00",
+      "end": "",
+      "venue": "275 S. Kansas Ave (Weslaco Area Chamber of Commerce)",
+      "city": "Weslaco",
+      "address": "275 S Kansas Ave, Weslaco, TX 78596",
+      "category": "run",
+      "price": "",
+      "url": "https://www.raceentry.com/weslaco-chamber-santa-dash/race-information?t=r",
+      "source": "RaceEntry",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "weslaco-chamber-santa-dash-2026-12-13",
+      "tags": [
+        "run",
+        "weslaco"
+      ],
+      "organization": "RaceEntry",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Weslaco Lighted Christmas Parade",
+      "description": "The Weslaco Area Chamber of Commerce's annual Lighted Christmas Parade runs through downtown Weslaco (Texas Blvd), immediately following the Chamber's Santa Dash 5K.",
+      "start": "2026-12-13T18:00:00-06:00",
+      "end": "",
+      "venue": "Downtown Weslaco (Texas Blvd)",
+      "city": "Weslaco",
+      "address": "Texas Blvd, Weslaco, TX 78596",
+      "category": "city",
+      "price": "Free",
+      "url": "https://www.weslaco.com/parade/",
+      "source": "Weslaco Area Chamber of Commerce",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "weslaco-lighted-christmas-parade-2026-12-13",
+      "tags": [
+        "city",
+        "weslaco"
+      ],
+      "organization": "Weslaco Area Chamber of Commerce",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Blue October - Foiled 20th Anniversary",
