@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -3252,32 +3252,6 @@
       "recurring": false
     },
     {
-      "title": "Daniel Habif - ASCENDER World Tour",
-      "description": "Motivational speaker Daniel Habif performs at McAllen Performing Arts Center on September 24, 2026 at 8 p.m.",
-      "start": "2026-09-24T20:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Performing Arts Center",
-      "city": "McAllen",
-      "address": "801 Convention Center Blvd, McAllen, TX",
-      "category": "concerts",
-      "price": "",
-      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
-      "source": "Ticketmaster / MPAC listings",
-      "sponsorship": false,
-      "booth": false,
-      "verified": true,
-      "image": "",
-      "id": "daniel-habif-ascender-world-tour-2026-09-24",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "Ticketmaster / MPAC listings",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false
-    },
-    {
       "title": "SJA Homecoming Pre-Game Parade",
       "description": "Saint Joseph Academy's homecoming pre-game parade, a community celebration ahead of the homecoming football game.",
       "start": "2026-09-25T00:00:00-05:00",
@@ -4411,6 +4385,32 @@
       "booth": false
     },
     {
+      "title": "Narciso Martínez Conjunto Festival",
+      "description": "The RGV's longest-running music festival, celebrating conjunto heritage, in Los Fresnos.",
+      "start": "2026-10-02T18:00:00-05:00",
+      "end": "2026-10-03T22:00:00-05:00",
+      "venue": "",
+      "city": "Los Fresnos",
+      "address": "Los Fresnos, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "narciso-martinez-conjunto-festival-2026-10-02",
+      "tags": [
+        "concerts",
+        "los-fresnos"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Perritos Only Presents: That's Not Me Comedy Tour - McAllen, TX",
       "description": "Come see comedians Concrete & Jerry Garcia live in McAllen, TX for a night full of laughter and fun!",
       "start": "2026-10-02T19:00:00-05:00",
@@ -4935,6 +4935,32 @@
         "market"
       ],
       "booth": true
+    },
+    {
+      "title": "Queen Isabella Days",
+      "description": "Eight days of community events in Port Isabel: museum/lighthouse exhibits, car show, antique & flea market, paella and live music, Lucha Libre, community dance; closes with the 14th Annual Pachanga on Maxan Street.",
+      "start": "2026-10-03T10:00:00-05:00",
+      "end": "2026-10-10T22:00:00-05:00",
+      "venue": "Multiple locations",
+      "city": "Port Isabel",
+      "address": "Port Isabel, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "queen-isabella-days-2026-10-03",
+      "tags": [
+        "city",
+        "port-isabel"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Blessing of the Animals at Saint Joseph Academy",
@@ -5727,32 +5753,6 @@
         "other"
       ],
       "booth": false
-    },
-    {
-      "title": "Alicia Villarreal",
-      "description": "Regional Mexican singer Alicia Villarreal performs at McAllen Performing Arts Center on October 9, 2026 at 8 p.m.",
-      "start": "2026-10-09T20:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Performing Arts Center",
-      "city": "McAllen",
-      "address": "801 Convention Center Blvd, McAllen, TX",
-      "category": "concerts",
-      "price": "",
-      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
-      "source": "Ticketmaster / MPAC listings",
-      "sponsorship": false,
-      "booth": false,
-      "verified": true,
-      "image": "",
-      "id": "alicia-villarreal-2026-10-09",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "Ticketmaster / MPAC listings",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false
     },
     {
       "title": "Fright Night 5K",
@@ -7362,32 +7362,6 @@
       "booth": false
     },
     {
-      "title": "Mariachazo in McAllen",
-      "description": "Two of the world's most iconic mariachi ensembles, Mariachi Vargas de Tecalitlán and Mariachi Nuevo Tecalitlán, share one stage for a celebration of Mexican heritage.",
-      "start": "2026-10-17T20:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Performing Arts Center",
-      "city": "McAllen",
-      "address": "801 Convention Center Blvd, McAllen, TX 78501",
-      "category": "concerts",
-      "price": "See Ticketmaster",
-      "url": "https://www.exploremcallen.com/event/mariachazo-in-mcallen/",
-      "image": "",
-      "source": "exploremcallen.com",
-      "sponsorship": false,
-      "verified": true,
-      "id": "mariachazo-in-mcallen-2026-10-17",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "exploremcallen.com",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "Mon Laferte - Femme Fatale Tour",
       "description": "Chilean singer-songwriter Mon Laferte performs at Payne Arena. Tickets via Ticketmaster.",
       "start": "2026-10-17T20:00:00-05:00",
@@ -7412,32 +7386,6 @@
       "confidence": "high",
       "recurring": false,
       "booth": false
-    },
-    {
-      "title": "Mariachazo - Mariachi Vargas de Tecalitlan & Nuevo Tecalitlan",
-      "description": "Mariachi showcase featuring Mariachi Vargas de Tecalitlan and Mariachi Nuevo Tecalitlan at McAllen Performing Arts Center, October 17, 2026 at 8 p.m.",
-      "start": "2026-10-17T20:00:00-05:00",
-      "end": "",
-      "venue": "McAllen Performing Arts Center",
-      "city": "McAllen",
-      "address": "801 Convention Center Blvd, McAllen, TX",
-      "category": "concerts",
-      "price": "",
-      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
-      "source": "Ticketmaster / MPAC listings",
-      "sponsorship": false,
-      "booth": false,
-      "verified": true,
-      "image": "",
-      "id": "mariachazo-mariachi-vargas-de-tecalitlan-nuevo-tecalitlan-2026-10-17",
-      "tags": [
-        "mcallen",
-        "other"
-      ],
-      "organization": "Ticketmaster / MPAC listings",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false
     },
     {
       "title": "HallowMania 17",
@@ -9669,6 +9617,58 @@
       "recurring": false
     },
     {
+      "title": "Jason Boland & The Stragglers",
+      "description": "Jason Boland & The Stragglers perform at Silverado Saloon.",
+      "start": "2026-11-06T20:00:00-06:00",
+      "venue": "Silverado Saloon",
+      "city": "La Feria",
+      "address": "La Feria, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "jason-boland-the-stragglers-2026-11-06",
+      "tags": [
+        "concerts",
+        "la-feria"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Rio Grande Valley Vipers vs. Austin Spurs",
+      "description": "RGV Vipers NBA G League home game vs. the Austin Spurs at Bert Ogden Arena.",
+      "start": "2026-11-06T20:30:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rio-grande-valley-vipers-vs-austin-spurs-2026-11-06",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "8onthebeat (OCHO)",
       "description": "Live music/nightlife event at Presi in McAllen.",
       "start": "2026-11-06T21:00:00-06:00",
@@ -10449,6 +10449,32 @@
       "recurring": false
     },
     {
+      "title": "Midland: Stages Tour",
+      "description": "Midland performs at Payne Arena.",
+      "start": "2026-11-13T20:00:00-06:00",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "Hidalgo, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "midland-stages-tour-2026-11-13",
+      "tags": [
+        "concerts",
+        "hidalgo"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Mud Factor — Edinburg",
       "description": "5K obstacle mud run in Edinburg. Time TBD.",
       "start": "2026-11-14T00:00:00-06:00",
@@ -10709,6 +10735,32 @@
       "recurring": false
     },
     {
+      "title": "Julio Preciado",
+      "description": "Julio Preciado performs at Payne Arena.",
+      "start": "2026-11-14T20:00:00-06:00",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "Hidalgo, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "julio-preciado-2026-11-14",
+      "tags": [
+        "concerts",
+        "hidalgo"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "3rd Annual PSJA Toy Patrol Drive",
       "description": "District-wide holiday toy drive listed as an all-day event on the PSJA ISD district calendar every day from Nov. 16 through Dec. 11, 2026. Drop-off locations and times not published on the calendar.",
       "start": "2026-11-16T00:00:00-06:00",
@@ -10813,6 +10865,32 @@
       "recurring": false
     },
     {
+      "title": "Rio Grande Valley Vipers vs. Austin Spurs (Rematch)",
+      "description": "RGV Vipers NBA G League home game vs. the Austin Spurs at Bert Ogden Arena.",
+      "start": "2026-11-17T20:00:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rio-grande-valley-vipers-vs-austin-spurs-rematch-2026-11-17",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "NHPO-RGV Monthly Networking Event",
       "description": "National Hispanic Professionals Organization RGV monthly networking mixer, held every third Thursday of the month from 6:00-9:00 PM per the organization's standing schedule. November venue not yet announced; September and October editions are already on the calendar.",
       "start": "2026-11-19T18:00:00-06:00",
@@ -10890,6 +10968,32 @@
       "booth": false
     },
     {
+      "title": "Rio Grande Valley Vipers vs. Laketown Squadron",
+      "description": "RGV Vipers NBA G League home game vs. Laketown Squadron at Bert Ogden Arena.",
+      "start": "2026-11-20T20:30:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rio-grande-valley-vipers-vs-laketown-squadron-2026-11-20",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Island Life Festival",
       "description": "Festival at the Cameron County Amphitheater on South Padre Island.",
       "start": "2026-11-21T15:00:00-06:00",
@@ -10937,6 +11041,32 @@
         "other"
       ],
       "organization": "Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Rio Grande Valley Vipers vs. Laketown Squadron (Rematch)",
+      "description": "RGV Vipers NBA G League home game vs. Laketown Squadron at Bert Ogden Arena.",
+      "start": "2026-11-21T20:30:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rio-grande-valley-vipers-vs-laketown-squadron-rematch-2026-11-21",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
@@ -11095,6 +11225,32 @@
       "organization": "southpoleoftexas.com; valleycentral.com 'McAllen announces South Pole Illuminated Festival dates'",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Lights On Celebration - Christmas Market",
+      "description": "Holiday market and tree-lighting celebration at Tres Lagos in McAllen.",
+      "start": "2026-11-28T18:00:00-06:00",
+      "venue": "Tres Lagos",
+      "city": "McAllen",
+      "address": "4400 Tres Lagos Blvd, McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "lights-on-celebration-christmas-market-2026-11-28",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -12060,6 +12216,32 @@
       "booth": false
     },
     {
+      "title": "John Milton",
+      "description": "John Milton performs at the McAllen Performing Arts Center.",
+      "start": "2027-01-02T20:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "john-milton-2027-01-02",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Abundant Grace Learning Academy",
       "description": "Start the New Year Running with Perseverance! Join us for Abundant Grace Learning Academy's 4th Annual 5K Run/Walk - \"Run with Perseverance,\" inspired by Hebrews 12:1 As we begin a New Year, we are reminded that God calls us to keep moving forward with faith, perseverance, and purpose. Every race begins with a first step, and every great goal is accomplished by continuing to take one step at a time. Our playground improvement project is a big dream and a significant expense, but we believe that with God's provision and the support of our community, we can continue moving towards the finish line. Proceeds from this 5K will help us continue improving our playground and creating a safe, joyful outdoor space where our children can play, learn, grow, and make memories. This 5k is about more than crossing a finish line. It is about coming together, encouraging one another, supporting our child",
       "start": "2027-01-09T16:00:00-06:00",
@@ -12373,6 +12555,32 @@
       "booth": false
     },
     {
+      "title": "Elías Medina",
+      "description": "Elías Medina performs at the McAllen Performing Arts Center.",
+      "start": "2027-02-13T20:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "elias-medina-2027-02-13",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "The Farndale Av Housing Estate Townswomen’s Guild Dramatic Society Murder M",
       "description": "The comic horrors of what can go wrong on the night of a performance by the Ladies Dramatic Society",
       "start": "2027-02-18T19:30:00-06:00",
@@ -12502,6 +12710,32 @@
         "run"
       ],
       "booth": false
+    },
+    {
+      "title": "Shen Yun Performing Arts",
+      "description": "Shen Yun Performing Arts at the McAllen Performing Arts Center.",
+      "start": "2027-02-20T19:30:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "shen-yun-performing-arts-2027-02-20",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Charro Days Fiesta 2027",
@@ -12846,6 +13080,32 @@
       "booth": false
     },
     {
+      "title": "Daniel Habif",
+      "description": "Motivational speaker Daniel Habif at the McAllen Performing Arts Center.",
+      "start": "2027-04-29T20:00:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "daniel-habif-2027-04-29",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "California Suite",
       "description": "One of Neil Simon's comedies about the human condition",
       "start": "2027-05-25T19:30:00-05:00",
@@ -12870,6 +13130,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "FLANS 40: Sin Control Tour",
+      "description": "Flans performs their 40th-anniversary Sin Control Tour at the McAllen Performing Arts Center.",
+      "start": "2027-05-30T20:00:00-05:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "flans-40-sin-control-tour-2027-05-30",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     }
   ]
 }
