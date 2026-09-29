@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -4489,6 +4489,32 @@
       "booth": false
     },
     {
+      "title": "Jane Monheit (UTRGV Distinguished Artist Series)",
+      "description": "A night of vocal jazz with Jane Monheit, part of the UTRGV Distinguished Artist Series.",
+      "start": "2026-10-02T19:00:00-05:00",
+      "venue": "UTRGV",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "jane-monheit-utrgv-distinguished-artist-series-2026-10-02",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Marisela - Eterna Tour 2026",
       "description": "Latin pop icon Marisela performs live at Payne Arena. Tickets via Ticketmaster.",
       "start": "2026-10-02T20:00:00-05:00",
@@ -4959,6 +4985,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Growing Wildflowers Workshop",
+      "description": "Wildflower gardening class with take-home seeds at Quinta Mazatlan.",
+      "start": "2026-10-03T10:00:00-05:00",
+      "venue": "Quinta Mazatlan",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "growing-wildflowers-workshop-2026-10-03",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
     },
@@ -5439,6 +5491,32 @@
       "booth": false
     },
     {
+      "title": "UTRGV Bands: The Pines of Rome",
+      "description": "UTRGV Bands concert, The Pines of Rome, in Harlingen.",
+      "start": "2026-10-06T19:00:00-05:00",
+      "venue": "UTRGV",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-bands-the-pines-of-rome-2026-10-06",
+      "tags": [
+        "concerts",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Pharr Gateway Forum",
       "description": "Inaugural free forum for local and international investors, business owners, and students, with panels on the Pharr bridge expansion, transportation, and international trade. Registration opens Aug. 28 at the Truck Expo.",
       "start": "2026-10-07T00:00:00-05:00",
@@ -5518,6 +5596,32 @@
       "organization": "Weslaco Area Chamber of Commerce programs page (recurring first-Wednesday schedule; individual date not separately confirmed)",
       "county": "Hidalgo",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Symphony Orchestra: Beethoven 5th",
+      "description": "UTRGV Symphony Orchestra performs Beethoven's 5th in Harlingen.",
+      "start": "2026-10-07T19:00:00-05:00",
+      "venue": "UTRGV",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-symphony-orchestra-beethoven-5th-2026-10-07",
+      "tags": [
+        "concerts",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -5623,6 +5727,58 @@
         "gala"
       ],
       "booth": false
+    },
+    {
+      "title": "UTRGV Bands: The Pines of Rome (Edinburg)",
+      "description": "UTRGV Bands concert, The Pines of Rome, in Edinburg.",
+      "start": "2026-10-08T19:00:00-05:00",
+      "venue": "UTRGV",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-bands-the-pines-of-rome-edinburg-2026-10-08",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Enfrascada (theatre)",
+      "description": "UTRGV theatre production of Enfrascada, Thu Oct 8 & Fri Oct 9.",
+      "start": "2026-10-08T19:30:00-05:00",
+      "end": "2026-10-09T21:30:00-05:00",
+      "venue": "UTRGV",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "enfrascada-theatre-2026-10-08",
+      "tags": [
+        "edinburg",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Flatland Cavalry",
@@ -6786,6 +6942,32 @@
       "booth": false
     },
     {
+      "title": "UTRGV Symphony Orchestra: Beethoven 5th (Edinburg)",
+      "description": "UTRGV Symphony Orchestra performs Beethoven's 5th in Edinburg.",
+      "start": "2026-10-15T19:00:00-05:00",
+      "venue": "UTRGV",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-symphony-orchestra-beethoven-5th-edinburg-2026-10-15",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "South Texas College Foundation Gala",
       "description": "South Texas College's third annual Foundation Gala raises scholarship funds for STC students, with South Texas Health System returning as title sponsor and diamond, platinum, gold and media sponsorship levels offered. Held at the Mission Event Center.",
       "start": "2026-10-16T09:00:00-05:00",
@@ -7433,6 +7615,32 @@
       "tags": [
         "concerts",
         "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "FACE2FAXE V4",
+      "description": "Live music event at La Bandida in McAllen, featuring SENFIYAH, NYXARI x LOUFIYAH, XYLA NYMPH x TYOZA, TRAGEDY x CHEVATO; produced by Upbeat RGV.",
+      "start": "2026-10-17T21:00:00-05:00",
+      "venue": "La Bandida",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "face2faxe-v4-2026-10-17",
+      "tags": [
+        "concerts",
+        "mcallen"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
@@ -8243,6 +8451,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Crazy Scary Spooky (Halloween costume party)",
+      "description": "18+ Halloween costume party with Royal Towerz & Valley Baby performing live.",
+      "start": "2026-10-24T10:00:00-05:00",
+      "end": "2026-10-24T12:00:00-05:00",
+      "venue": "",
+      "city": "South Padre Island",
+      "address": "2213 Padre Blvd, South Padre Island, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "crazy-scary-spooky-halloween-costume-party-2026-10-24",
+      "tags": [
+        "concerts",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
       "confidence": "medium",
       "recurring": false
     },
@@ -9643,6 +9877,32 @@
       "recurring": false
     },
     {
+      "title": "Eli Young Band",
+      "description": "Eli Young Band performs at Las Palmas Race Park.",
+      "start": "2026-11-06T20:00:00-06:00",
+      "venue": "Las Palmas Race Park",
+      "city": "Mission",
+      "address": "Mission, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "eli-young-band-2026-11-06",
+      "tags": [
+        "concerts",
+        "mission"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Rio Grande Valley Vipers vs. Austin Spurs",
       "description": "RGV Vipers NBA G League home game vs. the Austin Spurs at Bert Ogden Arena.",
       "start": "2026-11-06T20:30:00-06:00",
@@ -10371,6 +10631,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Mariachi Fall Concert",
+      "description": "UTRGV Mariachi Fall Concert in Edinburg.",
+      "start": "2026-11-12T19:00:00-06:00",
+      "venue": "UTRGV",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-mariachi-fall-concert-2026-11-12",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Harlingen Gun Show",
       "description": "Gun and knife show at the Harlingen Convention Center, Nov. 13-15, 2026, with vendor tables for firearms, knives, ammo, and accessories.",
       "start": "2026-11-13T09:00:00-06:00",
@@ -10994,6 +11280,32 @@
       "recurring": false
     },
     {
+      "title": "3BallMTY",
+      "description": "3BallMTY performs at Presi in McAllen.",
+      "start": "2026-11-20T21:00:00-06:00",
+      "venue": "Presi",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "3ballmty-2026-11-20",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Island Life Festival",
       "description": "Festival at the Cameron County Amphitheater on South Padre Island.",
       "start": "2026-11-21T15:00:00-06:00",
@@ -11016,6 +11328,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Ken Ludwig's Lend Me a Tenor (theatre)",
+      "description": "UTRGV theatre production of Ken Ludwig's Lend Me a Tenor.",
+      "start": "2026-11-21T19:30:00-06:00",
+      "venue": "UTRGV",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "ken-ludwig-s-lend-me-a-tenor-theatre-2026-11-21",
+      "tags": [
+        "edinburg",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
     },
@@ -11381,6 +11719,32 @@
       "organization": "christmasparade.myspi.org 2026 Christmas schedule (Thursday, December 3, 2026)",
       "county": "Cameron",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Extreme Dwarfanators Wrestling",
+      "description": "Extreme Dwarfanators Wrestling event in McAllen (venue TBA).",
+      "start": "2026-12-03T19:00:00-06:00",
+      "venue": "",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "extreme-dwarfanators-wrestling-2026-12-03",
+      "tags": [
+        "games",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -12920,7 +13284,7 @@
       "recurring": false
     },
     {
-      "title": "YEM World Tour 2027",
+      "title": "Morat: YEM World Tour 2027",
       "description": "Listed on the Payne Arena upcoming-events page, which links to Ticketmaster for this date. Start time is not shown on the arena page, so 00:00 is a placeholder — check the ticket link for doors and showtime.",
       "start": "2027-03-14T00:00:00-05:00",
       "end": "2027-03-14T23:59:00-05:00",
