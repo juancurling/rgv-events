@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -5015,6 +5015,32 @@
       "recurring": false
     },
     {
+      "title": "South Texas International Book Festival: Pet Week at the Library",
+      "description": "Lead-up programming for the South Texas International Book Festival, featuring mascot Marty the Library Cat; free.",
+      "start": "2026-10-03T10:00:00-05:00",
+      "end": "2026-10-09T17:00:00-05:00",
+      "venue": "McAllen Public Library",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "south-texas-international-book-festival-pet-week-at-the-library-2026-10-03",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Blessing of the Animals at Saint Joseph Academy",
       "description": "Blessing of the Animals, 12:00–1:00 p.m. Calendar note: “Gather at the Bloodhound Statue, outside Student Center.”",
       "start": "2026-10-03T12:00:00-05:00",
@@ -5727,6 +5753,32 @@
         "gala"
       ],
       "booth": false
+    },
+    {
+      "title": "An Evening with Author James Wade",
+      "description": "Ticketed South Texas International Book Festival lead-up event: admission, refreshments, and a copy of his latest novel, Narrow the Road.",
+      "start": "2026-10-08T18:00:00-05:00",
+      "venue": "McAllen Public Library",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "an-evening-with-author-james-wade-2026-10-08",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "UTRGV Bands: The Pines of Rome (Edinburg)",
@@ -6834,6 +6886,32 @@
       "confidence": "high"
     },
     {
+      "title": "Soñar en Grande: Lorena Ochoa Book Talk",
+      "description": "Mexican golf legend Lorena Ochoa discusses her memoir Soñar en grande, part of Read Around Town Week.",
+      "start": "2026-10-14T18:00:00-05:00",
+      "venue": "McAllen Public Library",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "sonar-en-grande-lorena-ochoa-book-talk-2026-10-14",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "RAINAO",
       "description": "The Marcriá tour hits McAllen this fall.",
       "start": "2026-10-14T19:00:00-05:00",
@@ -7515,6 +7593,32 @@
       "organization": "CycloBia Brownsville (Instagram)",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "ClassiCulture Piano Recital: Sunlight and Shadow",
+      "description": "Pianist Juan Pablo Andrade performs; presented by Brownsville Piano Studio.",
+      "start": "2026-10-17T19:00:00-05:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "classiculture-piano-recital-sunlight-and-shadow-2026-10-17",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -8507,6 +8611,32 @@
       "booth": true
     },
     {
+      "title": "South Texas International Book Festival: Festival Day",
+      "description": "Rebranded as an international festival (\"Pages to Possibilities\"): nine featured authors including Reyna Grande, Katherine Center, and Huda Fahmy; storytimes, book giveaways, activities. Free.",
+      "start": "2026-10-24T11:00:00-05:00",
+      "end": "2026-10-24T17:00:00-05:00",
+      "venue": "McAllen Public Library Main",
+      "city": "McAllen",
+      "address": "4001 N. 23rd St., McAllen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "south-texas-international-book-festival-festival-day-2026-10-24",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Dia de los Muertos Folklife Festival",
       "description": "Mission Historical Museum's annual free Dia de los Muertos Folklife Festival with live entertainment, food and merchandise vendors, the Community Altar Exhibit, and a 500m Callejoneada street parade. Attendees are invited to come in Dia de los Muertos-inspired outfits.",
       "start": "2026-10-24T14:00:00-05:00",
@@ -8639,6 +8769,32 @@
         "expo"
       ],
       "booth": false
+    },
+    {
+      "title": "HCGOP Trunk or Treat",
+      "description": "Free family-friendly decorated trunks and candy.",
+      "start": "2026-10-24T17:00:00-05:00",
+      "end": "2026-10-24T19:00:00-05:00",
+      "venue": "Hidalgo County GOP Headquarters",
+      "city": "McAllen",
+      "address": "4900 N. 23rd St., McAllen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "hcgop-trunk-or-treat-2026-10-24",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Los Muertos Bailan",
@@ -9773,8 +9929,8 @@
       "booth": false
     },
     {
-      "title": "Brownsville Latin Music Festival (featuring Latin Jazz)",
-      "description": "Latin jazz festival at The Livivo Music Hall, presented by the Brownsville Society for the Performing Arts.",
+      "title": "Brownsville Latin Music Festival",
+      "description": "Two-night Latin music festival at The Livivo Music Hall, presented by the Brownsville Society for the Performing Arts; featuring Ache de Barrio, Del Castillo & more.",
       "start": "2026-11-06T19:00:00-06:00",
       "venue": "The Livivo Music Hall",
       "city": "Brownsville",
@@ -9785,7 +9941,7 @@
       "sponsorship": false,
       "booth": false,
       "verified": false,
-      "end": "",
+      "end": "2026-11-07T23:00:00-06:00",
       "price": "",
       "image": "",
       "id": "brownsville-latin-music-festival-featuring-latin-jazz-2026-11-06",
@@ -10291,6 +10447,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "Piñata Festival",
+      "description": "Follows the Harlingen Christmas parade; music, food & piñatas.",
+      "start": "2026-11-07T17:00:00-06:00",
+      "venue": "Lt. George Gutierrez, Jr. Park",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "pinata-festival-2026-11-07",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Una Noche de Leyendas",
@@ -10995,6 +11177,32 @@
       "booth": false
     },
     {
+      "title": "Extravaganza Folklórica",
+      "description": "Folkloric dance showcase.",
+      "start": "2026-11-14T19:30:00-06:00",
+      "venue": "",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "extravaganza-folklorica-2026-11-14",
+      "tags": [
+        "harlingen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Jose Madero",
       "description": "Former PXNDX frontman Jose Madero performs at McAllen Performing Arts Center on November 14, 2026 at 8 p.m.",
       "start": "2026-11-14T20:00:00-06:00",
@@ -11198,6 +11406,32 @@
       ],
       "organization": "NHPO-RGV (official standing schedule: third Thursday monthly, 6-9 PM)",
       "county": "",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Candlelight: Tribute to Queen & The Beatles; Tribute to Bad Bunny",
+      "description": "Candlelit concert experience.",
+      "start": "2026-11-19T19:00:00-06:00",
+      "venue": "Historic Alonso Building",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "candlelight-tribute-to-queen-the-beatles-tribute-to-bad-bunny-2026-11-19",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
       "confidence": "medium",
       "recurring": false
     },
