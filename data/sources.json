@@ -495,6 +495,24 @@
       "notes": ""
     },
     {
+      "id": "chamber-mercedes",
+      "name": "Mercedes Chamber of Commerce",
+      "type": "chamber",
+      "method": "page",
+      "url": "https://mercedeschamber.com/events/",
+      "priority": 2,
+      "notes": "Added 2026-10-01 per Juan's ribbon-cutting request."
+    },
+    {
+      "id": "valley-business-report",
+      "name": "Valley Business Report — RGV Events Aggregator",
+      "type": "aggregator",
+      "method": "page",
+      "url": "https://valleybusinessreport.com/events/",
+      "priority": 1,
+      "notes": "Added 2026-10-01 per Juan's ribbon-cutting request: regional RGV business-events calendar that aggregates ribbon cuttings, mixers, and luncheons across many chambers (McAllen, Mission, RGV Hispanic Chamber, Starr County, South Padre Island, Raymondville, and others) that don't have strong standalone calendars of their own. Check every sweep — highest-value single source for ribbon cuttings/networking category."
+    },
+    {
       "id": "runsignup",
       "name": "RunSignup",
       "type": "race-directory",
