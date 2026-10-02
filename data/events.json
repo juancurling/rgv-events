@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-02",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -5174,6 +5174,32 @@
       "booth": false
     },
     {
+      "title": "34th Annual Fire Stoppers Festival",
+      "description": "Community festival at Promenade Park Amphitheater.",
+      "start": "2026-10-03T18:00:00-05:00",
+      "venue": "Promenade Park Amphitheater",
+      "city": "Edinburg",
+      "address": "201 W. McIntyre St., Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "34th-annual-fire-stoppers-festival-2026-10-03",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Faith, Hope and Love 5k",
       "description": "Faith • Hope • Love 5K Run/Walk for a Cure Every Step Makes a Difference Join the Weslaco Running Club for the Faith • Hope • Love 5K Run/Walk for a Cure , a community event dedicated to supporting Maria Jiron as she courageously battles breast cancer. Maria is much more than a patient—she is a beloved daughter, sister, cousin, mother, wonderful grandmother, treasured friend, and valued coworker whose kindness has touched countless lives. Now it's our turn to give back. Whether you run for a personal best, walk alongside family and friends, or simply want to make a difference, your participation matters . Every registration helps provide financial support for Maria and reminds her that she is not fighting alone. Event Information Date : Saturday, October 3, 2026 Time: 6:30 p.m. Location: Harlon Block Sports Complex Weslaco, Texas Registration: $30 Registration Includes Custom Finisher Me",
       "start": "2026-10-03T18:30:00-05:00",
@@ -5488,6 +5514,32 @@
       "organization": "National Night Out (Texas date) / KVEO prior-year coverage",
       "county": "Hidalgo",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Mission Historical Museum Community Altar Exhibit",
+      "description": "Free Dia de los Muertos community altar exhibit (museum open Tue-Fri 1-4 PM, 2nd Saturdays 10 AM-1 PM).",
+      "start": "2026-10-06T13:00:00-05:00",
+      "end": "2026-11-13T16:00:00-06:00",
+      "venue": "Mission Historical Museum Annex",
+      "city": "Mission",
+      "address": "200 E. Tom Landry St., Mission, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "mission-historical-museum-community-altar-exhibit-2026-10-06",
+      "tags": [
+        "mission",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -7492,6 +7544,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Vaqueros Volleyball vs Lamar",
+      "description": "UTRGV Vaqueros volleyball home match.",
+      "start": "2026-10-17T12:00:00-05:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-vaqueros-volleyball-vs-lamar-2026-10-17",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "TRICK OR TREAT 🎃🍭🍬",
       "description": "🎃👻 TRICK OR TREAT MARKET IS ALMOST HERE! 👻🎃 The spooky season is calling… and you’re invited! 🕸️🕷️ Grab your costumes, bring the family, and join us for a night filled with Halloween fun, sweet treats, local shopping, and festive memories! 📅 October 17, 2026 ⏰ 5:00 PM – 9:00 PM 📍 Black Bear Diner",
       "start": "2026-10-17T17:00:00-05:00",
@@ -8273,6 +8351,32 @@
       "recurring": false
     },
     {
+      "title": "Los Muertos Bailan: Canta y No Llores",
+      "description": "Dia de los Muertos music and arts night.",
+      "start": "2026-10-23T19:00:00-05:00",
+      "venue": "Edinburg ACE Center",
+      "city": "Edinburg",
+      "address": "315 W. McIntyre St., Edinburg, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "los-muertos-bailan-canta-y-no-llores-2026-10-23",
+      "tags": [
+        "edinburg",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Spooktacular Halloween Bash",
       "description": "Join us for a spooktacular evening of fun, community and purpose! Food, music, dance, Halloween costume contest and silent auction!",
       "start": "2026-10-23T20:00:00-05:00",
@@ -8797,6 +8901,32 @@
       "recurring": false
     },
     {
+      "title": "Spooktacular (World Birding Center)",
+      "description": "Halloween family event at the World Birding Center's Edinburg site.",
+      "start": "2026-10-24T17:00:00-05:00",
+      "venue": "World Birding Center (Edinburg site)",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "spooktacular-world-birding-center-2026-10-24",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Los Muertos Bailan",
       "description": "12th annual Dia de los Muertos festival hosted by the City of Edinburg Cultural Arts Department, spanning Edinburg City Hall to the Promenade Park Amphitheater with art, music, folklorico and Aztec dancers, Official Catrinas, and a community procession beginning at 7:00 PM. Free and open to the public; kids zone offers unlimited rides with a $5 wristband.",
       "start": "2026-10-24T18:00:00-05:00",
@@ -9245,6 +9375,31 @@
       "booth": false
     },
     {
+      "title": "Edinburg Halloween Fall Festival",
+      "description": "Family Halloween fall festival at Edinburg Municipal Park.",
+      "start": "2026-10-29T17:00:00-05:00",
+      "venue": "Edinburg Municipal Park",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "price": "",
+      "url": "",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "id": "edinburg-halloween-fall-festival-2026-10-29",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "WCR Bras for a Cause",
       "description": "Bras for a Cause Fashion Show: local heroes take the runway, creative bra auction & more. All benefiting local breast cancer charities!",
       "start": "2026-10-29T18:00:00-05:00",
@@ -9328,6 +9483,32 @@
       "booth": false
     },
     {
+      "title": "Trails of Treats",
+      "description": "Free Hidalgo County Halloween event.",
+      "start": "2026-10-30T16:00:00-05:00",
+      "end": "2026-10-30T20:00:00-05:00",
+      "venue": "Alfonso Flores All Star Park",
+      "city": "Edinburg",
+      "address": "107 Sunflower Rd., Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "trails-of-treats-2026-10-30",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Boo at the Zoo",
       "description": "Gladys Porter Zoo's annual family Halloween nights with trick-or-treating, carnival-style games, and costumed characters, 6-9 p.m. on Oct 30-31 per zoo announcements; pre-sale tickets $5 (2026 nights pending official confirmation).",
       "start": "2026-10-30T18:00:00-05:00",
@@ -9383,6 +9564,32 @@
       "booth": false
     },
     {
+      "title": "Harlingen Art Night (October)",
+      "description": "Recurring last-Friday art night in downtown Harlingen.",
+      "start": "2026-10-30T19:00:00-05:00",
+      "end": "2026-10-30T22:00:00-05:00",
+      "venue": "Downtown Harlingen & 'A' Street",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "harlingen-art-night-october-2026-10-30",
+      "tags": [
+        "harlingen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Valley Symphony Orchestra: Music of the Greats",
       "description": "Valley Symphony Orchestra concert at the McAllen Performing Arts Center.",
       "start": "2026-10-30T19:30:00-05:00",
@@ -9406,6 +9613,58 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Surely Tempo",
+      "description": "Live music at Cine El Rey.",
+      "start": "2026-10-30T20:00:00-05:00",
+      "venue": "Cine El Rey",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "surely-tempo-2026-10-30",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "CAPW: \"Luchas That Must Not Die\"",
+      "description": "Pro wrestling featuring Bandido, Gravity, Tiffany Nieves; presented with Fortuna Texas Wrestling.",
+      "start": "2026-10-30T20:00:00-05:00",
+      "venue": "Citrus Live Theatre",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "capw-luchas-that-must-not-die-2026-10-30",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -9513,6 +9772,32 @@
       "booth": true
     },
     {
+      "title": "UTRGV Vaqueros Volleyball vs Texas A&M-Corpus Christi (South Texas Showdown)",
+      "description": "UTRGV Vaqueros volleyball home match.",
+      "start": "2026-10-31T18:30:00-05:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-vaqueros-volleyball-vs-texas-a-m-corpus-christi-south-texas-showdown-2026-10-31",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "UTRGV Homecoming Football Game vs Lamar",
       "description": "The UTRGV Vaqueros host Lamar for the 2026 Homecoming game at Robert & Janet Vackar Stadium, kicking off at 7 p.m. on Halloween night. The game caps UTRGV's week-long homecoming celebration for students, alumni and the community.",
       "start": "2026-10-31T19:00:00-05:00",
@@ -9617,6 +9902,32 @@
       "recurring": false
     },
     {
+      "title": "Fiesta de Vida: Dia de los Muertos Event",
+      "description": "Dia de los Muertos community event.",
+      "start": "2026-11-01T19:00:00-06:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "543 E. Madison St., Brownsville, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "fiesta-de-vida-dia-de-los-muertos-event-2026-11-01",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Black Flag",
       "description": "Punk pioneers Black Flag perform at Payne Arena in Hidalgo on November 1, 2026 at 8 p.m.",
       "start": "2026-11-01T20:00:00-06:00",
@@ -9666,6 +9977,32 @@
       "organization": "tsc.edu (TSC events calendar)",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Vaqueros Basketball Season-Opening Doubleheader",
+      "description": "Women's basketball vs Arlington Baptist 5:00 PM; Men's basketball vs Texas A&M-Kingsville 7:30 PM.",
+      "start": "2026-11-02T17:00:00-06:00",
+      "end": "2026-11-02T21:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "utrgv-vaqueros-basketball-season-opening-doubleheader-2026-11-02",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -10397,6 +10734,84 @@
       "recurring": false
     },
     {
+      "title": "Harlingen Market Days (November)",
+      "description": "Recurring first-Saturday makers/vintage market.",
+      "start": "2026-11-07T09:00:00-06:00",
+      "end": "2026-11-07T15:00:00-06:00",
+      "venue": "Jackson Ave. & Centennial Park",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "harlingen-market-days-november-2026-11-07",
+      "tags": [
+        "farmers-market",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "20th Annual Veteran's Day Parade (Edinburg)",
+      "description": "Veterans Day parade along Closner Blvd (\"Boulevard of Heroes\").",
+      "start": "2026-11-07T10:00:00-06:00",
+      "venue": "Closner Blvd.",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "20th-annual-veteran-s-day-parade-edinburg-2026-11-07",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "49th Annual Pan de Campo Cook-Off",
+      "description": "Cook-off hosted by American Legion Freddy Gonzalez Post 408.",
+      "start": "2026-11-07T11:00:00-06:00",
+      "venue": "Promenade Park Amphitheater",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "49th-annual-pan-de-campo-cook-off-2026-11-07",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "La Mafia Live at Mustang Yard",
       "description": "Tejano legends La Mafia perform live at Mustang Yard in Weslaco on Saturday, November 7, 2026 starting at 5:00 PM.",
       "start": "2026-11-07T17:00:00-06:00",
@@ -10527,6 +10942,58 @@
       "booth": false
     },
     {
+      "title": "UTRGV Men's Basketball vs Prairie View A&M",
+      "description": "UTRGV Vaqueros men's basketball home game.",
+      "start": "2026-11-07T19:00:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-men-s-basketball-vs-prairie-view-a-m-2026-11-07",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "SayMyName (18+ event)",
+      "description": "18+ night event at Cine El Rey.",
+      "start": "2026-11-07T22:00:00-06:00",
+      "venue": "Cine El Rey",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "saymyname-18-event-2026-11-07",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Harlon Block Half Marathon",
       "description": "Half marathon in Weslaco honoring Iwo Jima flag-raiser Harlon Block. Time TBD.",
       "start": "2026-11-08T00:00:00-06:00",
@@ -10603,6 +11070,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "H-E-B Feast of Sharing",
+      "description": "Free community meal and giveback event; about 1,000 volunteers.",
+      "start": "2026-11-08T11:00:00-06:00",
+      "venue": "McAllen Convention Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "nonprofit",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "h-e-b-feast-of-sharing-2026-11-08",
+      "tags": [
+        "mcallen",
+        "nonprofit"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Mike Bliss: Comedy Magic and Pickpocketing show",
@@ -11410,6 +11903,32 @@
       "recurring": false
     },
     {
+      "title": "15th Annual UFO Festival & Conference",
+      "description": "Conference/kickoff at Edinburg ACE Center; main free festival Saturday evening at Promenade Park Amphitheater.",
+      "start": "2026-11-19T18:00:00-06:00",
+      "end": "2026-11-21T22:00:00-06:00",
+      "venue": "Edinburg ACE Center / Promenade Park Amphitheater",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "15th-annual-ufo-festival-conference-2026-11-19",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Candlelight: Tribute to Queen & The Beatles; Tribute to Bad Bunny",
       "description": "Candlelit concert experience.",
       "start": "2026-11-19T19:00:00-06:00",
@@ -11540,6 +12059,58 @@
       "recurring": false
     },
     {
+      "title": "STC Turkey Trot 5K Run/Walk",
+      "description": "5K run/walk fundraiser at STC Pecan Campus.",
+      "start": "2026-11-21T07:30:00-06:00",
+      "venue": "STC Pecan Campus, Building Q Gym",
+      "city": "McAllen",
+      "address": "3201 W. Pecan Blvd., McAllen, TX",
+      "category": "run",
+      "price": "$20-$25",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "image": "",
+      "id": "stc-turkey-trot-5k-run-walk-2026-11-21",
+      "tags": [
+        "mcallen",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Edinburg Cares Food Drive",
+      "description": "Community food drive.",
+      "start": "2026-11-21T09:00:00-06:00",
+      "venue": "Edinburg Fire Station #1",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "nonprofit",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "edinburg-cares-food-drive-2026-11-21",
+      "tags": [
+        "edinburg",
+        "nonprofit"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Island Life Festival",
       "description": "Festival at the Cameron County Amphitheater on South Padre Island.",
       "start": "2026-11-21T15:00:00-06:00",
@@ -11640,6 +12211,58 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Vendor Pop-Up @ Uncle Chops",
+      "description": "Makers market pop-up.",
+      "start": "2026-11-22T09:00:00-06:00",
+      "venue": "Uncle Chops Food Court",
+      "city": "Weslaco",
+      "address": "Weslaco, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "vendor-pop-up-uncle-chops-2026-11-22",
+      "tags": [
+        "farmers-market",
+        "weslaco"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Harlingen's Harvest Hangout",
+      "description": "Fall community gathering.",
+      "start": "2026-11-22T15:00:00-06:00",
+      "venue": "",
+      "city": "Harlingen",
+      "address": "1217 Fair Park Blvd., Harlingen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "harlingen-s-harvest-hangout-2026-11-22",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
       "confidence": "high",
       "recurring": false
     },
