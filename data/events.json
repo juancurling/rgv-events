@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -1893,9 +1893,9 @@
     },
     {
       "title": "Isla Grand Comedy Night",
-      "description": "Reserve the best seat in the house & laugh the night away with Raymond Orta and his cast of misfits!!!",
-      "start": "2026-09-17T19:00:00-05:00",
-      "end": "2026-09-17T21:00:00-05:00",
+      "description": "Raymond Orta comedy night; date corrected from a stale Sept 17 listing to the confirmed Oct 8 date.",
+      "start": "2026-10-08T19:00:00-05:00",
+      "end": "2026-10-08T21:00:00-05:00",
       "venue": "Isla Grand Beach Resort",
       "city": "South Padre Island",
       "address": "500 Padre Boulevard, South Padre Island, TX 78597",
@@ -1905,7 +1905,7 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185427878%2F637825753063%2F1%2Foriginal.20260526-123710?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506&fp-y=0.985&s=d8af1b3461df1ecc6cb16372755b471e",
       "source": "Eventbrite",
       "sponsorship": false,
-      "verified": false,
+      "verified": true,
       "organization": "Eventbrite",
       "county": "Cameron",
       "confidence": "medium",
@@ -5282,6 +5282,32 @@
       "booth": false
     },
     {
+      "title": "Harlingen Community Theatre: \"Real Women Have Curves\"",
+      "description": "Harlingen Community Theatre stage production.",
+      "start": "2026-10-03T19:30:00-05:00",
+      "end": "2026-10-04T16:00:00-05:00",
+      "venue": "Harlingen Community Theatre",
+      "city": "Harlingen",
+      "address": "1209 Fair Park Blvd., Harlingen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "harlingen-community-theatre-real-women-have-curves-2026-10-03",
+      "tags": [
+        "harlingen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Chayanne – Bailemos Otra Vez Tour",
       "description": "Puerto Rican superstar Chayanne brings his Bailemos Otra Vez world tour to Payne Arena for a night of Latin pop hits.",
       "start": "2026-10-03T20:00:00-05:00",
@@ -5357,6 +5383,32 @@
       "organization": "Mapometer event listing / Rotary Club of Historic Brownsville (via web search)",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "The Joy of Play: Intro to Improv",
+      "description": "Introductory improv class/show.",
+      "start": "2026-10-04T15:00:00-05:00",
+      "venue": "Casa Vibra",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "the-joy-of-play-intro-to-improv-2026-10-04",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -5807,6 +5859,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Women's Soccer vs McNeese",
+      "description": "UTRGV Vaqueros women's soccer home match.",
+      "start": "2026-10-08T18:30:00-05:00",
+      "venue": "UTRGV Soccer and Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-women-s-soccer-vs-mcneese-2026-10-08",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "UTRGV Bands: The Pines of Rome (Edinburg)",
       "description": "UTRGV Bands concert, The Pines of Rome, in Edinburg.",
       "start": "2026-10-08T19:00:00-05:00",
@@ -5883,6 +5961,32 @@
       "confidence": "high",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "The Craft Corridor Rio Grande",
+      "description": "Arts and crafts vendor market.",
+      "start": "2026-10-09T08:00:00-05:00",
+      "venue": "McAllen Convention Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "the-craft-corridor-rio-grande-2026-10-09",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Drive For Trade Golf Tournament",
@@ -6231,7 +6335,7 @@
     {
       "title": "UTRGV Football vs Southeastern Louisiana - Breast Cancer Awareness Night",
       "description": "UTRGV hosts Southeastern Louisiana at Robert & Janet Vackar Stadium for Breast Cancer Awareness Night, presented by H-E-B. Part of the Vaqueros' five-game 2026 home slate in Edinburg.",
-      "start": "2026-10-10T09:00:00-05:00",
+      "start": "2026-10-10T19:00:00-05:00",
       "end": "",
       "venue": "Robert & Janet Vackar Stadium",
       "city": "Edinburg",
@@ -6242,7 +6346,7 @@
       "source": "RGVSports.com / Valley Central",
       "sponsorship": true,
       "booth": false,
-      "verified": false,
+      "verified": true,
       "image": "",
       "id": "utrgv-football-vs-southeastern-louisiana-breast-cancer-awareness-night-2026-10-10",
       "tags": [
@@ -6383,6 +6487,32 @@
         "nonprofit"
       ],
       "booth": true
+    },
+    {
+      "title": "McAllen Farmers Market",
+      "description": "Weekly farmers market.",
+      "start": "2026-10-10T10:00:00-05:00",
+      "end": "2026-10-10T13:00:00-05:00",
+      "venue": "4001 N 23rd St.",
+      "city": "McAllen",
+      "address": "4001 N 23rd St., McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "mcallen-farmers-market-2026-10-10",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Monster Jam 2026",
@@ -6545,6 +6675,32 @@
       "recurring": false
     },
     {
+      "title": "Stake Cultural Festival",
+      "description": "Cultural festival hosted by The Church of Jesus Christ of Latter-day Saints.",
+      "start": "2026-10-10T18:00:00-05:00",
+      "venue": "The Church of Jesus Christ of Latter-day Saints",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "religious",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "stake-cultural-festival-2026-10-10",
+      "tags": [
+        "brownsville",
+        "religious"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Halloween event ! Potions and Treats !",
       "description": "Hi 👋 set your calendars because this is going to be our first event and our first party ever! We would love for you to dress up but not required! We will have treats and drinks for you to try! Great opportunity to come together to meet and greet and chat ! Bring family , friends and kids even. RSVP",
       "start": "2026-10-10T18:30:00-05:00",
@@ -6701,6 +6857,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent) / Ticketmaster",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Men's Soccer vs Eastern Illinois",
+      "description": "UTRGV Vaqueros men's soccer home match.",
+      "start": "2026-10-11T11:00:00-05:00",
+      "venue": "UTRGV Soccer and Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-men-s-soccer-vs-eastern-illinois-2026-10-11",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -7068,6 +7250,58 @@
       ],
       "organization": "Harlingen Chamber calendar sweep (via tourtexas.com)",
       "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Women's Soccer vs Nicholls",
+      "description": "UTRGV Vaqueros women's soccer home match.",
+      "start": "2026-10-15T18:30:00-05:00",
+      "venue": "UTRGV Soccer and Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-women-s-soccer-vs-nicholls-2026-10-15",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Volleyball vs Stephen F. Austin",
+      "description": "UTRGV Vaqueros volleyball home match.",
+      "start": "2026-10-15T18:30:00-05:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-volleyball-vs-stephen-f-austin-2026-10-15",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
     },
@@ -8143,6 +8377,32 @@
       "booth": false
     },
     {
+      "title": "Careers & Coffee 2026 — Premier Job Expo",
+      "description": "Job expo in South Texas.",
+      "start": "2026-10-22T10:00:00-05:00",
+      "end": "2026-10-22T14:00:00-05:00",
+      "venue": "Brownsville Events Center",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "business",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "careers-coffee-2026-premier-job-expo-2026-10-22",
+      "tags": [
+        "brownsville",
+        "business"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Marine Military Academy Ball",
       "description": "MMA's formal Ball held on campus during Parents Weekend, featuring heavy hors d'oeuvres, the Marine Corps birthday cake-cutting ceremony, a live auction and a dance. Note: MMA's site places this during Parents Weekend, which may indicate the Parents Weekend entry already on the calendar (Oct 16-18) needs re-checking.",
       "start": "2026-10-22T17:00:00-05:00",
@@ -8221,6 +8481,32 @@
       "booth": false
     },
     {
+      "title": "UTRGV Women's Soccer vs Stephen F. Austin",
+      "description": "UTRGV Vaqueros women's soccer home match.",
+      "start": "2026-10-22T18:30:00-05:00",
+      "venue": "UTRGV Soccer and Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-women-s-soccer-vs-stephen-f-austin-2026-10-22",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "VOCES Health Summit 2026: Bridging Health & Culture",
       "description": "Join us for a day of real talk on how health and culture come together to shape our communities and lives.",
       "start": "2026-10-23T08:00:00-05:00",
@@ -8245,6 +8531,32 @@
         "expo"
       ],
       "booth": false
+    },
+    {
+      "title": "McAllen Fall Arts & Crafts Festival 2026",
+      "description": "Arts and crafts festival at Archer Park.",
+      "start": "2026-10-23T08:00:00-05:00",
+      "end": "2026-10-25T18:00:00-05:00",
+      "venue": "Archer Park",
+      "city": "McAllen",
+      "address": "101 N Main St., McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "mcallen-fall-arts-crafts-festival-2026-2026-10-23",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "LIVE2LEAD 2026 - Eyes on the Prize",
@@ -8979,6 +9291,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Men's Soccer vs Western Illinois",
+      "description": "UTRGV Vaqueros men's soccer home match.",
+      "start": "2026-10-24T18:30:00-05:00",
+      "venue": "UTRGV Soccer and Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-men-s-soccer-vs-western-illinois-2026-10-24",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Pharr-O-Ween: Nightmare on Cage 5K",
       "description": "Halloween-themed 5K run through downtown Pharr.",
       "start": "2026-10-24T19:00:00-05:00",
@@ -9349,6 +9687,32 @@
       "recurring": false
     },
     {
+      "title": "Autismo En Mi Vida's 4th Annual October Fest",
+      "description": "Free community festival supporting autism awareness.",
+      "start": "2026-10-28T18:00:00-05:00",
+      "venue": "SOS Brownsville @ Cameron County Sheriff's Office",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "autismo-en-mi-vida-s-4th-annual-october-fest-2026-10-28",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Thee Sinseers",
       "description": "The Love Stories Tour hits McAllen, TX this fall. Tickets on sale Friday, May 15th.",
       "start": "2026-10-28T19:00:00-05:00",
@@ -9373,6 +9737,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "Festival de Otoño — Barrio Pharr 1",
+      "description": "Free fall festival hosted by The Church of Jesus Christ of Latter-day Saints.",
+      "start": "2026-10-28T19:00:00-05:00",
+      "venue": "The Church of Jesus Christ of Latter-day Saints",
+      "city": "Pharr",
+      "address": "Pharr, TX",
+      "category": "religious",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "festival-de-otono-barrio-pharr-1-2026-10-28",
+      "tags": [
+        "pharr",
+        "religious"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Edinburg Halloween Fall Festival",
@@ -9426,6 +9816,32 @@
       "booth": false
     },
     {
+      "title": "Free Autism Spooktacular National Night Out",
+      "description": "Free community Halloween/National Night Out event with Brownsville PD.",
+      "start": "2026-10-29T18:00:00-05:00",
+      "venue": "Brownsville Sports Park",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "free-autism-spooktacular-national-night-out-2026-10-29",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Disney On Ice: Magic In The Stars",
       "description": "Disney On Ice ice-skating production with multiple showtimes at Bert Ogden Arena. Tickets via AXS.",
       "start": "2026-10-29T19:00:00-05:00",
@@ -9450,6 +9866,32 @@
       "confidence": "high",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "McAllen Arts & Crafts Pop Up Market",
+      "description": "Arts and crafts pop-up market.",
+      "start": "2026-10-30T08:00:00-05:00",
+      "venue": "Oval Park",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "mcallen-arts-crafts-pop-up-market-2026-10-30",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Leadership Day Conference powered by the City of Pharr",
@@ -9902,6 +10344,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Women's Soccer vs East Texas A&M",
+      "description": "UTRGV Vaqueros women's soccer home match.",
+      "start": "2026-11-01T11:00:00-06:00",
+      "venue": "UTRGV Soccer and Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-women-s-soccer-vs-east-texas-a-m-2026-11-01",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Fiesta de Vida: Dia de los Muertos Event",
       "description": "Dia de los Muertos community event.",
       "start": "2026-11-01T19:00:00-06:00",
@@ -10160,6 +10628,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "UTRGV Volleyball vs East Texas A&M",
+      "description": "UTRGV Vaqueros volleyball home match.",
+      "start": "2026-11-05T18:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-volleyball-vs-east-texas-a-m-2026-11-05",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Adelitas Way with Kingdom Collapse",
@@ -10812,6 +11306,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Volleyball vs Northwestern State",
+      "description": "UTRGV Vaqueros volleyball home match.",
+      "start": "2026-11-07T12:00:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-volleyball-vs-northwestern-state-2026-11-07",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "La Mafia Live at Mustang Yard",
       "description": "Tejano legends La Mafia perform live at Mustang Yard in Weslaco on Saturday, November 7, 2026 starting at 5:00 PM.",
       "start": "2026-11-07T17:00:00-06:00",
@@ -10944,7 +11464,7 @@
     {
       "title": "UTRGV Men's Basketball vs Prairie View A&M",
       "description": "UTRGV Vaqueros men's basketball home game.",
-      "start": "2026-11-07T19:00:00-06:00",
+      "start": "2026-11-07T16:30:00-06:00",
       "venue": "UTRGV Fieldhouse",
       "city": "Edinburg",
       "address": "Edinburg, TX",
@@ -10953,7 +11473,7 @@
       "source": "Nyx (muse.ai Facebook-events agent)",
       "sponsorship": false,
       "booth": false,
-      "verified": false,
+      "verified": true,
       "end": "",
       "price": "",
       "image": "",
@@ -11124,6 +11644,32 @@
       "booth": false
     },
     {
+      "title": "The Haunt",
+      "description": "Live event at Cine El Rey.",
+      "start": "2026-11-08T19:00:00-06:00",
+      "venue": "Cine El Rey",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "the-haunt-2026-11-08",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "2026 Dia-BEAT-It Community Health Fair",
       "description": "🎉 Join Us for the FREE Dia-BEAT-IT Community Health Fair! 🎉 Mark your calendars for Tuesday, November 10, 2026, from 9:00 AM – 12:00 PM at the South Texas Mid Valley Campus Pavilion! ✅ Free Health Screenings 💃 Zumba Fitness 🥕 Fresh Produce 🎁 Amazing Door Prizes Don't miss this fun and family-f",
       "start": "2026-11-10T09:00:00-06:00",
@@ -11148,6 +11694,32 @@
         "expo"
       ],
       "booth": false
+    },
+    {
+      "title": "UTRGV Men's Basketball vs Texas State",
+      "description": "UTRGV Vaqueros men's basketball home game.",
+      "start": "2026-11-10T18:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-men-s-basketball-vs-texas-state-2026-11-10",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "30th Annual Rio Grande Valley Birding Festival",
@@ -11228,6 +11800,32 @@
       "recurring": false
     },
     {
+      "title": "Weslaco Veterans Day Celebration",
+      "description": "Community Veterans Day celebration.",
+      "start": "2026-11-11T10:00:00-06:00",
+      "venue": "Bobby Lackey Stadium",
+      "city": "Weslaco",
+      "address": "Weslaco, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "weslaco-veterans-day-celebration-2026-11-11",
+      "tags": [
+        "city",
+        "weslaco"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "JustUs RGV Networking Lunch",
       "description": "Monthly JustUs networking lunch for RGV professionals, held the second Wednesday of each month. Come connect over lunch at Poncho's in McAllen.",
       "start": "2026-11-11T11:30:00-06:00",
@@ -11254,6 +11852,32 @@
       "confidence": "high"
     },
     {
+      "title": "UTRGV Women's Basketball vs Abilene Christian",
+      "description": "UTRGV Vaqueros women's basketball home game.",
+      "start": "2026-11-11T18:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-women-s-basketball-vs-abilene-christian-2026-11-11",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "South Padre Island Half Marathon Weekend 2026",
       "description": "Multi-day race weekend on South Padre Island featuring a half marathon (solo and 2-person relay), 5K, 1-mile Turtle Trot, and the three-medal Loggerhead Challenge, produced by RAV Running. Race weekend is listed for November 2026 (RaceEntry shows 11/12/2026); exact day-by-day schedule should be confirmed on the official registration page.",
       "start": "2026-11-12T08:00:00-06:00",
@@ -11276,6 +11900,32 @@
       ],
       "organization": "RaceEntry / RAV Running (RedPodium)",
       "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Social Fest 2026",
+      "description": "Two-day creator-economy conference.",
+      "start": "2026-11-12T09:00:00-06:00",
+      "end": "2026-11-13T18:00:00-06:00",
+      "venue": "McAllen Convention Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "business",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "social-fest-2026-2026-11-12",
+      "tags": [
+        "business",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
     },
@@ -11618,6 +12268,32 @@
       "booth": true
     },
     {
+      "title": "RGV Asian Night Market",
+      "description": "Asian night market with vendors and food.",
+      "start": "2026-11-14T15:00:00-06:00",
+      "end": "2026-11-14T21:00:00-06:00",
+      "venue": "Archer Park",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "rgv-asian-night-market-2026-11-14",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "UTRGV Football vs Stephen F. Austin - Salute to Service & Senior Day",
       "description": "UTRGV closes its 2026 home schedule against defending Southland Conference champion Stephen F. Austin at 5 p.m. at Robert & Janet Vackar Stadium. The game is themed Salute to Service (honoring veterans and service members) and Senior Day.",
       "start": "2026-11-14T17:00:00-06:00",
@@ -11878,6 +12554,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Men's Basketball vs College of Biblical Studies",
+      "description": "UTRGV Vaqueros men's basketball home game.",
+      "start": "2026-11-18T18:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-men-s-basketball-vs-college-of-biblical-studies-2026-11-18",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "NHPO-RGV Monthly Networking Event",
       "description": "National Hispanic Professionals Organization RGV monthly networking mixer, held every third Thursday of the month from 6:00-9:00 PM per the organization's standing schedule. November venue not yet announced; September and October editions are already on the calendar.",
       "start": "2026-11-19T18:00:00-06:00",
@@ -11922,6 +12624,32 @@
       "tags": [
         "city",
         "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Women's Basketball vs North Dakota State",
+      "description": "UTRGV Vaqueros women's basketball home game.",
+      "start": "2026-11-19T18:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-women-s-basketball-vs-north-dakota-state-2026-11-19",
+      "tags": [
+        "edinburg",
+        "games"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
@@ -12345,6 +13073,32 @@
       "recurring": false
     },
     {
+      "title": "Harlingen Art Night (November)",
+      "description": "Recurring last-Friday art night in downtown Harlingen.",
+      "start": "2026-11-27T19:00:00-06:00",
+      "end": "2026-11-27T22:00:00-06:00",
+      "venue": "Downtown Harlingen & 'A' Street",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "harlingen-art-night-november-2026-11-27",
+      "tags": [
+        "harlingen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Hermanos Espinoza - Linaje Tour",
       "description": "Regional Mexican group Hermanos Espinoza performs at Payne Arena. Tickets via Ticketmaster.",
       "start": "2026-11-27T20:00:00-05:00",
@@ -12475,6 +13229,32 @@
       "booth": false
     },
     {
+      "title": "RGV Vipers vs Memphis Hustle",
+      "description": "RGV Vipers NBA G League home game.",
+      "start": "2026-11-28T20:30:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rgv-vipers-vs-memphis-hustle-2026-11-28",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Yuri & Lucero - Entre Amigas Tour",
       "description": "Mexican pop icons Yuri and Lucero co-headline the Entre Amigas Tour at Payne Arena.",
       "start": "2026-11-29T20:00:00-06:00",
@@ -12496,6 +13276,32 @@
         "other"
       ],
       "organization": "Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "RGV Vipers vs Memphis Hustle (Rematch)",
+      "description": "RGV Vipers NBA G League home game.",
+      "start": "2026-11-30T20:00:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rgv-vipers-vs-memphis-hustle-rematch-2026-11-30",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
@@ -12527,6 +13333,32 @@
       "recurring": false
     },
     {
+      "title": "Noche de Mezcal",
+      "description": "Evening cultural/tasting event at the Museum of South Texas History.",
+      "start": "2026-12-01T19:00:00-06:00",
+      "venue": "Museum of South Texas History",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "noche-de-mezcal-2026-12-01",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "AST in SPI",
       "description": "Join AST for some holiday cheer at the Isla Grand where it's always the best time of the year!",
       "start": "2026-12-01T21:00:00-06:00",
@@ -12551,6 +13383,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "RGV Vipers vs Oklahoma City Blue (Kids' Day game)",
+      "description": "RGV Vipers NBA G League home game, Kids' Day.",
+      "start": "2026-12-02T12:00:00-06:00",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rgv-vipers-vs-oklahoma-city-blue-kids-day-game-2026-12-02",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "South Padre Island Tree Lighting Ceremony",
@@ -12631,6 +13489,32 @@
       "booth": false
     },
     {
+      "title": "Christmas in the Park Holiday Festival",
+      "description": "Holiday festival at McAllen Municipal Park.",
+      "start": "2026-12-04T17:00:00-06:00",
+      "end": "2026-12-05T23:00:00-06:00",
+      "venue": "McAllen Municipal Park",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "christmas-in-the-park-holiday-festival-2026-12-04",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "37th Annual South Padre Island Christmas Parade",
       "description": "Annual holiday parade traveling south on Padre Boulevard from Mars to Acapulco (east side of medians only). No entry fee to participate. Registration deadline Tuesday, Nov 24, 2026 at 5:00 PM; contact Debbie Huffman at (956) 761-8168. Cash prizes for entries: 1st $500, 2nd $300, 3rd $200, Finalist $100. Backup date: Saturday, Dec 12, 2026. A parade float is a low-cost local brand-visibility opportunity.",
       "start": "2026-12-04T18:00:00-06:00",
@@ -12680,6 +13564,32 @@
       "organization": "City of Edinburg / Texas Border Business",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Downtown Harlingen Christmas Parade",
+      "description": "Holiday Christmas parade in downtown Harlingen.",
+      "start": "2026-12-04T18:00:00-06:00",
+      "venue": "Jackson Ave., Downtown Harlingen",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "downtown-harlingen-christmas-parade-2026-12-04",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -12761,6 +13671,32 @@
       "booth": false
     },
     {
+      "title": "Harlingen Market Days (December)",
+      "description": "Recurring first-Saturday makers/vintage market.",
+      "start": "2026-12-05T09:00:00-06:00",
+      "end": "2026-12-05T15:00:00-06:00",
+      "venue": "Jackson Ave. & Centennial Park",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "harlingen-market-days-december-2026-12-05",
+      "tags": [
+        "farmers-market",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "McAllen Holiday Parade 2026",
       "description": "The largest illuminated Christmas and helium-balloon parade in Texas, presented by H-E-B, on Saturday, December 5, 2026 with the theme 'Wild Christmas.' The 1.5-mile route runs through McAllen Veterans Memorial Stadium and south on Bicentennial Blvd; stadium tickets via Ticketmaster and $8 VIP chair seats along the route.",
       "start": "2026-12-05T18:00:00-06:00",
@@ -12810,6 +13746,32 @@
       "organization": "visitsouthpadreisland.com and christmasparade.myspi.org (Saturday, December 5, 2026, 6:00 PM)",
       "county": "Cameron",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Fiesta de Nochebuena",
+      "description": "Holiday cultural event at the Museum of South Texas History.",
+      "start": "2026-12-05T18:00:00-06:00",
+      "venue": "Museum of South Texas History",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "fiesta-de-nochebuena-2026-12-05",
+      "tags": [
+        "city",
+        "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
