@@ -1,6 +1,6 @@
 {
   "description": "Events956 source registry. Every sweep iterates this file. method: rss|ical|gcal|page (plain fetch), browser (needs real Chrome — Cloudflare/JS), browser-public (Facebook logged-out), websearch (general search), submission-only (no public calendar; rely on outreach/submissions). priority: 1=every sweep, 2=weekly, 3=occasional. The cities list drives Facebook searches, websearch queries, and geographic filtering — tier 1 cities get searched every sweep, tier 2 weekly/rotating.",
-  "updated": "2026-09-26",
+  "updated": "2026-10-04",
   "cities": [
     {
       "name": "McAllen",
@@ -487,12 +487,12 @@
     },
     {
       "id": "chamber-pharr",
-      "name": "Pharr Chamber",
+      "name": "Greater Pharr Chamber of Commerce",
       "type": "chamber",
       "method": "page",
-      "url": "https://pharrchamber.com/",
+      "url": "https://greaterpharrchamberofcommercetx.growthzoneapp.com/eventcalendar",
       "priority": 2,
-      "notes": ""
+      "notes": "Corrected 2026-10-04: pharrchamber.com does not appear to resolve/exist; the real org is the Greater Pharr Chamber of Commerce, with a GrowthZone calendar at this URL and a Glueup page at app.glueup.com/org/pharrchamber/. Co-hosts events with the City of Pharr and Pharr EDC (e.g. the Gateway Forum, Avocado Festival)."
     },
     {
       "id": "chamber-mercedes",

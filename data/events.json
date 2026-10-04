@@ -5412,6 +5412,32 @@
       "recurring": false
     },
     {
+      "title": "First Friday: Lucha Libre",
+      "description": "Monthly First Friday community event at Market Square: lucha libre wrestling, live music, local vendor shopping.",
+      "start": "2026-10-04T18:00:00-05:00",
+      "end": "2026-10-04T22:00:00-05:00",
+      "venue": "Market Square",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "games",
+      "url": "",
+      "source": "City of Brownsville",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "first-friday-lucha-libre-2026-10-04",
+      "tags": [
+        "brownsville",
+        "games"
+      ],
+      "organization": "City of Brownsville",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Jo Koy – Koy Meets World Tour",
       "description": "Comedian Jo Koy brings his Koy Meets World stand-up tour to Bert Ogden Arena.",
       "start": "2026-10-04T19:30:00-05:00",
@@ -5807,6 +5833,32 @@
       "booth": false
     },
     {
+      "title": "Cannery Public Market Grand Opening & Ribbon Cutting",
+      "description": "Official ribbon-cutting ceremony with remarks and guided tours.",
+      "start": "2026-10-08T10:00:00-05:00",
+      "venue": "Cannery Public Market",
+      "city": "Brownsville",
+      "address": "1700 E. 6th Street, Brownsville, TX",
+      "category": "networking",
+      "url": "https://www.brownsvilletx.gov/CivicAlerts.aspx?AID=3409",
+      "image": "",
+      "source": "City of Brownsville",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "id": "cannery-public-market-grand-opening-ribbon-cutting-2026-10-08",
+      "tags": [
+        "brownsville",
+        "networking"
+      ],
+      "organization": "City of Brownsville",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Greater Mission Chamber Annual Member Awards Banquet: An 80's Night Under the Palms",
       "description": "Greater Mission Chamber of Commerce annual awards banquet celebrating 80 years of the chamber and honoring the 2026 GMCC Member Award winners. Cocktail reception, silent auction, dinner, awards program and 80s-themed entertainment; dinner and awards program begin at 7:00 PM. Cocktail attire. SPONSORSHIP: sponsorship forms available from the chamber - 956-585-2727, gmcc@missionchamber.com.",
       "start": "2026-10-08T18:00:00-05:00",
@@ -6172,12 +6224,12 @@
     },
     {
       "title": "Queen City Trail Run",
-      "description": "Trail run in Weslaco — 10M, 10K, 5K, 1M. Time TBD.",
+      "description": "Trail run in Weslaco at Estero Llano Grande State Park: 10 mile, 10K, 10K ruck, 5K, and 1-mile youth categories. Time TBD.",
       "start": "2026-10-10T00:00:00-05:00",
       "end": "",
-      "venue": "",
+      "venue": "Estero Llano Grande State Park",
       "city": "Weslaco",
-      "address": "",
+      "address": "3301 S. International Blvd, Weslaco, TX",
       "category": "run",
       "price": "Registration",
       "url": "https://www.runningintheusa.com/race/list/within-50-miles-of-mcallen-tx/upcoming",
@@ -6938,6 +6990,32 @@
       "recurring": false
     },
     {
+      "title": "Showdown at the Arroyo V",
+      "description": "Multi-category race; register via BikeReg.",
+      "start": "2026-10-11T08:00:00-05:00",
+      "venue": "",
+      "city": "Harlingen",
+      "address": "1101 E New Hampshire St, Harlingen, TX",
+      "category": "run",
+      "url": "",
+      "source": "findtherun.com",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "showdown-at-the-arroyo-v-2026-10-11",
+      "tags": [
+        "harlingen",
+        "run"
+      ],
+      "organization": "findtherun.com",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "UTRGV Men's Soccer vs Eastern Illinois",
       "description": "UTRGV Vaqueros men's soccer home match.",
       "start": "2026-10-11T11:00:00-05:00",
@@ -7224,6 +7302,32 @@
       "booth": false
     },
     {
+      "title": "UTRGV Symphonic Winds Concert",
+      "description": "UTRGV Symphonic Winds concert.",
+      "start": "2026-10-14T19:00:00-05:00",
+      "venue": "UTRGV Performing Arts Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "price": "$10",
+      "url": "",
+      "source": "UTRGV",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "image": "",
+      "id": "utrgv-symphonic-winds-concert-2026-10-14",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "UTRGV",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Accelerator 2026: Bridging AI & Health Outcomes",
       "description": "A half-day event exploring how AI can improve healthcare access, health outcomes, and community impact across the Rio Grande Valley.",
       "start": "2026-10-15T08:00:00-05:00",
@@ -7332,6 +7436,32 @@
       "recurring": false
     },
     {
+      "title": "Food Park Unplugged",
+      "description": "Local live music, food truck dishes, and craft vendors.",
+      "start": "2026-10-15T18:00:00-05:00",
+      "venue": "McAllen Food Park",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Explore McAllen",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "food-park-unplugged-2026-10-15",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Explore McAllen",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "UTRGV Women's Soccer vs Nicholls",
       "description": "UTRGV Vaqueros women's soccer home match.",
       "start": "2026-10-15T18:30:00-05:00",
@@ -7405,6 +7535,32 @@
         "edinburg"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Symphonic Winds Concert (second performance)",
+      "description": "UTRGV Symphonic Winds concert, second performance.",
+      "start": "2026-10-15T19:00:00-05:00",
+      "venue": "UTRGV Performing Arts Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "concerts",
+      "price": "$10",
+      "url": "",
+      "source": "UTRGV",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "image": "",
+      "id": "utrgv-symphonic-winds-concert-second-performance-2026-10-15",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ],
+      "organization": "UTRGV",
       "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
@@ -9504,8 +9660,8 @@
     },
     {
       "title": "Boot Run 5K — RGVLS Champs for Champions",
-      "description": "5K + 1K at the Rio Grande Valley Livestock Show grounds, Mercedes. Time TBD.",
-      "start": "2026-10-25T00:00:00-05:00",
+      "description": "5K Boot Run, 1K Kicks Run, and a 1K no-bib Bull Run fun run at the Rio Grande Valley Livestock Show grounds, Mercedes. 8:00am start, awards around 11am.",
+      "start": "2026-10-25T08:00:00-05:00",
       "end": "",
       "venue": "RGV Livestock Show grounds",
       "city": "Mercedes",
@@ -9516,7 +9672,7 @@
       "image": "",
       "source": "RunningInTheUSA",
       "sponsorship": false,
-      "verified": false,
+      "verified": true,
       "id": "boot-run-5k-rgvls-champs-for-champions-2026-10-25",
       "tags": [
         "mercedes",
@@ -9524,7 +9680,7 @@
       ],
       "organization": "RunningInTheUSA",
       "county": "Hidalgo",
-      "confidence": "medium",
+      "confidence": "high",
       "recurring": false,
       "booth": false
     },
@@ -9685,6 +9841,32 @@
       "organization": "JamBase / venue listings",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Karaoke Night & Costume Contest",
+      "description": "Karaoke night with a Halloween costume contest.",
+      "start": "2026-10-25T20:00:00-05:00",
+      "end": "2026-10-25T22:00:00-05:00",
+      "venue": "McAllen Food Park",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "url": "",
+      "source": "Explore McAllen",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "karaoke-night-costume-contest-2026-10-25",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Explore McAllen",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -10528,9 +10710,9 @@
     },
     {
       "title": "Dia de los Muertos Celebration & Parade",
-      "description": "Free community Dia de los Muertos celebration and parade at Texas Southmost College's Fort Brown Campus, featuring altars, tributes, and cultural festivities.",
-      "start": "2026-11-02T09:00:00-06:00",
-      "end": "",
+      "description": "Free community Dia de los Muertos celebration and parade at Texas Southmost College, featuring altars, tributes, and cultural festivities.",
+      "start": "2026-11-02T19:00:00-06:00",
+      "end": "2026-11-02T22:00:00-06:00",
       "venue": "Texas Southmost College, Fort Brown Campus",
       "city": "Brownsville",
       "address": "80 Fort Brown, Brownsville, TX 78520",
@@ -10540,7 +10722,7 @@
       "source": "tsc.edu (TSC events calendar)",
       "sponsorship": false,
       "booth": false,
-      "verified": false,
+      "verified": true,
       "image": "",
       "id": "dia-de-los-muertos-celebration-parade-2026-11-02",
       "tags": [
@@ -10549,7 +10731,7 @@
       ],
       "organization": "tsc.edu (TSC events calendar)",
       "county": "Cameron",
-      "confidence": "medium",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -11538,6 +11720,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Cosmic Glow 5K Run/Walk",
+      "description": "5K run/walk benefiting AHSTI (homeownership education/counseling/lending for Hidalgo & Cameron counties).",
+      "start": "2026-11-07T18:00:00-06:00",
+      "venue": "Westside Park",
+      "city": "McAllen",
+      "address": "1000 S. Ware Rd, McAllen, TX",
+      "category": "run",
+      "url": "",
+      "source": "findtherun.com / endurancegrid.com",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "cosmic-glow-5k-run-walk-2026-11-07",
+      "tags": [
+        "mcallen",
+        "run"
+      ],
+      "organization": "findtherun.com / endurancegrid.com",
+      "county": "Hidalgo",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -13256,6 +13464,32 @@
       "booth": false
     },
     {
+      "title": "Collectors Collision Convention",
+      "description": "Sports cards and cosplay convention with vendor booths.",
+      "start": "2026-11-28T11:00:00-06:00",
+      "end": "2026-11-29T18:00:00-06:00",
+      "venue": "Harlingen Convention Center",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "business",
+      "url": "",
+      "source": "treasurehunter.show / valleybusinessreport.com",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "collectors-collision-convention-2026-11-28",
+      "tags": [
+        "business",
+        "harlingen"
+      ],
+      "organization": "treasurehunter.show / valleybusinessreport.com",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "South Pole Illuminated Festival 2026",
       "description": "McAllen's holiday light festival at the McAllen Convention Center, running Nov 28 through Dec 28, 2026, with illuminated light trails, America's tallest digital Christmas tree, ice skating, rides, Santa visits, and a holiday food court with local vendors. Open evenings (5:30 PM start; later close Fri-Sat).",
       "start": "2026-11-28T17:30:00-06:00",
@@ -13407,6 +13641,32 @@
         "games"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Weslaco Holiday Market",
+      "description": "Vendor and food-truck holiday market following the city's tree-lighting ceremony. Booth fee $35, food-truck fee $55; contact chamber@weslaco.com / 956-968-2102.",
+      "start": "2026-12-01T18:30:00-06:00",
+      "end": "2026-12-01T21:30:00-06:00",
+      "venue": "Weslaco City Hall parking lot",
+      "city": "Weslaco",
+      "address": "500 S. Kansas Ave, Weslaco, TX",
+      "category": "farmers-market",
+      "url": "https://valleybusinessreport.com/community/community-events/chamber-seeks-vendors-for-weslaco-holiday-market/",
+      "image": "",
+      "source": "Weslaco Area Chamber of Commerce",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "id": "weslaco-holiday-market-2026-12-01",
+      "tags": [
+        "farmers-market",
+        "weslaco"
+      ],
+      "organization": "Weslaco Area Chamber of Commerce",
       "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
