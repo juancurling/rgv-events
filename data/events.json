@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -1890,32 +1890,6 @@
         "market"
       ],
       "booth": true
-    },
-    {
-      "title": "Isla Grand Comedy Night",
-      "description": "Raymond Orta comedy night; date corrected from a stale Sept 17 listing to the confirmed Oct 8 date.",
-      "start": "2026-10-08T19:00:00-05:00",
-      "end": "2026-10-08T21:00:00-05:00",
-      "venue": "Isla Grand Beach Resort",
-      "city": "South Padre Island",
-      "address": "500 Padre Boulevard, South Padre Island, TX 78597",
-      "category": "shows",
-      "price": "",
-      "url": "https://www.eventbrite.com/e/isla-grand-comedy-night-tickets-1996216197383",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185427878%2F637825753063%2F1%2Foriginal.20260526-123710?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506&fp-y=0.985&s=d8af1b3461df1ecc6cb16372755b471e",
-      "source": "Eventbrite",
-      "sponsorship": false,
-      "verified": true,
-      "organization": "Eventbrite",
-      "county": "Cameron",
-      "confidence": "medium",
-      "recurring": false,
-      "id": "isla-grand-comedy-night-2026-09-17",
-      "tags": [
-        "south-padre-island",
-        "other"
-      ],
-      "booth": false
     },
     {
       "title": "Be Your Own Boss Workshop",
@@ -5230,32 +5204,6 @@
       "booth": false
     },
     {
-      "title": "Nightmare on Cage Blvd. 5K",
-      "description": "City of Pharr's Halloween-themed evening 5K with costumes, ghouls, and zombies along the course, plus finisher medals and age-group awards; listed for Saturday, October 3, 2026. Evening start (2025 edition started 7:00 PM) — confirm 2026 start time with Pharr Parks & Recreation (956-402-4550).",
-      "start": "2026-10-03T19:00:00-05:00",
-      "end": "",
-      "venue": "Cage Boulevard corridor",
-      "city": "Pharr",
-      "address": "Cage Blvd, Pharr, TX",
-      "category": "run",
-      "price": "$20 adults / $10 kids (2025 pricing)",
-      "url": "https://runsignup.com/Race/TX/Pharr/NightmareOnCageBlvd5K",
-      "source": "RunSignup / City of Pharr events page / RunningInTheUSA",
-      "sponsorship": true,
-      "booth": true,
-      "verified": false,
-      "image": "",
-      "id": "nightmare-on-cage-blvd-5k-2026-10-03",
-      "tags": [
-        "pharr",
-        "run"
-      ],
-      "organization": "RunSignup / City of Pharr events page / RunningInTheUSA",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false
-    },
-    {
       "title": "Exhorder @ Cine El Rey",
       "description": "Exhoader comes to RGV for the first time to Mcallen's Cine El Rey Saturday Oct 3rd! ticket info will be provided on Monday on this same event page or shared by others.",
       "start": "2026-10-03T19:00:00-05:00",
@@ -5436,6 +5384,32 @@
         "nonprofit"
       ],
       "booth": false
+    },
+    {
+      "title": "Tres Lagos Night & Farmers Markets",
+      "description": "Night market and farmers market.",
+      "start": "2026-10-04T18:00:00-05:00",
+      "venue": "Tres Lagos Park",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "tres-lagos-night-farmers-markets-2026-10-04",
+      "tags": [
+        "farmers-market",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Jo Koy – Koy Meets World Tour",
@@ -5619,6 +5593,32 @@
         "expo"
       ],
       "booth": false
+    },
+    {
+      "title": "National Night Out at RGV Livestock Show & Rodeo",
+      "description": "Family community night with law enforcement.",
+      "start": "2026-10-06T18:00:00-05:00",
+      "venue": "RGV Livestock Show & Rodeo grounds",
+      "city": "Mercedes",
+      "address": "Mercedes, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "national-night-out-at-rgv-livestock-show-rodeo-2026-10-06",
+      "tags": [
+        "city",
+        "mercedes"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "UTRGV Bands: The Pines of Rome",
@@ -5883,6 +5883,58 @@
       "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
+    },
+    {
+      "title": "Planta Nativa VIP Night",
+      "description": "Native Plant Month keynote night; keynote by Cyrus Harp at 7:30 PM.",
+      "start": "2026-10-08T18:30:00-05:00",
+      "end": "2026-10-08T21:30:00-05:00",
+      "venue": "Quinta Mazatlan",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "other",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "planta-nativa-vip-night-2026-10-08",
+      "tags": [
+        "mcallen",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Isla Grand Comedy Night",
+      "description": "Raymond Orta comedy night; date corrected from a stale Sept 17 listing to the confirmed Oct 8 date.",
+      "start": "2026-10-08T19:00:00-05:00",
+      "end": "2026-10-08T21:00:00-05:00",
+      "venue": "Isla Grand Beach Resort",
+      "city": "South Padre Island",
+      "address": "500 Padre Boulevard, South Padre Island, TX 78597",
+      "category": "shows",
+      "price": "",
+      "url": "https://www.eventbrite.com/e/isla-grand-comedy-night-tickets-1996216197383",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185427878%2F637825753063%2F1%2Foriginal.20260526-123710?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506&fp-y=0.985&s=d8af1b3461df1ecc6cb16372755b471e",
+      "source": "Eventbrite",
+      "sponsorship": false,
+      "verified": true,
+      "organization": "Eventbrite",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "isla-grand-comedy-night-2026-09-17",
+      "tags": [
+        "south-padre-island",
+        "other"
+      ],
+      "booth": false
     },
     {
       "title": "UTRGV Bands: The Pines of Rome (Edinburg)",
@@ -6333,32 +6385,6 @@
       "recurring": false
     },
     {
-      "title": "UTRGV Football vs Southeastern Louisiana - Breast Cancer Awareness Night",
-      "description": "UTRGV hosts Southeastern Louisiana at Robert & Janet Vackar Stadium for Breast Cancer Awareness Night, presented by H-E-B. Part of the Vaqueros' five-game 2026 home slate in Edinburg.",
-      "start": "2026-10-10T19:00:00-05:00",
-      "end": "",
-      "venue": "Robert & Janet Vackar Stadium",
-      "city": "Edinburg",
-      "address": "",
-      "category": "games",
-      "price": "Ticketed",
-      "url": "https://rgvsports.com/utrgv-football-sells-out-season-tickets-announces-themes-for-five-home-games-in-2026/",
-      "source": "RGVSports.com / Valley Central",
-      "sponsorship": true,
-      "booth": false,
-      "verified": true,
-      "image": "",
-      "id": "utrgv-football-vs-southeastern-louisiana-breast-cancer-awareness-night-2026-10-10",
-      "tags": [
-        "edinburg",
-        "other"
-      ],
-      "organization": "RGVSports.com / Valley Central",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false
-    },
-    {
       "title": "Lighthouse Market Day",
       "description": "Port Isabel's market day held the second Saturday of October (Oct 10, 2026) around the Point Isabel Lighthouse, with food, arts and crafts vendors, and discounted museum admission.",
       "start": "2026-10-10T09:00:00-05:00",
@@ -6512,6 +6538,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Rio Bravo Art Market",
+      "description": "Art market presented by the South Texas Environmental Justice Network.",
+      "start": "2026-10-10T11:00:00-05:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rio-bravo-art-market-2026-10-10",
+      "tags": [
+        "brownsville",
+        "farmers-market"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -6751,6 +6803,32 @@
         "run"
       ],
       "booth": false
+    },
+    {
+      "title": "UTRGV Football vs Southeastern Louisiana - Breast Cancer Awareness Night",
+      "description": "UTRGV hosts Southeastern Louisiana at Robert & Janet Vackar Stadium for Breast Cancer Awareness Night, presented by H-E-B. Part of the Vaqueros' five-game 2026 home slate in Edinburg.",
+      "start": "2026-10-10T19:00:00-05:00",
+      "end": "",
+      "venue": "Robert & Janet Vackar Stadium",
+      "city": "Edinburg",
+      "address": "",
+      "category": "games",
+      "price": "Ticketed",
+      "url": "https://rgvsports.com/utrgv-football-sells-out-season-tickets-announces-themes-for-five-home-games-in-2026/",
+      "source": "RGVSports.com / Valley Central",
+      "sponsorship": true,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "utrgv-football-vs-southeastern-louisiana-breast-cancer-awareness-night-2026-10-10",
+      "tags": [
+        "edinburg",
+        "other"
+      ],
+      "organization": "RGVSports.com / Valley Central",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Zereno Live in Concert at Mustang Lounge",
@@ -7797,6 +7875,32 @@
       "tags": [
         "edinburg",
         "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Halloween Pop Up Market at Selfies & More",
+      "description": "Trick-or-treat pop-up vendor market.",
+      "start": "2026-10-17T14:00:00-05:00",
+      "end": "2026-10-17T18:00:00-05:00",
+      "venue": "Selfies & More Mini Market",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "farmers-market",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "halloween-pop-up-market-at-selfies-more-2026-10-17",
+      "tags": [
+        "farmers-market",
+        "mcallen"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
@@ -9318,7 +9422,7 @@
     },
     {
       "title": "Pharr-O-Ween: Nightmare on Cage 5K",
-      "description": "Halloween-themed 5K run through downtown Pharr.",
+      "description": "Halloween-themed 5K run through downtown Pharr with zombies and ghouls along the course, costumes encouraged, finisher medals and age-group awards; 1,500 registration spots via RunSignup.",
       "start": "2026-10-24T19:00:00-05:00",
       "end": "2026-10-24T22:00:00-05:00",
       "venue": "Downtown Pharr",
@@ -9341,34 +9445,9 @@
         "run"
       ],
       "alsoSeenOn": [
-        "https://pharr-tx.gov/events/"
+        "https://pharr-tx.gov/events/",
+        "https://runsignup.com/Race/TX/Pharr/NightmareOnCageBlvd5K"
       ],
-      "booth": false
-    },
-    {
-      "title": "Nightmare on Cage Blvd. 5K",
-      "description": "Halloween-themed evening 5K by City of Pharr Parks and Recreation with zombies and ghouls along the course; costumes encouraged, finisher medals and age group awards. Registration opens July 20, 2026 (1,500 spots).",
-      "start": "2026-10-24T19:30:00-05:00",
-      "end": "2026-10-24T22:00:00-05:00",
-      "venue": "Cage Blvd course start",
-      "city": "Pharr",
-      "address": "118 S. Cage Blvd, Pharr, TX 78577",
-      "category": "run",
-      "price": "$10 kids, $20 adults",
-      "url": "https://runsignup.com/Race/TX/Pharr/NightmareOnCageBlvd5K",
-      "image": "",
-      "source": "RunSignup",
-      "sponsorship": false,
-      "verified": true,
-      "id": "nightmare-on-cage-blvd-5k-2026-10-24",
-      "tags": [
-        "pharr",
-        "run"
-      ],
-      "organization": "RunSignup",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false,
       "booth": false
     },
     {
@@ -10212,6 +10291,32 @@
         "market"
       ],
       "booth": true
+    },
+    {
+      "title": "Trick or Treat Trail",
+      "description": "Free annual trick-or-treat trail through the library.",
+      "start": "2026-10-31T16:00:00-05:00",
+      "end": "2026-10-31T18:30:00-05:00",
+      "venue": "McAllen Main Library",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "trick-or-treat-trail-2026-10-31",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "UTRGV Vaqueros Volleyball vs Texas A&M-Corpus Christi (South Texas Showdown)",
@@ -11332,6 +11437,32 @@
       "recurring": false
     },
     {
+      "title": "UTRGV Men's Basketball vs Prairie View A&M",
+      "description": "UTRGV Vaqueros men's basketball home game.",
+      "start": "2026-11-07T16:30:00-06:00",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-men-s-basketball-vs-prairie-view-a-m-2026-11-07",
+      "tags": [
+        "edinburg",
+        "games"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "La Mafia Live at Mustang Yard",
       "description": "Tejano legends La Mafia perform live at Mustang Yard in Weslaco on Saturday, November 7, 2026 starting at 5:00 PM.",
       "start": "2026-11-07T17:00:00-06:00",
@@ -11460,32 +11591,6 @@
         "other"
       ],
       "booth": false
-    },
-    {
-      "title": "UTRGV Men's Basketball vs Prairie View A&M",
-      "description": "UTRGV Vaqueros men's basketball home game.",
-      "start": "2026-11-07T16:30:00-06:00",
-      "venue": "UTRGV Fieldhouse",
-      "city": "Edinburg",
-      "address": "Edinburg, TX",
-      "category": "games",
-      "url": "",
-      "source": "Nyx (muse.ai Facebook-events agent)",
-      "sponsorship": false,
-      "booth": false,
-      "verified": true,
-      "end": "",
-      "price": "",
-      "image": "",
-      "id": "utrgv-men-s-basketball-vs-prairie-view-a-m-2026-11-07",
-      "tags": [
-        "edinburg",
-        "games"
-      ],
-      "organization": "Nyx (muse.ai Facebook-events agent)",
-      "county": "Hidalgo",
-      "confidence": "medium",
-      "recurring": false
     },
     {
       "title": "SayMyName (18+ event)",
@@ -13697,6 +13802,32 @@
       "recurring": false
     },
     {
+      "title": "Card Expo",
+      "description": "Trading card expo.",
+      "start": "2026-12-05T12:00:00-06:00",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "Hidalgo, TX",
+      "category": "business",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "card-expo-2026-12-05",
+      "tags": [
+        "business",
+        "hidalgo"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "McAllen Holiday Parade 2026",
       "description": "The largest illuminated Christmas and helium-balloon parade in Texas, presented by H-E-B, on Saturday, December 5, 2026 with the theme 'Wild Christmas.' The 1.5-mile route runs through McAllen Veterans Memorial Stadium and south on Bicentennial Blvd; stadium tickets via Ticketmaster and $8 VIP chair seats along the route.",
       "start": "2026-12-05T18:00:00-06:00",
@@ -13775,6 +13906,32 @@
       "recurring": false
     },
     {
+      "title": "32nd Annual CineSol Film Festival",
+      "description": "Film festival with festival passes; screenings include Shorts Block #3 on Dec 6.",
+      "start": "2026-12-05T18:00:00-06:00",
+      "end": "2026-12-06T22:00:00-06:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "711 Ringgold Rd, Brownsville, TX",
+      "category": "shows",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "32nd-annual-cinesol-film-festival-2026-12-05",
+      "tags": [
+        "brownsville",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "74th Annual Brownsville Christmas Parade",
       "description": "Brownsville's 74th annual Christmas parade, organized by Charro Days Fiesta, brings lighted floats and holiday spirit to downtown Brownsville on Saturday, Dec 5, 2026 at 7:00 PM.",
       "start": "2026-12-05T19:00:00-06:00",
@@ -13822,6 +13979,32 @@
         "south-padre-island"
       ],
       "organization": "christmasparade.myspi.org 2026 Christmas schedule (Sunday, December 6, 2026, 9:00-11:00 AM)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Music for All Concert",
+      "description": "Community concert at the Historic Alonso Building.",
+      "start": "2026-12-06T13:00:00-06:00",
+      "venue": "Historic Alonso Building",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "music-for-all-concert-2026-12-06",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
       "confidence": "high",
       "recurring": false
@@ -14113,6 +14296,32 @@
       "booth": false
     },
     {
+      "title": "Elefante — Tour 30 Aniversario",
+      "description": "Elefante performs their 30th-anniversary tour.",
+      "start": "2026-12-12T17:30:00-06:00",
+      "venue": "The Broken Sprocket",
+      "city": "Brownsville",
+      "address": "6305 Paredes Line Rd, Brownsville, TX",
+      "category": "concerts",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "elefante-tour-30-aniversario-2026-12-12",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Clarion",
       "description": "The Blue Fairy Tour hits McAllen TX this December.",
       "start": "2026-12-12T19:00:00-06:00",
@@ -14165,6 +14374,32 @@
       "recurring": false
     },
     {
+      "title": "La Madre Patria",
+      "description": "Community cultural event on Market Square Street.",
+      "start": "2026-12-12T19:00:00-06:00",
+      "venue": "Market Square Street",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "la-madre-patria-2026-12-12",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Brownsville Chief of Police Marathon",
       "description": "Full marathon, half marathon and relay in Brownsville. Time TBD.",
       "start": "2026-12-13T00:00:00-06:00",
@@ -14189,6 +14424,32 @@
       "confidence": "medium",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Ugly Sweater Pub Crawl",
+      "description": "Holiday-themed pub crawl.",
+      "start": "2026-12-13T16:30:00-06:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "1225 E Adams St, Brownsville, TX",
+      "category": "city",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "ugly-sweater-pub-crawl-2026-12-13",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Weslaco Chamber Santa Dash",
@@ -14293,6 +14554,32 @@
         "city"
       ],
       "booth": false
+    },
+    {
+      "title": "Wreaths Across America – Brownsville",
+      "description": "Annual wreath-laying ceremony honoring veterans.",
+      "start": "2026-12-19T10:00:00-06:00",
+      "venue": "Old City Cemetery",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "nonprofit",
+      "url": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "wreaths-across-america-brownsville-2026-12-19",
+      "tags": [
+        "brownsville",
+        "nonprofit"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "venue": "McAllen Performing Arts Center",
