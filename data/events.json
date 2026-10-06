@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -6015,6 +6015,32 @@
       "recurring": false
     },
     {
+      "title": "Juan Pablo Andrade, piano",
+      "description": "Free piano concert.",
+      "start": "2026-10-08T19:00:00-05:00",
+      "venue": "",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "concerts",
+      "price": "Free",
+      "url": "https://www.showpass.com/s/events/Edinburg,TX,USA/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "juan-pablo-andrade-piano-2026-10-08",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Enfrascada (theatre)",
       "description": "UTRGV theatre production of Enfrascada, Thu Oct 8 & Fri Oct 9.",
       "start": "2026-10-08T19:30:00-05:00",
@@ -6567,6 +6593,32 @@
       "recurring": false
     },
     {
+      "title": "Texas A&M McAllen Aggieland Saturday",
+      "description": "Open house: explore degree programs, tour campus, meet faculty, learn about financial aid.",
+      "start": "2026-10-10T09:00:00-05:00",
+      "end": "2026-10-10T13:00:00-05:00",
+      "venue": "Texas A&M University Higher Education Center at McAllen",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "school",
+      "url": "https://texasborderbusiness.com/texas-am-mcallen-hosts-aggieland-saturday-oct-10th/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "texas-a-m-mcallen-aggieland-saturday-2026-10-10",
+      "tags": [
+        "mcallen",
+        "school"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Dia de los Muertos Festival & Market at the Museum",
       "description": "IMAS hosts its annual Dia de los Muertos festival with community altars, market vendors, art activities, Loteria, sugar skull decorating (additional $5), live performances and themed exhibits. 2026 theme: \"Awe-Inspiring Advocates.\" Included with general admission; free for IMAS members. H-E-B is listed as a supporting sponsor.",
       "start": "2026-10-10T10:00:00-05:00",
@@ -6753,32 +6805,6 @@
       "recurring": false
     },
     {
-      "title": "Tatiana - Los Chicharrines Tativerso",
-      "description": "Children's entertainer Tatiana performs her Tativerso family show at Payne Arena. Tickets via Ticketmaster.",
-      "start": "2026-10-10T16:00:00-05:00",
-      "end": null,
-      "venue": "Payne Arena",
-      "city": "Hidalgo",
-      "address": "2600 N 10th St, Hidalgo, TX 78557",
-      "category": "concerts",
-      "price": "",
-      "url": "https://paynearena.com/",
-      "image": "",
-      "source": "Payne Arena",
-      "sponsorship": false,
-      "verified": true,
-      "id": "tatiana-los-chicharrines-tativerso-2026-10-10",
-      "tags": [
-        "hidalgo",
-        "other"
-      ],
-      "organization": "Payne Arena",
-      "county": "Hidalgo",
-      "confidence": "high",
-      "recurring": false,
-      "booth": false
-    },
-    {
       "title": "3rd Annual Birds & Butterfly Garden Party",
       "description": "SAVE the DATE The South Padre Island Birding, Nature Center & Alligator Sanctuary is excited to announce the return of its annual Birds & Butterflies Garden Party on Saturday, October 10th, 2026, from 6PM to 9PM. Join us and experience our beautiful gardens in the fall, where migrating birds and mo",
       "start": "2026-10-10T18:00:00-05:00",
@@ -6906,6 +6932,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "South Padre Island Jazz, Art, & Wine Sessions",
+      "description": "Jazz, art, and wine evening.",
+      "start": "2026-10-10T18:00:00-05:00",
+      "venue": "South Padre Island Art Space",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "other",
+      "url": "https://allevents.in/south-padre-island/all",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "south-padre-island-jazz-art-wine-sessions-2026-10-10",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -8064,6 +8116,32 @@
       "recurring": false
     },
     {
+      "title": "Vive Tu Vida! Get Up, Get Moving!",
+      "description": "Community wellness event.",
+      "start": "2026-10-17T09:00:00-05:00",
+      "venue": "Gladys Porter Zoo",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "nonprofit",
+      "url": "https://allevents.in/brownsville/january",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "vive-tu-vida-get-up-get-moving-2026-10-17",
+      "tags": [
+        "brownsville",
+        "nonprofit"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "2026 Gallery of Homes",
       "description": "The RGV's largest new home showcase, featuring homes from leading builders across the region, open to the public. Homes are spread valley-wide rather than at a single venue - see stba.org for the home list. Builder participation is the sponsorship/exhibit vehicle for this event.",
       "start": "2026-10-17T10:00:00-05:00",
@@ -8741,6 +8819,32 @@
       "booth": false
     },
     {
+      "title": "Leyendas 2026 (dance)",
+      "description": "Dance performance.",
+      "start": "2026-10-21T19:30:00-05:00",
+      "venue": "",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "shows",
+      "price": "$5-$15",
+      "url": "https://www.showpass.com/s/events/Edinburg,TX,USA/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "leyendas-2026-dance-2026-10-21",
+      "tags": [
+        "edinburg",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Dante Gebel - World Tour Despedida 2026",
       "description": "Speaker and pastor Dante Gebel brings his farewell world tour to the McAllen Performing Arts Center on October 21, 2026 at 8:00 PM.",
       "start": "2026-10-21T20:00:00-05:00",
@@ -8972,6 +9076,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Sex Mex",
+      "description": "Concert.",
+      "start": "2026-10-22T20:00:00-05:00",
+      "venue": "The Gremlin",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "https://concerts.hypebot.com/artist/s/15529234-sex-mex",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "sex-mex-2026-10-22",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -9733,6 +9863,32 @@
       "recurring": false
     },
     {
+      "title": "Access to Hope Gala: Access en Carnaval",
+      "description": "Gala benefiting Access Esperanza Clinics (breast and cervical cancer screenings); cocktails 6 PM, dinner 7:30 PM, live auction 8:30 PM, dancing 9 PM.",
+      "start": "2026-10-24T18:00:00-05:00",
+      "venue": "McAllen Convention Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "gala",
+      "url": "https://allevents.in/mcallen/access-to-hope-gala-access-en-carnaval/200030539389509",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": true,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "access-to-hope-gala-access-en-carnaval-2026-10-24",
+      "tags": [
+        "gala",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Trunk-or-Treat (Pharr)",
       "description": "Free community trunk-or-treat at La Iglesia de Jesucristo de los Santos de los Ultimos Dias in Pharr on Saturday, October 24, 2026, 6:30-8:30 p.m.",
       "start": "2026-10-24T18:30:00-05:00",
@@ -9945,6 +10101,32 @@
       "booth": false
     },
     {
+      "title": "2nd Annual McAllen Coffee Fest",
+      "description": "Coffee festival.",
+      "start": "2026-10-25T09:00:00-05:00",
+      "venue": "Mission Event Center",
+      "city": "Mission",
+      "address": "2425 Ruby Red Blvd., Mission, TX",
+      "category": "other",
+      "url": "https://allevents.in/mission-tx/exhibitions?ref=cityhome-category-box",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "2nd-annual-mcallen-coffee-fest-2026-10-25",
+      "tags": [
+        "mission",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Pink Sunday Brunch",
       "description": "Brunch with purpose! Enjoy a 3-course brunch, wear pink & support cancer patients and awareness through our special community benefit.",
       "start": "2026-10-25T10:00:00-05:00",
@@ -9998,6 +10180,32 @@
         "AllEvents"
       ],
       "booth": false
+    },
+    {
+      "title": "The Enchanted Pumpkin Patch at Lincoln Park 2026",
+      "description": "Family pumpkin patch event.",
+      "start": "2026-10-25T16:00:00-05:00",
+      "venue": "Lincoln Park",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "url": "https://allevents.in/brownsville/january",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "the-enchanted-pumpkin-patch-at-lincoln-park-2026-2026-10-25",
+      "tags": [
+        "brownsville",
+        "city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Gary Owen: No Hard Feelings Tour",
@@ -10527,6 +10735,32 @@
       "recurring": false
     },
     {
+      "title": "El Cucuy 5K/1M",
+      "description": "5K/1 mile run.",
+      "start": "2026-10-30T18:30:00-05:00",
+      "venue": "Texas Branding Iron Burgers Bikes & Beer",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "run",
+      "url": "https://happeningnext.com/event/world-diabetes-day-5k-1m-ride-the-blue-wave-eid3a0e0omvp3",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "el-cucuy-5k-1m-2026-10-30",
+      "tags": [
+        "brownsville",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Harlingen Art Night (October)",
       "description": "Recurring last-Friday art night in downtown Harlingen.",
       "start": "2026-10-30T19:00:00-05:00",
@@ -10709,6 +10943,32 @@
       "booth": true
     },
     {
+      "title": "Trunk or Treat Boo Bash",
+      "description": "Free Halloween trunk-or-treat event.",
+      "start": "2026-10-31T12:00:00-05:00",
+      "venue": "Rodeo Dental & Orthodontics",
+      "city": "Harlingen",
+      "address": "Harlingen, TX",
+      "category": "city",
+      "price": "Free",
+      "url": "https://www.eventbrite.co.uk/d/tx--harlingen/harlingen-market/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "image": "",
+      "id": "trunk-or-treat-boo-bash-2026-10-31",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "RC Racing & Alliance Performance Car Club's Trunk or Treat Vendor",
       "description": "This will be a car meet mixed with a safe way for kids to Trick or Treat",
       "start": "2026-10-31T16:00:00-05:00",
@@ -10758,6 +11018,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Trails of Treats (Downtown Harlingen)",
+      "description": "Halloween trail event in downtown Harlingen.",
+      "start": "2026-10-31T18:00:00-05:00",
+      "end": "2026-10-31T21:00:00-05:00",
+      "venue": "Downtown Harlingen",
+      "city": "Harlingen",
+      "address": "W. Jackson St., Harlingen, TX",
+      "category": "city",
+      "url": "https://visitharlingentexas.com/events/photo/2024-08-11/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "price": "",
+      "image": "",
+      "id": "trails-of-treats-downtown-harlingen-2026-10-31",
+      "tags": [
+        "city",
+        "harlingen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -11463,8 +11749,8 @@
       "recurring": false
     },
     {
-      "title": "Eli Young Band",
-      "description": "Eli Young Band performs at Las Palmas Race Park.",
+      "title": "21st Annual Heroes & Outlaws Benefit Concert (Friends for Hope) — Eli Young Band",
+      "description": "Headliner Eli Young Band. Benefits the Vannie E. Cook Jr. Children's Cancer and Hematology Clinic.",
       "start": "2026-11-06T20:00:00-06:00",
       "venue": "Las Palmas Race Park",
       "city": "Mission",
@@ -11720,6 +12006,32 @@
       "organization": "RunSignup / AllEvents listing",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Purple Stride 5k",
+      "description": "5K run benefiting pancreatic cancer research.",
+      "start": "2026-11-07T08:00:00-06:00",
+      "venue": "",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "run",
+      "url": "https://www.findtherun.com/races/south-padre-island-tx/within-100-miles",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "purple-stride-5k-2026-11-07",
+      "tags": [
+        "mcallen",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -12111,6 +12423,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "Beethoven in Motion | Table for Two Piano Duo",
+      "description": "Piano duo concert: Beethoven and his circle, then dances from Colombia, Puerto Rico, and beyond.",
+      "start": "2026-11-07T19:00:00-06:00",
+      "venue": "Brownsville Piano Studio",
+      "city": "Brownsville",
+      "address": "5005 Paredes Line Rd Ste C, Brownsville, TX",
+      "category": "concerts",
+      "url": "https://www.brownsvillepianostudio.com/events/juan-pablo-andrade-piano-2",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "beethoven-in-motion-table-for-two-piano-duo-2026-11-07",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "SayMyName (18+ event)",
@@ -12655,6 +12993,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "TMF South Padre Island Half Marathon Weekend",
+      "description": "Half marathon weekend; half marathon race Sunday, November 15, 7:00 AM.",
+      "start": "2026-11-13T00:00:00-06:00",
+      "end": "2026-11-15T12:00:00-06:00",
+      "venue": "Isla Blanca Park",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "run",
+      "url": "https://allevents.in/south-padre-island/2026-spi-half-marathon/200030310288840",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "tmf-south-padre-island-half-marathon-weekend-2026-11-13",
+      "tags": [
+        "run",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
       "confidence": "high",
       "recurring": false
     },
@@ -14374,6 +14738,32 @@
       "recurring": false
     },
     {
+      "title": "STC Mariachi Ensemble Concert",
+      "description": "Mariachi ensemble concert.",
+      "start": "2026-12-03T19:00:00-06:00",
+      "venue": "South Texas College Cooper Center for the Performing Arts Theater",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "https://allevents.in/mcallen/concerts?ref=cityhome-category-box",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "stc-mariachi-ensemble-concert-2026-12-03",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Noche de Adoración con Daniel Calveti, Julissa & Travy Joe",
       "description": "Una noche inolvidable de música, fe y adoración junto a Daniel Calveti, Julissa y Travy Joe. Disfruta de 2 horas de concierto en vivo.",
       "start": "2026-12-03T19:30:00-06:00",
@@ -15438,6 +15828,32 @@
         "city"
       ],
       "booth": false
+    },
+    {
+      "title": "Rudolph Run",
+      "description": "Holiday-themed run.",
+      "start": "2026-12-18T18:30:00-06:00",
+      "venue": "Texas Branding Iron Burgers Bikes & Beer",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "run",
+      "url": "https://happeningnext.com/event/world-diabetes-day-5k-1m-ride-the-blue-wave-eid3a0e0omvp3",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "rudolph-run-2026-12-18",
+      "tags": [
+        "brownsville",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
     },
     {
       "title": "Wreaths Across America – Brownsville",
