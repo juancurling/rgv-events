@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -7302,6 +7302,58 @@
       "recurring": false
     },
     {
+      "title": "Pink Pumpkin Contest",
+      "description": "Drop off carved pumpkins Oct 12-16; judges vote Oct 19 for funniest, most creative, and best overall (winner gets a $25 gift card).",
+      "start": "2026-10-12T00:00:00-05:00",
+      "end": "2026-10-19T23:59:00-05:00",
+      "venue": "Old RGC Fire Station",
+      "city": "Rio Grande City",
+      "address": "Rio Grande City, TX",
+      "category": "city",
+      "url": "https://couriertexas.com/local/things-to-do/things-to-do-in-the-rio-grande-valley/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "pink-pumpkin-contest-2026-10-12",
+      "tags": [
+        "city",
+        "rio-grande-city"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Starr",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV High School Choir Invitational",
+      "description": "High school choir invitational.",
+      "start": "2026-10-13T19:00:00-05:00",
+      "venue": "",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "school",
+      "price": "$8-$10",
+      "url": "https://www.showpass.com/s/events/Edinburg,TX,USA/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "utrgv-high-school-choir-invitational-2026-10-13",
+      "tags": [
+        "edinburg",
+        "school"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Bilingualism in Higher Ed Summit",
       "description": "Summit on bilingualism in higher education at the UTRGV Edinburg campus. Start time is not listed on the calendar entry, so 00:00 is a placeholder.",
       "start": "2026-10-14T00:00:00-05:00",
@@ -10208,6 +10260,32 @@
       "recurring": false
     },
     {
+      "title": "Weslaco Art Walk",
+      "description": "Festive evening of art, music, and community spirit with the WISD Mariachi band; light refreshments provided.",
+      "start": "2026-10-25T18:00:00-05:00",
+      "venue": "Weslaco Museum gallery",
+      "city": "Weslaco",
+      "address": "Weslaco, TX",
+      "category": "city",
+      "url": "https://valleybusinessreport.com/tag/weslaco/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "weslaco-art-walk-2026-10-25",
+      "tags": [
+        "city",
+        "weslaco"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Gary Owen: No Hard Feelings Tour",
       "description": "Comedian Gary Owen performs at the McAllen Performing Arts Center.",
       "start": "2026-10-25T19:00:00-05:00",
@@ -11515,6 +11593,32 @@
       "recurring": false
     },
     {
+      "title": "STC Theatre and Dance presents \"Proof\"",
+      "description": "South Texas College production of David Auburn's play; Nov 5 evening show includes ASL interpretation.",
+      "start": "2026-11-05T19:30:00-06:00",
+      "end": "2026-11-08T14:00:00-06:00",
+      "venue": "Cooper Center for the Performing Arts Main Stage Theater",
+      "city": "McAllen",
+      "address": "3200 W. Pecan Blvd., McAllen, TX",
+      "category": "shows",
+      "url": "https://texasborderbusiness.com/stc-theatre-and-dance-presents-proof-nov-5-7/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "stc-theatre-and-dance-presents-proof-2026-11-05",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Adelitas Way with Kingdom Collapse",
       "description": "Rock band Adelitas Way performs at Payne Arena in Hidalgo on November 5, 2026 at 8 p.m., with Kingdom Collapse.",
       "start": "2026-11-05T20:00:00-06:00",
@@ -11667,6 +11771,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Dance: Senior Project Concert (UTRGV)",
+      "description": "UTRGV dance senior project concert.",
+      "start": "2026-11-06T19:30:00-06:00",
+      "venue": "",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "shows",
+      "price": "$5-$15",
+      "url": "https://www.showpass.com/s/events/Edinburg,TX,USA/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "dance-senior-project-concert-utrgv-2026-11-06",
+      "tags": [
+        "edinburg",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
       "confidence": "medium",
       "recurring": false
     },
@@ -13072,6 +13202,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Powerful Voices Open Mic Show",
+      "description": "Live music, comedy, and poetry open mic night.",
+      "start": "2026-11-13T19:00:00-06:00",
+      "venue": "",
+      "city": "Weslaco",
+      "address": "Weslaco, TX",
+      "category": "shows",
+      "url": "https://www.eventbrite.com/d/tx--brownsville/events--next-month/?page=5",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "powerful-voices-open-mic-show-2026-11-13",
+      "tags": [
+        "shows",
+        "weslaco"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
       "recurring": false
     },
     {
