@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -8480,6 +8480,32 @@
       "recurring": false
     },
     {
+      "title": "Guatemalan Opera Workshop & Concert",
+      "description": "Maestro Ricardo Morales leads a master class for McAllen ISD music students plus a concert with regional student performers, part of the South Texas International Book Festival. Free tickets available.",
+      "start": "2026-10-17T18:00:00-05:00",
+      "venue": "",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "price": "Free",
+      "url": "https://texasborderbusiness.com/south-texas-book-festival-goes-international-for-2026/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "image": "",
+      "id": "guatemalan-opera-workshop-concert-2026-10-17",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "ClassiCulture Piano Recital: Sunlight and Shadow",
       "description": "Pianist Juan Pablo Andrade performs; presented by Brownsville Piano Studio.",
       "start": "2026-10-17T19:00:00-05:00",
@@ -14140,6 +14166,32 @@
       "recurring": false
     },
     {
+      "title": "Mac McAnally",
+      "description": "Concert at Cameron County Amphitheater and Event Center.",
+      "start": "2026-11-21T19:00:00-06:00",
+      "venue": "Cameron County Amphitheater and Event Center",
+      "city": "South Padre Island",
+      "address": "53550 Dolphin Cove, South Padre Island, TX",
+      "category": "concerts",
+      "url": "https://www.jambase.com/show/mac-mcanally-cameron-county-amphitheater-and-event-center-20261121",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "mac-mcanally-2026-11-21",
+      "tags": [
+        "concerts",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Ken Ludwig's Lend Me a Tenor (theatre)",
       "description": "UTRGV theatre production of Ken Ludwig's Lend Me a Tenor.",
       "start": "2026-11-21T19:30:00-06:00",
@@ -15336,6 +15388,32 @@
       "recurring": false
     },
     {
+      "title": "Port Isabel 18th Annual Christmas Tree Lighting & Hometown Christmas Holiday Parade",
+      "description": "Parade at 6:00 PM, tree lighting at 7:00 PM.",
+      "start": "2026-12-05T18:00:00-06:00",
+      "end": "2026-12-05T20:00:00-06:00",
+      "venue": "Beulah Lee Park",
+      "city": "Port Isabel",
+      "address": "Port Isabel, TX",
+      "category": "city",
+      "url": "https://portisabel-texas.com/blog/christmas-tree-lighting-parade/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "port-isabel-18th-annual-christmas-tree-lighting-hometown-christmas-holiday-parade-2026-12-05",
+      "tags": [
+        "city",
+        "port-isabel"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "74th Annual Brownsville Christmas Parade",
       "description": "Brownsville's 74th annual Christmas parade, organized by Charro Days Fiesta, brings lighted floats and holiday spirit to downtown Brownsville on Saturday, Dec 5, 2026 at 7:00 PM.",
       "start": "2026-12-05T19:00:00-06:00",
@@ -15698,6 +15776,32 @@
       "confidence": "medium",
       "recurring": false,
       "booth": false
+    },
+    {
+      "title": "Deborah Case Dance Academy: Winter Recital 2026",
+      "description": "Annual winter dance recital.",
+      "start": "2026-12-12T10:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "https://www.ticketmaster.com/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "deborah-case-dance-academy-winter-recital-2026-2026-12-12",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "El Ultimo Desmadre Beer Mile",
