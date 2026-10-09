@@ -7,8 +7,17 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Inspect /user/new (login) page
+      - name: Login and inspect settings page
         run: |
-          curl -sS -i https://events956.goatcounter.com/user/new -o /tmp/new.html
-          echo "=== headers + body ==="
-          cat /tmp/new.html
+          curl -sS -c /tmp/cookies.txt -i \
+            -X POST https://events956.goatcounter.com/user/requestlogin \
+            --data-urlencode "email=juan@yourfrontline.com" \
+            --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
+            -o /tmp/login.html
+          echo "=== login response ==="
+          cat /tmp/login.html
+          echo "=== cookies ==="
+          cat /tmp/cookies.txt
+          echo "=== settings/main page ==="
+          curl -sS -b /tmp/cookies.txt https://events956.goatcounter.com/settings/main -o /tmp/settings.html
+          grep -o '<form[^>]*action="[^"]*password[^"]*"[^>]*>\|<input[^>]*password[^>]*>\|<h1[^>]*>[^<]*</h1>\|<h2[^>]*>[^<]*</h2>' /tmp/settings.html
