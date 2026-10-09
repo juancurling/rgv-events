@@ -15,7 +15,7 @@ jobs:
             --data-urlencode "link_domain=events956.com" \
             --data-urlencode "user_email=juan@yourfrontline.com" \
             --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
-            --data-urlencode "turing_test=" \
+            --data-urlencode "turing_test=9" \
             --data-urlencode "timezone=America/Chicago" \
             -o /tmp/resp.html
           echo "=== response body ==="
