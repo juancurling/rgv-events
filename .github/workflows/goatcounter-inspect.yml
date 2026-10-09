@@ -1,26 +1,32 @@
 name: GoatCounter signup inspect (one-off)
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      new_password:
+        description: 'New GoatCounter account password (not stored, not logged)'
+        required: true
+        type: string
 
 jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Verify email
+      - name: Set new password via reset link
+        env:
+          NEWPASS: ${{ inputs.new_password }}
         run: |
-          curl -sS -i "https://events956.goatcounter.com/user/verify/re4vvdk5c88t18p12097b1irb10zhu8a4wmg3y?email=juan%40yourfrontline.com" -o /tmp/verify.html
-          echo "=== verify response ==="
-          cat /tmp/verify.html
-      - name: Inspect reset-password form
+          code=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
+            https://events956.goatcounter.com/user/reset/d4k6fv6tz4zv7u9qmqr55l0g \
+            --data-urlencode "password=$NEWPASS" \
+            --data-urlencode "password2=$NEWPASS")
+          echo "reset submit http_code=$code"
+      - name: Confirm new password logs in
+        env:
+          NEWPASS: ${{ inputs.new_password }}
         run: |
-          cat > /tmp/parse.py << 'PYEOF'
-          import urllib.request, re
-          req = urllib.request.Request("https://events956.goatcounter.com/user/reset/d4k6fv6tz4zv7u9qmqr55l0g", headers={"User-Agent": "curl/8"})
-          html = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "replace")
-          for m in re.finditer(r'<form\b[^>]*>', html, re.I):
-              print("FORM:", m.group(0))
-          for m in re.finditer(r'<input\b[^>]*>', html, re.I | re.S):
-              print("INPUT:", re.sub(r'\s+', ' ', m.group(0)))
-          PYEOF
-          python3 /tmp/parse.py
+          code=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
+            https://events956.goatcounter.com/user/requestlogin \
+            --data-urlencode "email=juan@yourfrontline.com" \
+            --data-urlencode "password=$NEWPASS")
+          echo "login http_code=$code (303 = success, redirects to /)"
