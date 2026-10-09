@@ -1,28 +1,13 @@
 name: GoatCounter signup inspect (one-off)
 
 on:
-  workflow_dispatch:
-    inputs:
-      new_password:
-        description: 'New GoatCounter account password (masked immediately, never templated into YAML)'
-        required: true
-        type: string
+  workflow_dispatch: {}
 
 jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Set new password (value read from event JSON, masked before any use)
+      - name: Request fresh password reset
         run: |
-          NEWPASS=$(jq -r '.inputs.new_password' "$GITHUB_EVENT_PATH")
-          echo "::add-mask::$NEWPASS"
-          code=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
-            https://events956.goatcounter.com/user/reset/d4k6fv6tz4zv7u9qmqr55l0g \
-            --data-urlencode "password=$NEWPASS" \
-            --data-urlencode "password2=$NEWPASS")
-          echo "reset submit http_code=$code"
-          code2=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
-            https://events956.goatcounter.com/user/requestlogin \
-            --data-urlencode "email=juan@yourfrontline.com" \
-            --data-urlencode "password=$NEWPASS")
-          echo "login http_code=$code2 (303 = success)"
+          curl -sS -i -X POST https://events956.goatcounter.com/user/request-reset \
+            --data-urlencode "email=juan@yourfrontline.com" -o /dev/null -w "http_code=%{http_code}\n"
