@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       new_password:
-        description: 'New GoatCounter account password (not stored, not logged)'
+        description: 'New GoatCounter account password (masked immediately, never templated into YAML)'
         required: true
         type: string
 
@@ -12,21 +12,17 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Set new password via reset link
-        env:
-          NEWPASS: ${{ inputs.new_password }}
+      - name: Set new password (value read from event JSON, masked before any use)
         run: |
+          NEWPASS=$(jq -r '.inputs.new_password' "$GITHUB_EVENT_PATH")
+          echo "::add-mask::$NEWPASS"
           code=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
             https://events956.goatcounter.com/user/reset/d4k6fv6tz4zv7u9qmqr55l0g \
             --data-urlencode "password=$NEWPASS" \
             --data-urlencode "password2=$NEWPASS")
           echo "reset submit http_code=$code"
-      - name: Confirm new password logs in
-        env:
-          NEWPASS: ${{ inputs.new_password }}
-        run: |
-          code=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
+          code2=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
             https://events956.goatcounter.com/user/requestlogin \
             --data-urlencode "email=juan@yourfrontline.com" \
             --data-urlencode "password=$NEWPASS")
-          echo "login http_code=$code (303 = success, redirects to /)"
+          echo "login http_code=$code2 (303 = success)"
