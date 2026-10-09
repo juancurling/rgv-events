@@ -1,13 +1,32 @@
 name: GoatCounter signup inspect (one-off)
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      new_password:
+        description: 'New GoatCounter account password (masked immediately, never templated into YAML)'
+        required: true
+        type: string
 
 jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Request fresh password reset
+      - name: Set new password and verify via Location header
         run: |
-          curl -sS -i -X POST https://events956.goatcounter.com/user/request-reset \
-            --data-urlencode "email=juan@yourfrontline.com" -o /dev/null -w "http_code=%{http_code}\n"
+          NEWPASS=$(jq -r '.inputs.new_password' "$GITHUB_EVENT_PATH")
+          echo "::add-mask::$NEWPASS"
+
+          echo "--- reset ---"
+          curl -sS -D /tmp/h1.txt -o /dev/null -X POST \
+            https://events956.goatcounter.com/user/reset/uol8x1qqabki1p384lp1tq3k7 \
+            --data-urlencode "password=$NEWPASS" \
+            --data-urlencode "password2=$NEWPASS"
+          grep -i '^HTTP\|^location' /tmp/h1.txt
+
+          echo "--- login ---"
+          curl -sS -D /tmp/h2.txt -o /dev/null -X POST \
+            https://events956.goatcounter.com/user/requestlogin \
+            --data-urlencode "email=juan@yourfrontline.com" \
+            --data-urlencode "password=$NEWPASS"
+          grep -i '^HTTP\|^location' /tmp/h2.txt
