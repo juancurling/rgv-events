@@ -1,0 +1,20 @@
+name: GoatCounter signup inspect (one-off)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch signup page and print form fields
+        run: |
+          curl -sS -c /tmp/cookies.txt https://www.goatcounter.com/signup -o /tmp/signup.html
+          echo "=== <form ... tags ==="
+          grep -o '<form[^>]*>' /tmp/signup.html || true
+          echo "=== <input ... tags ==="
+          grep -o '<input[^>]*>' /tmp/signup.html || true
+          echo "=== <textarea/select tags ==="
+          grep -o '<textarea[^>]*>\|<select[^>]*>' /tmp/signup.html || true
+          echo "=== cookies set ==="
+          cat /tmp/cookies.txt
