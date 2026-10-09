@@ -7,14 +7,16 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch signup page and print form fields
+      - name: Submit GoatCounter signup
         run: |
-          curl -sS -c /tmp/cookies.txt https://www.goatcounter.com/signup -o /tmp/signup.html
-          echo "=== <form ... tags ==="
-          grep -o '<form[^>]*>' /tmp/signup.html || true
-          echo "=== <input ... tags ==="
-          grep -o '<input[^>]*>' /tmp/signup.html || true
-          echo "=== <textarea/select tags ==="
-          grep -o '<textarea[^>]*>\|<select[^>]*>' /tmp/signup.html || true
-          echo "=== cookies set ==="
-          cat /tmp/cookies.txt
+          curl -sS -i -c /tmp/cookies.txt \
+            -X POST https://www.goatcounter.com/signup \
+            --data-urlencode "site_code=events956" \
+            --data-urlencode "link_domain=events956.com" \
+            --data-urlencode "user_email=juan@yourfrontline.com" \
+            --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
+            --data-urlencode "turing_test=" \
+            --data-urlencode "timezone=America/Chicago" \
+            -o /tmp/resp.html
+          echo "=== response body ==="
+          cat /tmp/resp.html
