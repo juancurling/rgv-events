@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "events": [
     {
       "title": "“Pharr: Packed with History” Exhibit",
@@ -6356,6 +6356,32 @@
       "booth": false
     },
     {
+      "title": "Women's Trail Blazers 5K",
+      "description": "Morning 5K race.",
+      "start": "2026-10-10T07:30:00-05:00",
+      "venue": "Pharr Baseball Complex",
+      "city": "Pharr",
+      "address": "Pharr, TX",
+      "category": "run",
+      "url": "https://funontherunrgv.com/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "women-s-trail-blazers-5k-2026-10-10",
+      "tags": [
+        "pharr",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Fright Nite 5K",
       "description": "Halloween-themed 5K through the trails of the McAllen Nature Center with spooky characters and haunting scenes along the route; costumes encouraged. Part of the McAllen Marathon Scott Crane Running Series, with the free-admission McAllen Halloween Festival after the race; registration closes Oct 8, 2026 or when the race reaches capacity.",
       "start": "2026-10-10T08:00:00-05:00",
@@ -6694,6 +6720,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Cameron",
       "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "SPI Birding & Nature Center: \"Fall Into Fun!\" Crafting on the Deck",
+      "description": "Weekly family crafting session on the deck, Saturdays through November 28.",
+      "start": "2026-10-10T12:45:00-05:00",
+      "end": "2026-10-10T13:25:00-05:00",
+      "venue": "SPI Birding, Nature Center & Alligator Sanctuary",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "other",
+      "url": "https://info.enjoyspi.com/event/fall-into-fun-crafting-on-the-deck/2026-09-19/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "spi-birding-nature-center-fall-into-fun-crafting-on-the-deck-2026-10-10",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
       "recurring": false
     },
     {
@@ -7120,6 +7172,32 @@
       "recurring": false
     },
     {
+      "title": "Strong in Pink 5K",
+      "description": "Breast cancer awareness 5K.",
+      "start": "2026-10-11T07:30:00-05:00",
+      "venue": "Edinburg Municipal Park",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "run",
+      "url": "https://funontherunrgv.com/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "strong-in-pink-5k-2026-10-11",
+      "tags": [
+        "edinburg",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "Showdown at the Arroyo V",
       "description": "Multi-category race; register via BikeReg.",
       "start": "2026-10-11T08:00:00-05:00",
@@ -7325,6 +7403,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Starr",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Texas International Fishing Tournament / 45th Annual Ladies Kingfish Tournament",
+      "description": "Texas's largest saltwater fishing competition (bay, tarpon, and offshore divisions) plus the 45th annual all-women's Ladies Kingfish Tournament.",
+      "start": "2026-10-12T08:00:00-05:00",
+      "venue": "",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "other",
+      "url": "https://info.enjoyspi.com/events/?tribe_redirected=1",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "texas-international-fishing-tournament-45th-annual-ladies-kingfish-tournament-2026-10-12",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -7584,6 +7688,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Paint & Sip Evenings on the Back Deck",
+      "description": "Guided paint-and-sip sessions on the back deck.",
+      "start": "2026-10-15T17:00:00-05:00",
+      "end": "2026-10-15T19:00:00-05:00",
+      "venue": "SPI Birding & Nature Center",
+      "city": "South Padre Island",
+      "address": "South Padre Island, TX",
+      "category": "other",
+      "url": "http://spibirding.org/events-hub",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "paint-sip-evenings-on-the-back-deck-2026-10-15",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
       "confidence": "high",
       "recurring": false
     },
@@ -8767,6 +8897,32 @@
       "booth": true
     },
     {
+      "title": "PokeMarket: Gotta Haunt Them All",
+      "description": "GirlGangMarket's Pokemon-themed market: wear a costume, meet classic characters, and grab ghost-Pokemon-shaped cotton candy.",
+      "start": "2026-10-18T14:00:00-05:00",
+      "venue": "Brownsville Event Center",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "farmers-market",
+      "url": "https://couriertexas.com/local/things-to-do/things-to-do-in-the-rio-grande-valley/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "pokemarket-gotta-haunt-them-all-2026-10-18",
+      "tags": [
+        "brownsville",
+        "farmers-market"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "CCW: Till the Casket Drops IV",
       "description": "Pro wrestling event at the Historic Cine El Rey Theatre.",
       "start": "2026-10-18T18:00:00-05:00",
@@ -8816,6 +8972,32 @@
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "UTRGV Master Chorale & Chamber Singers (Brownsville)",
+      "description": "UTRGV choral concert in Brownsville.",
+      "start": "2026-10-20T19:00:00-05:00",
+      "venue": "St. Eugene de Mazenod Catholic Church",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "concerts",
+      "url": "https://www.showpass.com/music-master-chorale-brownsville/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "utrgv-master-chorale-chamber-singers-brownsville-2026-10-20",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
       "recurring": false
     },
     {
@@ -9313,6 +9495,32 @@
       "recurring": false
     },
     {
+      "title": "BOO in the Woods",
+      "description": "Two nights of Halloween fun at Quinta Mazatlan.",
+      "start": "2026-10-23T18:00:00-05:00",
+      "end": "2026-10-24T22:00:00-05:00",
+      "venue": "Quinta Mazatlan",
+      "city": "McAllen",
+      "address": "600 Sunset Dr., McAllen, TX",
+      "category": "city",
+      "url": "https://rgv.me/thread/5957/boo-in-the-woods-returns-to-quinta-mazatlan-for-two-nights-of-halloween-fun",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "boo-in-the-woods-2026-10-23",
+      "tags": [
+        "city",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Bert Kreischer: Permission to Party",
       "description": "Comedian Bert Kreischer performs at the McAllen Performing Arts Center.",
       "start": "2026-10-23T19:00:00-05:00",
@@ -9389,6 +9597,32 @@
         "other"
       ],
       "booth": false
+    },
+    {
+      "title": "DANIFLOW (El Rey de Morbo)",
+      "description": "Concert.",
+      "start": "2026-10-23T22:00:00-05:00",
+      "venue": "Presi",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "concerts",
+      "url": "https://allevents.in/mcallen/daniflow-el-rey-de-morbo-mcallen/4600030714185007",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "daniflow-el-rey-de-morbo-2026-10-23",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Spartan Fitness Breast Cancer 5K",
@@ -9725,6 +9959,32 @@
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "WCYF BBQ Cook-Off & Chuck Wagon Dinner",
+      "description": "Willacy County Young Farmers BBQ cook-off; Chuck Wagon Dinner Saturday 6:00-8:00 PM. Proceeds support Willacy County youth.",
+      "start": "2026-10-24T12:00:00-05:00",
+      "end": "2026-10-25T20:00:00-05:00",
+      "venue": "Willacy County Livestock Show Grounds",
+      "city": "Raymondville",
+      "address": "Raymondville, TX",
+      "category": "nonprofit",
+      "url": "https://willacycountyyoungfarmers.godaddysites.com/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "wcyf-bbq-cook-off-chuck-wagon-dinner-2026-10-24",
+      "tags": [
+        "nonprofit",
+        "raymondville"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Willacy",
       "confidence": "high",
       "recurring": false
     },
@@ -10286,6 +10546,32 @@
       "recurring": false
     },
     {
+      "title": "Will Wrestling: SPOOKY 2026",
+      "description": "Halloween-season pro wrestling night.",
+      "start": "2026-10-25T17:00:00-05:00",
+      "end": "2026-10-25T20:30:00-05:00",
+      "venue": "TOPBOXLiVE",
+      "city": "Pharr",
+      "address": "1044 W. Nolana Loop, Pharr, TX",
+      "category": "shows",
+      "url": "https://www.topboxtickets.com/past_events/will-wrestling-presents-spooky-2026-at-topboxlive-1044-w-nolana-loop-pharr-tx-october-25th-2026/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "price": "",
+      "image": "",
+      "id": "will-wrestling-spooky-2026-2026-10-25",
+      "tags": [
+        "pharr",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Weslaco Art Walk",
       "description": "Festive evening of art, music, and community spirit with the WISD Mariachi band; light refreshments provided.",
       "start": "2026-10-25T18:00:00-05:00",
@@ -10305,6 +10591,32 @@
       "tags": [
         "city",
         "weslaco"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
+      "title": "Fright Fest",
+      "description": "Mission's Halloween fest: haunted houses, creepy photo ops, sinister games, and family-friendly frights.",
+      "start": "2026-10-25T18:00:00-05:00",
+      "venue": "Allysa's Acres",
+      "city": "Mission",
+      "address": "Mission, TX",
+      "category": "city",
+      "url": "https://couriertexas.com/local/things-to-do/things-to-do-in-the-rio-grande-valley/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "fright-fest-2026-10-25",
+      "tags": [
+        "city",
+        "mission"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
@@ -10725,6 +11037,32 @@
       "tags": [
         "city",
         "edinburg"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Trunk or Treat Boo Bash (Pharr)",
+      "description": "Free community trunk-or-treat.",
+      "start": "2026-10-30T16:00:00-05:00",
+      "venue": "Rodeo Dental & Orthodontics",
+      "city": "Pharr",
+      "address": "Pharr, TX",
+      "category": "city",
+      "price": "Free",
+      "url": "https://stayhappening.com/pharr",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "image": "",
+      "id": "trunk-or-treat-boo-bash-pharr-2026-10-30",
+      "tags": [
+        "city",
+        "pharr"
       ],
       "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
@@ -12139,6 +12477,32 @@
       "booth": false
     },
     {
+      "title": "La Vecindad Tri-City Anniversary 5K",
+      "description": "Anniversary 5K run.",
+      "start": "2026-11-07T07:30:00-06:00",
+      "venue": "",
+      "city": "Pharr",
+      "address": "119 S. Cage Blvd., Pharr, TX",
+      "category": "run",
+      "url": "https://stayhappening.com/pharr",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "la-vecindad-tri-city-anniversary-5k-2026-11-07",
+      "tags": [
+        "pharr",
+        "run"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "Daniel A. Saldana Memorial \"Share the Love 5K\"",
       "description": "Memorial 5K raising awareness for epilepsy and SUDEP, with proceeds benefiting Daniel's Closet at the South Texas College Technology Campus. Organized by HOG Racing; price increases after September 12 and shirt deadline is October 25.",
       "start": "2026-11-07T08:00:00-06:00",
@@ -13491,6 +13855,32 @@
       "recurring": false
     },
     {
+      "title": "Wild Tales (Zoo Literacy Event)",
+      "description": "Literacy event with live animals and children's book authors; free books for young readers; discounted admission for all guests.",
+      "start": "2026-11-14T10:00:00-06:00",
+      "end": "2026-11-14T15:00:00-06:00",
+      "venue": "Gladys Porter Zoo",
+      "city": "Brownsville",
+      "address": "500 E. Ringgold St., Brownsville, TX",
+      "category": "other",
+      "price": "$6-$7",
+      "url": "https://gpz.org/events/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "image": "",
+      "id": "wild-tales-zoo-literacy-event-2026-11-14",
+      "tags": [
+        "brownsville",
+        "other"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
       "title": "November Market",
       "description": "A community vendor market in McAllen.",
       "start": "2026-11-14T14:00:00-05:00",
@@ -13855,6 +14245,32 @@
       "recurring": false
     },
     {
+      "title": "Adrian Marcelo Live",
+      "description": "Live show.",
+      "start": "2026-11-18T20:00:00-06:00",
+      "venue": "The Citrus Live",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "shows",
+      "url": "https://rgv.me/",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "adrian-marcelo-live-2026-11-18",
+      "tags": [
+        "edinburg",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false
+    },
+    {
       "title": "NHPO-RGV Monthly Networking Event",
       "description": "National Hispanic Professionals Organization RGV monthly networking mixer, held every third Thursday of the month from 6:00-9:00 PM per the organization's standing schedule. November venue not yet announced; September and October editions are already on the calendar.",
       "start": "2026-11-19T18:00:00-06:00",
@@ -14008,6 +14424,32 @@
         "nonprofit"
       ],
       "booth": false
+    },
+    {
+      "title": "Mike Salazar: El Caballero de la Comedia",
+      "description": "Stand-up comedy.",
+      "start": "2026-11-20T20:00:00-06:00",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "shows",
+      "url": "https://www.ticketmaster.ca/mcallen-performing-arts-center-tickets-mcallen/venue/476148",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "mike-salazar-el-caballero-de-la-comedia-2026-11-20",
+      "tags": [
+        "mcallen",
+        "shows"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
     },
     {
       "title": "Rio Grande Valley Vipers vs. Laketown Squadron",
@@ -14369,6 +14811,32 @@
         "other"
       ],
       "organization": "SeatGeek / Ticketmaster",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false
+    },
+    {
+      "title": "Larry Hernandez",
+      "description": "Concert.",
+      "start": "2026-11-24T20:00:00-06:00",
+      "venue": "Palenque Hidalgo (Payne Arena)",
+      "city": "Hidalgo",
+      "address": "Hidalgo, TX",
+      "category": "concerts",
+      "url": "https://www.ticketmaster.ca/payne-arena-tickets-hidalgo/venue/475863",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "end": "",
+      "price": "",
+      "image": "",
+      "id": "larry-hernandez-2026-11-24",
+      "tags": [
+        "concerts",
+        "hidalgo"
+      ],
+      "organization": "Nyx (muse.ai Facebook-events agent)",
       "county": "Hidalgo",
       "confidence": "high",
       "recurring": false
