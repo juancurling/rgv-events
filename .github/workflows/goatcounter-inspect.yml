@@ -7,15 +7,12 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Login then dump /user page
+      - name: Login then dump /user page raw
         run: |
           curl -sS -c /tmp/cookies.txt \
             -X POST https://events956.goatcounter.com/user/requestlogin \
             --data-urlencode "email=juan@yourfrontline.com" \
             --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
             -o /dev/null
-          curl -sS -b /tmp/cookies.txt https://events956.goatcounter.com/user -o /tmp/user.html
-          echo "=== forms ==="
-          grep -o '<form[^>]*>' /tmp/user.html
-          echo "=== inputs ==="
-          grep -o '<input[^>]*>' /tmp/user.html
+          curl -sS -i -b /tmp/cookies.txt https://events956.goatcounter.com/user -o /tmp/user.html
+          cat /tmp/user.html
