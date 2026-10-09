@@ -7,15 +7,15 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Login then dump settings/main
+      - name: Login then dump /user page
         run: |
           curl -sS -c /tmp/cookies.txt \
             -X POST https://events956.goatcounter.com/user/requestlogin \
             --data-urlencode "email=juan@yourfrontline.com" \
             --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
             -o /dev/null
-          curl -sS -b /tmp/cookies.txt https://events956.goatcounter.com/settings/main -o /tmp/settings.html
-          echo "=== links mentioning password/user ==="
-          grep -o '<a [^>]*href="[^"]*"[^>]*>[^<]*</a>' /tmp/settings.html | grep -i 'password\|user\|account\|security'
-          echo "=== all forms ==="
-          grep -o '<form[^>]*>' /tmp/settings.html
+          curl -sS -b /tmp/cookies.txt https://events956.goatcounter.com/user -o /tmp/user.html
+          echo "=== forms ==="
+          grep -o '<form[^>]*>' /tmp/user.html
+          echo "=== inputs ==="
+          grep -o '<input[^>]*>' /tmp/user.html
