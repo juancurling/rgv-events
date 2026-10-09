@@ -7,12 +7,13 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Login then dump /user/pref page
+      - name: Inspect /user/forgot form, then submit it
         run: |
-          curl -sS -c /tmp/cookies.txt \
-            -X POST https://events956.goatcounter.com/user/requestlogin \
+          curl -sS https://events956.goatcounter.com/user/forgot -o /tmp/forgot.html
+          echo "=== form ==="
+          grep -o '<form[^>]*>\|<input[^>]*>' /tmp/forgot.html
+          echo "=== submitting ==="
+          curl -sS -i -X POST https://events956.goatcounter.com/user/forgot \
             --data-urlencode "email=juan@yourfrontline.com" \
-            --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
-            -o /dev/null
-          curl -sS -b /tmp/cookies.txt https://events956.goatcounter.com/user/pref -o /tmp/pref.html
-          cat /tmp/pref.html
+            -o /tmp/forgot_resp.html
+          cat /tmp/forgot_resp.html
