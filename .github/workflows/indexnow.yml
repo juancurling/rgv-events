@@ -12,6 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check key file is live
+        run: |
+          code=$(curl -s -o /tmp/keyfile -w "%{http_code}" https://events956.com/a5289c4c641bac0ee08a3ee8e3d0c53b.txt)
+          echo "HTTP $code"
+          cat /tmp/keyfile
       - name: Submit sitemap URLs to IndexNow
         env:
           INDEXNOW_KEY: a5289c4c641bac0ee08a3ee8e3d0c53b
