@@ -7,12 +7,12 @@ jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
-      - name: Login then dump /user page raw
+      - name: Login then dump /user/pref page
         run: |
           curl -sS -c /tmp/cookies.txt \
             -X POST https://events956.goatcounter.com/user/requestlogin \
             --data-urlencode "email=juan@yourfrontline.com" \
             --data-urlencode "password=bODuRaVHQ0GqCyO1G2ZR" \
             -o /dev/null
-          curl -sS -i -b /tmp/cookies.txt https://events956.goatcounter.com/user -o /tmp/user.html
-          cat /tmp/user.html
+          curl -sS -b /tmp/cookies.txt https://events956.goatcounter.com/user/pref -o /tmp/pref.html
+          cat /tmp/pref.html
