@@ -92,6 +92,7 @@ def page(title, desc, canonical, body, jsonld=None):
 <header><div class="wrap"><a class="logo" href="/">Events<span>956</span></a></div></header>
 <main class="wrap">{body}</main>
 <footer><div class="wrap">Events956.com — The Rio Grande Valley's event calendar. Free for everyone, always.</div></footer>
+<script data-goatcounter="https://events956.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>"""
 
