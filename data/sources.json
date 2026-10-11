@@ -1097,6 +1097,24 @@
       "url": "https://www.weslaco.com/vendor-booths/",
       "priority": 1,
       "notes": "Added 2026-09-26 per Juan: dedicated page for vendor-booth signups at Weslaco-area events. Directly relevant to the Booth-opportunities filter — check every sweep."
+    },
+    {
+      "id": "endurancegrid",
+      "name": "EnduranceGrid (race directory)",
+      "type": "race-directory",
+      "method": "websearch",
+      "url": "https://www.endurancegrid.com/",
+      "priority": 2,
+      "notes": "Discovered 2026-10-11 weekly sweep — surfaces smaller RGV 5K/10K races (Zombie Chase, Top Gym Road Race, Casa Lidia Turkey Trot) not always on RunSignup/RunningInTheUSA. Direct fetch blocked; use WebSearch."
+    },
+    {
+      "id": "thecraftmap",
+      "name": "TheCraftMap (vendor/market fair directory)",
+      "type": "listings",
+      "method": "websearch",
+      "url": "https://www.thecraftmap.com/",
+      "priority": 2,
+      "notes": "Discovered 2026-10-11 weekly sweep — surfaces RGV vendor-booth fairs/markets (Family Faith Festival Mission, Harlingen Market Days, Alfresco Weslaco) often before the host chamber/city site lists them. Direct fetch blocked; use WebSearch."
     }
   ]
 }
