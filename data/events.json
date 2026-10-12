@@ -13388,21 +13388,21 @@
     },
     {
       "title": "South Texas International Book Festival: Diana Rojas Book Launch (\"They Hold Grudges\")",
-      "description": "Free South Texas International Book Festival author book launch. Date confirmed as Tuesday, November 10, 2026 (resolves prior ambiguity between Nov 10/11).",
-      "start": "2026-11-10T19:00:00-06:00",
-      "end": "2026-11-10T20:00:00-06:00",
+      "description": "Free South Texas International Book Festival author book launch, 7:00 PM. Date conflicts between sources persist: exploremcallen.com's own McAllen Public Library venue page states Wednesday, Nov 11 (used here); texasborderbusiness.com previously stated Tuesday, Nov 10. Neither independently confirmed.",
+      "start": "2026-11-11T19:00:00-06:00",
+      "end": "2026-11-11T20:00:00-06:00",
       "venue": "McAllen Public Library",
       "city": "McAllen",
       "address": "4001 N 23rd St., McAllen, TX",
       "category": "shows",
       "price": "Free",
-      "url": "https://texasborderbusiness.com/south-texas-book-festival-goes-international-for-2026/",
-      "source": "Texas Border Business / Nyx (muse.ai Facebook-events agent)",
+      "url": "https://www.exploremcallen.com/venue/mcallen-public-library/",
+      "source": "exploremcallen.com (McAllen Public Library) / Nyx (muse.ai Facebook-events agent)",
       "sponsorship": false,
       "booth": false,
       "verified": false,
       "image": "",
-      "id": "south-texas-international-book-festival-diana-rojas-book-launch-they-hold-grudges-2026-11-10",
+      "id": "south-texas-international-book-festival-diana-rojas-book-launch-they-hold-grudges-2026-11-11",
       "tags": [
         "mcallen",
         "shows"
@@ -18485,6 +18485,84 @@
       "tags": [
         "mcallen",
         "run"
+      ]
+    },
+    {
+      "title": "Mariachazo: Mariachi Vargas de Tecalitlán & Nuevo Tecatitlán Mariachi",
+      "description": "Mariachi concert featuring Mariachi Vargas de Tecalitlan and Nuevo Tecalitlan Mariachi.",
+      "start": "2026-10-17T20:00:00-05:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "801 Convention Center Blvd, McAllen, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.mcallentheater.com/events/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "mariachazo-mariachi-vargas-de-tecalitlan-nuevo-tecatitlan-mariachi-2026-10-17",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ]
+    },
+    {
+      "title": "UTRGV Men's Soccer vs Incarnate Word",
+      "description": "UTRGV Vaqueros men's soccer home match.",
+      "start": "2026-10-29T19:00:00-05:00",
+      "end": "",
+      "venue": "UTRGV Soccer & Track & Field Complex",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "games",
+      "price": "",
+      "url": "https://goutrgv.com/sports/mens-soccer/schedule",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "utrgv-men-s-soccer-vs-incarnate-word-2026-10-29",
+      "tags": [
+        "edinburg",
+        "games"
+      ]
+    },
+    {
+      "title": "Día de los Muertos Celebration",
+      "description": "Community Día de los Muertos celebration.",
+      "start": "2026-10-30T18:00:00-05:00",
+      "end": "",
+      "venue": "The Church of Jesus Christ of Latter-day Saints",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "religious",
+      "price": "",
+      "url": "https://www.eventbrite.com/d/tx--edinburg/los-muertos-festtival/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "dia-de-los-muertos-celebration-2026-10-30",
+      "tags": [
+        "brownsville",
+        "religious"
       ]
     }
   ]
