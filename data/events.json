@@ -18694,6 +18694,110 @@
         "city",
         "san-juan"
       ]
+    },
+    {
+      "title": "STHS Children's Fall Festival",
+      "description": "Free Halloween festival: carnival rides, games, an illuminated spooky forest, food trucks, and treats; the first 500 children get ice cream and a commemorative 20th-anniversary T-shirt.",
+      "start": "2026-10-23T18:00:00-05:00",
+      "end": "2026-10-23T21:00:00-05:00",
+      "venue": "STHS Children's main parking lot",
+      "city": "Edinburg",
+      "address": "1102 W. Trenton Rd., Edinburg, TX",
+      "category": "city",
+      "price": "Free",
+      "url": "https://megadoctornews.com/sths-childrens-annual-childrens-fall-festival-oct-23rd/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "sths-children-s-fall-festival-2026-10-23",
+      "tags": [
+        "city",
+        "edinburg"
+      ]
+    },
+    {
+      "title": "McAllen Fall Festival",
+      "description": "North American Midway Entertainment carnival: 25+ rides, midway food, and games; free gate and parking, $35 unlimited ride wristbands. Open daily 5:30 PM, closed Tuesdays.",
+      "start": "2026-10-23T17:30:00-05:00",
+      "end": "2026-11-08T22:00:00-06:00",
+      "venue": "",
+      "city": "McAllen",
+      "address": "Expwy 83 & Ware Rd, McAllen, TX",
+      "category": "other",
+      "price": "Free gate/parking; $35 unlimited ride wristbands",
+      "url": "https://www.exploremcallen.com/events-calendar/month/?pagename=things-to-do%2Farts-culture%2Fmcallen-public-library&shortcode=4494df81",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "recurring": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "id": "mcallen-fall-festival-2026-10-23",
+      "tags": [
+        "mcallen",
+        "other"
+      ]
+    },
+    {
+      "title": "2026 RGV Nonprofit Summit",
+      "description": "\"Navigating with Purpose\": two keynotes and twelve sessions on nonprofit leadership, board governance, and resource development, plus free one-on-one legal consultations.",
+      "start": "2026-11-04T08:00:00-06:00",
+      "end": "2026-11-04T18:00:00-06:00",
+      "venue": "Brownsville Events Center",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "business",
+      "price": "",
+      "url": "https://onestarfoundation.org/event/2026-rgv-nonprofit-summit/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "2026-rgv-nonprofit-summit-2026-11-04",
+      "tags": [
+        "brownsville",
+        "business"
+      ]
+    },
+    {
+      "title": "The Franchise Connection: Meet Your Match",
+      "description": "Edinburg EDC's inaugural franchise matchmaking event connecting prospective franchise owners and investors with established brands expanding into the Edinburg market.",
+      "start": "2026-11-13T08:00:00-06:00",
+      "end": "",
+      "venue": "ACE Center",
+      "city": "Edinburg",
+      "address": "315 W. McIntyre St., Edinburg, TX",
+      "category": "business",
+      "price": "",
+      "url": "https://www.rgvbusinessjournal.com/news/12/10/2026/edinburg-franchise-matchmaking-event-november-2026-article/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "the-franchise-connection-meet-your-match-2026-11-13",
+      "tags": [
+        "business",
+        "edinburg"
+      ]
     }
   ]
 }
