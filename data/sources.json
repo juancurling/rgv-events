@@ -1115,6 +1115,15 @@
       "url": "https://www.thecraftmap.com/",
       "priority": 2,
       "notes": "Discovered 2026-10-11 weekly sweep — surfaces RGV vendor-booth fairs/markets (Family Faith Festival Mission, Harlingen Market Days, Alfresco Weslaco) often before the host chamber/city site lists them. Direct fetch blocked; use WebSearch."
+    },
+    {
+      "id": "riograndeguardian-calendar",
+      "name": "Rio Grande Guardian calendar mirror",
+      "type": "aggregator",
+      "method": "websearch",
+      "url": "https://riograndeguardian.com/calendar/",
+      "priority": 2,
+      "notes": "Discovered 2026-10-18 weekly sweep — one of only two sources (with business.rgvhcc.org/events/calendar) that reliably returned real October 2026-dated content via WebSearch in this sweep, when most primary chamber/city calendar domains (exploremcallen.com, edinburgarts.com, missiontexas.us, pharr-tx.gov, weslacotx.gov, brownsvilletx.gov, mcallenisd.org, ecisd.us, etc.) returned only stale cached pages. Direct fetch blocked; use WebSearch. Good for RGVHCC chamber mixers/orientations."
     }
   ]
 }
