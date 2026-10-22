@@ -21684,6 +21684,84 @@
         "business",
         "mcallen"
       ]
+    },
+    {
+      "title": "3rd Annual La Plaza Terminal Christmas Tree Lighting",
+      "description": "Annual holiday tree lighting ceremony at La Plaza Terminal.",
+      "start": "2026-11-30T18:00:00-06:00",
+      "end": "",
+      "venue": "La Plaza Terminal",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://Christmas-Events-Near-Me.com/brownsville-tx-brownsville-holiday-market/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "3rd-annual-la-plaza-terminal-christmas-tree-lighting-2026-11-30",
+      "tags": [
+        "brownsville",
+        "city"
+      ]
+    },
+    {
+      "title": "Downtown Market Square Christmas Tree Lighting",
+      "description": "Downtown holiday tree lighting ceremony.",
+      "start": "2026-12-06T18:00:00-06:00",
+      "end": "",
+      "venue": "Market Square",
+      "city": "Brownsville",
+      "address": "Brownsville, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://Christmas-Events-Near-Me.com/brownsville-tx-brownsville-holiday-market/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "downtown-market-square-christmas-tree-lighting-2026-12-06",
+      "tags": [
+        "brownsville",
+        "city"
+      ]
+    },
+    {
+      "title": "The Whites of Texas",
+      "description": "Live music.",
+      "start": "2026-12-10T17:00:00-06:00",
+      "end": "",
+      "venue": "Coral Reef Lounge",
+      "city": "South Padre Island",
+      "address": "5301 Padre Blvd, South Padre Island, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.bandsintown.com/e/108965521",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "the-whites-of-texas-2026-12-10",
+      "tags": [
+        "concerts",
+        "south-padre-island"
+      ]
     }
   ]
 }
