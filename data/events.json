@@ -22178,6 +22178,84 @@
         "farmers-market",
         "mcallen"
       ]
+    },
+    {
+      "title": "Counter Stroke Symposium",
+      "description": "Stroke awareness medical symposium.",
+      "start": "2026-10-29T09:00:00-05:00",
+      "end": "",
+      "venue": "South Texas College Health Science Professions Campus",
+      "city": "McAllen",
+      "address": "1901 S McColl Rd, McAllen, TX",
+      "category": "business",
+      "price": "",
+      "url": "https://allevents.in/hidalgo-tx/exhibitions?ref=category-buckets-bluebar",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "counter-stroke-symposium-2026-10-29",
+      "tags": [
+        "business",
+        "mcallen"
+      ]
+    },
+    {
+      "title": "First Friday – SPI Art Walk",
+      "description": "Monthly art gallery walk.",
+      "start": "2026-11-06T18:00:00-06:00",
+      "end": "",
+      "venue": "Quinn Gallery",
+      "city": "South Padre Island",
+      "address": "2500 Padre Blvd, South Padre Island, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://www.burbio.com/lists/lower-valley-krgv/widget",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "first-friday-spi-art-walk-2026-11-06",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ]
+    },
+    {
+      "title": "Roberto Tapia",
+      "description": "Live music concert.",
+      "start": "2026-11-13T20:00:00-06:00",
+      "end": "",
+      "venue": "Easy Eight's",
+      "city": "McAllen",
+      "address": "Easy Eight's, McAllen, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.eventworld.com/mcallen-tx",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "roberto-tapia-2026-11-13",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ]
     }
   ]
 }
