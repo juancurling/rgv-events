@@ -22308,6 +22308,84 @@
         "farmers-market",
         "weslaco"
       ]
+    },
+    {
+      "title": "LittFest 2k26",
+      "description": "Music festival.",
+      "start": "2026-11-21T19:00:00-06:00",
+      "end": "",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Bert Ogden Arena, Edinburg, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://allevents.in/edinburg-tx/festivals",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "littfest-2k26-2026-11-21",
+      "tags": [
+        "concerts",
+        "edinburg"
+      ]
+    },
+    {
+      "title": "Snoopy's Fallin' Market",
+      "description": "Fall vendor market.",
+      "start": "2026-11-21T10:00:00-06:00",
+      "end": "",
+      "venue": "Bert Ogden Arena",
+      "city": "Edinburg",
+      "address": "Bert Ogden Arena, Edinburg, TX",
+      "category": "farmers-market",
+      "price": "",
+      "url": "https://allevents.in/edinburg-tx/festivals",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "snoopy-s-fallin-market-2026-11-21",
+      "tags": [
+        "edinburg",
+        "farmers-market"
+      ]
+    },
+    {
+      "title": "SPI Winter Wonderland",
+      "description": "Festive holiday pop-up event.",
+      "start": "2026-12-11T17:00:00-06:00",
+      "end": "2026-12-11T21:00:00-06:00",
+      "venue": "The Green at Jim's Pier",
+      "city": "South Padre Island",
+      "address": "Jim's Pier, South Padre Island, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://www.vacationer.travel/this-unique-texas-isle-is-a-festive-tropical-wonderland/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false,
+      "id": "spi-winter-wonderland-2026-12-11",
+      "tags": [
+        "city",
+        "south-padre-island"
+      ]
     }
   ]
 }
