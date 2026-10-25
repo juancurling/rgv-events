@@ -22256,6 +22256,58 @@
         "concerts",
         "mcallen"
       ]
+    },
+    {
+      "title": "1058th End of Tour Race",
+      "description": "5K or full-marathon option race.",
+      "start": "2026-11-15T06:00:00-06:00",
+      "end": "",
+      "venue": "",
+      "city": "McAllen",
+      "address": "1000 S Ware Rd, McAllen, TX",
+      "category": "run",
+      "price": "",
+      "url": "https://findarace.com/us/events/1058th-end-of-tour-race",
+      "image": "",
+      "source": "events956 weekly sweep",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "events956 weekly sweep",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "1058th-end-of-tour-race-2026-11-15",
+      "tags": [
+        "mcallen",
+        "run"
+      ]
+    },
+    {
+      "title": "Weslaco Music & Art on the Street (15th)",
+      "description": "Annual street vendor/craft and music fair.",
+      "start": "2027-02-18T18:00:00-06:00",
+      "end": "",
+      "venue": "",
+      "city": "Weslaco",
+      "address": "Weslaco, TX",
+      "category": "farmers-market",
+      "price": "",
+      "url": "https://www.thecraftmap.com/fair/music-art-on-the-street-15th-weslaco-tx",
+      "image": "",
+      "source": "events956 weekly sweep",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "organization": "events956 weekly sweep",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "weslaco-music-art-on-the-street-15th-2027-02-18",
+      "tags": [
+        "farmers-market",
+        "weslaco"
+      ]
     }
   ]
 }
