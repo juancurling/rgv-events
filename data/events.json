@@ -22386,6 +22386,84 @@
         "city",
         "south-padre-island"
       ]
+    },
+    {
+      "title": "Omar Camacho",
+      "description": "Live music concert.",
+      "start": "2026-12-12T20:00:00-06:00",
+      "end": "",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "Payne Arena, Hidalgo, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.ticketmaster.com/payne-arena-tickets-hidalgo/venue/475863",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "omar-camacho-2026-12-12",
+      "tags": [
+        "concerts",
+        "hidalgo"
+      ]
+    },
+    {
+      "title": "Kevin Fowler & Roger Creager",
+      "description": "Live country music concert.",
+      "start": "2026-12-12T19:00:00-06:00",
+      "end": "",
+      "venue": "San Juan Municipal Park",
+      "city": "San Juan",
+      "address": "San Juan Municipal Park, San Juan, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.eventworld.com/mcallen-tx",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "kevin-fowler-roger-creager-2026-12-12",
+      "tags": [
+        "concerts",
+        "san-juan"
+      ]
+    },
+    {
+      "title": "McAllen Wind Ensemble: The Most Wonderful Time of the Year (Christmas concert, free)",
+      "description": "Free Christmas-themed wind ensemble concert.",
+      "start": "2026-12-18T19:30:00-06:00",
+      "end": "",
+      "venue": "McAllen Performing Arts Center",
+      "city": "McAllen",
+      "address": "McAllen Performing Arts Center, McAllen, TX",
+      "category": "concerts",
+      "price": "Free",
+      "url": "https://www.wintertexantimes.com/news/entertainment/5617-mcallen-wind-ensemble-announces-2026-2027-concert-season.html",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "mcallen-wind-ensemble-the-most-wonderful-time-of-the-year-christmas-concert-free-2026-12-18",
+      "tags": [
+        "concerts",
+        "mcallen"
+      ]
     }
   ]
 }
