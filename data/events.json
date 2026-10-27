@@ -22464,6 +22464,58 @@
         "concerts",
         "mcallen"
       ]
+    },
+    {
+      "title": "A Salute to Valley Veterans Concert & Community Fair",
+      "description": "Veterans tribute concert and community fair.",
+      "start": "2026-11-07T18:00:00-06:00",
+      "end": "2026-11-07T20:00:00-06:00",
+      "venue": "South Texas Health System Edinburg",
+      "city": "Edinburg",
+      "address": "1102 W Trenton Rd, Edinburg, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://megadoctornews.com/sths-to-honor-rgv-veterans-with-concert-community-fair-nov-7th/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "a-salute-to-valley-veterans-concert-community-fair-2026-11-07",
+      "tags": [
+        "city",
+        "edinburg"
+      ]
+    },
+    {
+      "title": "Siggno",
+      "description": "Live music concert.",
+      "start": "2026-11-14T20:00:00-06:00",
+      "end": "",
+      "venue": "Mercedes Sports Complex and Walking Trail",
+      "city": "Mercedes",
+      "address": "Mercedes Sports Complex and Walking Trail, Mercedes, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://allevents.in/port-isabel/festivals",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "siggno-2026-11-14",
+      "tags": [
+        "concerts",
+        "mercedes"
+      ]
     }
   ]
 }
