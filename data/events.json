@@ -22516,6 +22516,58 @@
         "concerts",
         "mercedes"
       ]
+    },
+    {
+      "title": "Spooky Sunset on the Boardwalk",
+      "description": "Halloween-themed evening nature program on the boardwalk.",
+      "start": "2026-10-28T18:00:00-05:00",
+      "end": "",
+      "venue": "South Padre Island Birding, Nature Center & Alligator Sanctuary",
+      "city": "South Padre Island",
+      "address": "6801 Padre Blvd, South Padre Island, TX",
+      "category": "other",
+      "price": "",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/southpadretx/2026_Fall_Events_Release_FINAL_f4779903-4dcb-4a0d-8368-76d970077890.pdf",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "spooky-sunset-on-the-boardwalk-2026-10-28",
+      "tags": [
+        "other",
+        "south-padre-island"
+      ]
+    },
+    {
+      "title": "Edinburg Fall Collection Event",
+      "description": "City-wide bulk item collection event at four park drop-off locations.",
+      "start": "2026-11-14T08:00:00-06:00",
+      "end": "2026-11-14T12:00:00-06:00",
+      "venue": "Memorial Park, Norma Linda Treviño Park, Fountain Center Park & De Zavala Park",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://texasborderbusiness.com/city-of-edinburgs-fall-collection-event-on-november-14th/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "edinburg-fall-collection-event-2026-11-14",
+      "tags": [
+        "city",
+        "edinburg"
+      ]
     }
   ]
 }
