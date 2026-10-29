@@ -22568,6 +22568,84 @@
         "city",
         "edinburg"
       ]
+    },
+    {
+      "title": "UTRGV Women vs Arlington Baptist Patriots (basketball)",
+      "description": "UTRGV Vaqueros women's basketball season opener against Arlington Baptist.",
+      "start": "2026-11-02T00:00:00-06:00",
+      "end": "",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "1201 W University Dr, Edinburg, TX",
+      "category": "games",
+      "price": "",
+      "url": "https://goutrgv.com/news/2026/8/13/womens-basketball-set-to-open-2026-27-on-nov-2-at-home.aspx",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "utrgv-women-vs-arlington-baptist-patriots-basketball-2026-11-02",
+      "tags": [
+        "edinburg",
+        "games"
+      ]
+    },
+    {
+      "title": "UTRGV Men vs Texas A&M–Kingsville Javelinas (basketball)",
+      "description": "UTRGV Vaqueros men's basketball season opener against Texas A&M–Kingsville.",
+      "start": "2026-11-02T00:00:00-06:00",
+      "end": "",
+      "venue": "UTRGV Fieldhouse",
+      "city": "Edinburg",
+      "address": "1201 W University Dr, Edinburg, TX",
+      "category": "games",
+      "price": "",
+      "url": "https://goutrgv.com/news/2026/8/14/mens-basketball-announces-full-2026-27-schedule-season-opens-nov-2.aspx",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "utrgv-men-vs-texas-a-mkingsville-javelinas-basketball-2026-11-02",
+      "tags": [
+        "edinburg",
+        "games"
+      ]
+    },
+    {
+      "title": "Stiff Bizkit USA – Limp Bizkit Experience",
+      "description": "Limp Bizkit tribute band performance.",
+      "start": "2026-12-18T19:00:00-06:00",
+      "end": "",
+      "venue": "Payne Arena",
+      "city": "Hidalgo",
+      "address": "2600 N 10th St, Hidalgo, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.bandsintown.com/v/10098739-payne-arena?came_from=250&utm_medium=web&utm_source=artist_event_page&utm_campaign=venue_info",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "stiff-bizkit-usa-limp-bizkit-experience-2026-12-18",
+      "tags": [
+        "concerts",
+        "hidalgo"
+      ]
     }
   ]
 }
