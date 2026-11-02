@@ -22984,6 +22984,58 @@
         "mcallen",
         "networking"
       ]
+    },
+    {
+      "title": "RGV Upscale Speed Dating (Ages: Late 20s – Early 40s)",
+      "description": "Upscale speed dating event for ages late 20s to early 40s.",
+      "start": "2026-11-05T19:00:00-06:00",
+      "end": "",
+      "venue": "",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "networking",
+      "price": "",
+      "url": "https://www.exploremcallen.com/events-calendar/?tribe_redirected=1",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "rgv-upscale-speed-dating-ages-late-20s-early-40s-2026-11-05",
+      "tags": [
+        "mcallen",
+        "networking"
+      ]
+    },
+    {
+      "title": "Storytelling & Influence Masterclass | McAllen",
+      "description": "Workshop on storytelling and influence skills.",
+      "start": "2026-12-08T18:00:00-06:00",
+      "end": "2026-12-08T20:30:00-06:00",
+      "venue": "Cambria Hotel Convention Center",
+      "city": "McAllen",
+      "address": "McAllen, TX",
+      "category": "business",
+      "price": "",
+      "url": "https://www.exploremcallen.com/events-calendar/?tribe_redirected=1",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "storytelling-influence-masterclass-mcallen-2026-12-08",
+      "tags": [
+        "business",
+        "mcallen"
+      ]
     }
   ]
 }
