@@ -23036,6 +23036,110 @@
         "business",
         "mcallen"
       ]
+    },
+    {
+      "title": "Lone Star Night Market & Street Food Fest",
+      "description": "Vendor and street food night market.",
+      "start": "2026-11-13T10:00:00-06:00",
+      "end": "2026-11-15T22:00:00-06:00",
+      "venue": "",
+      "city": "Weslaco",
+      "address": "1625 N Business FM 1015, Weslaco, TX",
+      "category": "farmers-market",
+      "price": "",
+      "url": "https://www.eventbrite.com/d/tx--mcallen/rio-grande-valley",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "lone-star-night-market-street-food-fest-2026-11-13",
+      "tags": [
+        "farmers-market",
+        "weslaco"
+      ]
+    },
+    {
+      "title": "GIS Day 2026 – RGVAUG",
+      "description": "Geographic Information Systems Day conference hosted by the RGV ArcUser Group.",
+      "start": "2026-11-19T00:00:00-06:00",
+      "end": "2026-11-20T23:59:00-06:00",
+      "venue": "Edinburg Cultural Arts",
+      "city": "Edinburg",
+      "address": "315 W McIntyre St, Edinburg, TX",
+      "category": "business",
+      "price": "",
+      "url": "https://www.eventbrite.com/d/tx--mcallen/rio-grande-valley",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "gis-day-2026-rgvaug-2026-11-19",
+      "tags": [
+        "business",
+        "edinburg"
+      ]
+    },
+    {
+      "title": "Our Little Thanksgiving Celebration Weekend",
+      "description": "Community Thanksgiving celebration weekend at Dean Porter Park.",
+      "start": "2026-11-28T10:00:00-06:00",
+      "end": "2026-11-29T22:00:00-06:00",
+      "venue": "Dean Porter Park",
+      "city": "Brownsville",
+      "address": "501 E Ringgold St, Brownsville, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://allevents.in/brownsville/festivals",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false,
+      "id": "our-little-thanksgiving-celebration-weekend-2026-11-28",
+      "tags": [
+        "brownsville",
+        "city"
+      ]
+    },
+    {
+      "title": "Christmas Water Lantern Festival",
+      "description": "Water lantern release festival, holiday edition.",
+      "start": "2026-12-20T16:44:00-06:00",
+      "end": "2026-12-20T20:00:00-06:00",
+      "venue": "Brownsville Events Center",
+      "city": "Brownsville",
+      "address": "1 Events Center Blvd, Brownsville, TX",
+      "category": "city",
+      "price": "",
+      "url": "https://thefloatinglanterns.com/events/christmas-water-lantern-festival/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false,
+      "id": "christmas-water-lantern-festival-2026-12-20",
+      "tags": [
+        "brownsville",
+        "city"
+      ]
     }
   ]
 }
