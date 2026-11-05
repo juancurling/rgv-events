@@ -21998,7 +21998,7 @@
       ]
     },
     {
-      "title": "McAllen Wind Ensemble – Season Opener (Free Concert)",
+      "title": "McAllen Wind Ensemble: 250 Reasons to be Thankful",
       "description": "Free season-opening wind ensemble concert.",
       "start": "2026-11-11T19:00:00-06:00",
       "end": "",
@@ -22007,7 +22007,7 @@
       "address": "McAllen Performing Arts Center, McAllen, TX",
       "category": "concerts",
       "price": "Free",
-      "url": "https://texasborderbusiness.com/mcallen-arts-foundation-expands-scholarships-free-concerts-and-youth-opportunities/",
+      "url": "https://texasborderbusiness.com/mcallen-wind-ensemble-honors-veterans-with-250-reasons-to-be-thankful-nov-11th/",
       "image": "",
       "source": "Nyx (muse.ai Facebook-events agent)",
       "sponsorship": false,
@@ -23139,6 +23139,58 @@
       "tags": [
         "brownsville",
         "city"
+      ]
+    },
+    {
+      "title": "956 Music Fest",
+      "description": "Music festival at Mercedes Sports Complex.",
+      "start": "2026-11-14T00:00:00-06:00",
+      "end": "",
+      "venue": "Mercedes Sports Complex & Walking Trail",
+      "city": "Mercedes",
+      "address": "Mercedes, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://allevents.in/brownsville/festivals",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "956-music-fest-2026-11-14",
+      "tags": [
+        "concerts",
+        "mercedes"
+      ]
+    },
+    {
+      "title": "Miles with Santa 2026",
+      "description": "Holiday-themed fun run.",
+      "start": "2026-12-06T00:00:00-06:00",
+      "end": "",
+      "venue": "Edinburg Municipal Park",
+      "city": "Edinburg",
+      "address": "Edinburg, TX",
+      "category": "run",
+      "price": "",
+      "url": "https://sportsracingup.com/miles-with-santa-2026/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "miles-with-santa-2026-2026-12-06",
+      "tags": [
+        "edinburg",
+        "run"
       ]
     }
   ]
