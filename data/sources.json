@@ -1124,6 +1124,15 @@
       "url": "https://riograndeguardian.com/calendar/",
       "priority": 2,
       "notes": "Discovered 2026-10-18 weekly sweep — one of only two sources (with business.rgvhcc.org/events/calendar) that reliably returned real October 2026-dated content via WebSearch in this sweep, when most primary chamber/city calendar domains (exploremcallen.com, edinburgarts.com, missiontexas.us, pharr-tx.gov, weslacotx.gov, brownsvilletx.gov, mcallenisd.org, ecisd.us, etc.) returned only stale cached pages. Direct fetch blocked; use WebSearch. Good for RGVHCC chamber mixers/orientations."
+    },
+    {
+      "id": "feverup-candlelight",
+      "name": "Fever (Candlelight concert series)",
+      "type": "listings",
+      "method": "websearch",
+      "url": "https://feverup.com/",
+      "priority": 2,
+      "notes": "Discovered 2026-11-08 weekly sweep — ticketing platform for the recurring \"Candlelight\" string-ensemble concert series at the Historic Alonso Building, Brownsville (multiple different programs per night, e.g. Vivaldi / Christmas Carols on Strings / Christmas Classics). Direct fetch blocked; use WebSearch (query e.g. \"Candlelight Brownsville feverup\")."
     }
   ]
 }

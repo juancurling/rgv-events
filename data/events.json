@@ -23478,6 +23478,110 @@
         "mcallen",
         "shows"
       ]
+    },
+    {
+      "title": "Endure 5K Run",
+      "description": "5K run benefiting the Covenant Christian Academy Athletic Booster Club.",
+      "start": "2026-12-05T08:00:00-06:00",
+      "end": "",
+      "venue": "Pharr Sports Complex",
+      "city": "Pharr",
+      "address": "Pharr, TX",
+      "category": "run",
+      "price": "",
+      "url": "https://findarace.com/us/events/endure-5k-run",
+      "image": "",
+      "source": "findarace.com",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "findarace.com",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "endure-5k-run-2026-12-05",
+      "tags": [
+        "pharr",
+        "run"
+      ]
+    },
+    {
+      "title": "Candlelight: Christmas Carols on Strings",
+      "description": "String ensemble candlelight concert performing Christmas carols.",
+      "start": "2026-12-18T19:00:00-06:00",
+      "end": "",
+      "venue": "Historic Alonso Building",
+      "city": "Brownsville",
+      "address": "510 E St Charles St, Brownsville, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://feverup.com/",
+      "image": "",
+      "source": "Fever (feverup.com)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Fever (feverup.com)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false,
+      "id": "candlelight-christmas-carols-on-strings-2026-12-18",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ]
+    },
+    {
+      "title": "Candlelight: Vivaldi",
+      "description": "String ensemble candlelight concert performing Vivaldi.",
+      "start": "2026-12-18T21:00:00-06:00",
+      "end": "",
+      "venue": "Historic Alonso Building",
+      "city": "Brownsville",
+      "address": "510 E St Charles St, Brownsville, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://feverup.com/",
+      "image": "",
+      "source": "Fever (feverup.com)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Fever (feverup.com)",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false,
+      "id": "candlelight-vivaldi-2026-12-18",
+      "tags": [
+        "brownsville",
+        "concerts"
+      ]
+    },
+    {
+      "title": "Harlingen Turkey Trot",
+      "description": "Thanksgiving-season Turkey Trot run.",
+      "start": "2026-11-21T07:00:00-06:00",
+      "end": "",
+      "venue": "2425 Boxwood St",
+      "city": "Harlingen",
+      "address": "2425 Boxwood St, Harlingen, TX",
+      "category": "run",
+      "price": "",
+      "url": "https://findarace.com/us/events/harlingen-turkey-trot",
+      "image": "",
+      "source": "findarace.com",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "organization": "findarace.com",
+      "county": "Cameron",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "harlingen-turkey-trot-2026-11-21",
+      "tags": [
+        "harlingen",
+        "run"
+      ]
     }
   ]
 }
