@@ -24311,6 +24311,110 @@
         "mcallen",
         "run"
       ]
+    },
+    {
+      "title": "Friday Night in Stars Hollow: A Gilmore Girls Themed Market",
+      "description": "Gilmore Girls-themed vendor market.",
+      "start": "2026-11-13T18:00:00-06:00",
+      "end": "",
+      "venue": "",
+      "city": "Weslaco",
+      "address": "400 S Kansas Ave, Weslaco, TX",
+      "category": "farmers-market",
+      "price": "",
+      "url": "https://allevents.in/weslaco/music?ref=calendar-bluebar",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "friday-night-in-stars-hollow-a-gilmore-girls-themed-market-2026-11-13",
+      "tags": [
+        "farmers-market",
+        "weslaco"
+      ]
+    },
+    {
+      "title": "Festival of Nativities",
+      "description": "Nativity-scene display festival hosted by the Church of Jesus Christ of Latter-day Saints.",
+      "start": "2026-12-05T18:00:00-06:00",
+      "end": "2026-12-06T19:00:00-06:00",
+      "venue": "",
+      "city": "Weslaco",
+      "address": "210 S Westgate Dr, Weslaco, TX",
+      "category": "religious",
+      "price": "",
+      "url": "https://local.churchofjesuschrist.org/en/units/us/tx/weslaco-texas-stake/events/festival-of-nativities",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent); Church of Jesus Christ",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent); Church of Jesus Christ",
+      "county": "Hidalgo",
+      "confidence": "high",
+      "recurring": false,
+      "id": "festival-of-nativities-2026-12-05",
+      "tags": [
+        "religious",
+        "weslaco"
+      ]
+    },
+    {
+      "title": "Startup Texas Pitch Fest 2026",
+      "description": "Startup pitch competition at the eBridge Center for Business & Commercialization.",
+      "start": "2026-12-09T17:30:00-06:00",
+      "end": "2026-12-09T19:30:00-06:00",
+      "venue": "eBridge Center for Business & Commercialization",
+      "city": "Brownsville",
+      "address": "1304 E Adams St, Brownsville, TX",
+      "category": "business",
+      "price": "",
+      "url": "https://texasborderbusiness.com/startup-texas-pitch-fest-returns-to-brownsville-december-9/",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent); Texas Border Business",
+      "sponsorship": false,
+      "booth": false,
+      "verified": true,
+      "organization": "Nyx (muse.ai Facebook-events agent); Texas Border Business",
+      "county": "Cameron",
+      "confidence": "high",
+      "recurring": false,
+      "id": "startup-texas-pitch-fest-2026-2026-12-09",
+      "tags": [
+        "brownsville",
+        "business"
+      ]
+    },
+    {
+      "title": "Rustic Ranch Market",
+      "description": "Vendor market at The Rustic Ranch Restaurant.",
+      "start": "2026-12-12T12:00:00-06:00",
+      "end": "",
+      "venue": "The Rustic Ranch Restaurant",
+      "city": "Weslaco",
+      "address": "Weslaco, TX",
+      "category": "farmers-market",
+      "price": "",
+      "url": "https://allevents.in/weslaco/parties?ref=amp-menu",
+      "image": "",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": true,
+      "verified": false,
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "rustic-ranch-market-2026-12-12",
+      "tags": [
+        "farmers-market",
+        "weslaco"
+      ]
     }
   ]
 }
