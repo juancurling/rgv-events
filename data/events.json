@@ -25836,6 +25836,58 @@
         "hidalgo",
         "shows"
       ]
+    },
+    {
+      "title": "Gerardo Coronel",
+      "description": "Live concert.",
+      "start": "2026-11-28T20:00:00-06:00",
+      "end": "",
+      "venue": "Volcan Music Hall",
+      "city": "Mission",
+      "address": "2605 W Mile 6 Rd, Mission, TX",
+      "category": "concerts",
+      "price": "",
+      "url": "https://www.eventworld.com/mcallen-tx/concerts",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "gerardo-coronel-2026-11-28",
+      "tags": [
+        "concerts",
+        "mission"
+      ]
+    },
+    {
+      "title": "Christmas Bingo / Bingo Navideño",
+      "description": "Christmas-themed community bingo night.",
+      "start": "2026-12-10T18:00:00-06:00",
+      "end": "",
+      "venue": "Mercado District",
+      "city": "McAllen",
+      "address": "4400 N 23rd St, McAllen, TX",
+      "category": "other",
+      "price": "",
+      "url": "https://allevents.in/mcallen/christmas",
+      "source": "Nyx (muse.ai Facebook-events agent)",
+      "sponsorship": false,
+      "booth": false,
+      "verified": false,
+      "image": "",
+      "organization": "Nyx (muse.ai Facebook-events agent)",
+      "county": "Hidalgo",
+      "confidence": "medium",
+      "recurring": false,
+      "id": "christmas-bingo-bingo-navideno-2026-12-10",
+      "tags": [
+        "mcallen",
+        "other"
+      ]
     }
   ]
 }
